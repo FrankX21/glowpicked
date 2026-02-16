@@ -79,6 +79,31 @@ const products = {
     }
   ]
 };
+
+const schemaItems = [...products.budget, ...products.luxury].map((p, i) => ({
+  "@type": "ListItem",
+  "position": i + 1,
+  "item": {
+    "@type": "Product",
+    "name": p.name,
+    "url": `https://www.amazon.com/dp/${p.asin}/ref=nosim?tag=glowpicked0c-20`,
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": p.rating,
+      "bestRating": 5,
+      "reviewCount": p.reviewCount
+    }
+  }
+}));
+
+const pageSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": `Best Body Care 2026 - Budget & Luxury Picks`,
+  "description": `AI-analyzed reviews for top body care on Amazon`,
+  "numberOfItems": 6,
+  "itemListElement": schemaItems
+});
 ---
 
 <Layout 
@@ -89,6 +114,7 @@ const products = {
     <div class="container">
       <div class="page-header">
         <h1>Best Body Care Products</h1>
+        <p class="last-updated">📅 Last updated: February 2026</p>
         <p class="lead-text">Our AI analyzed 25K+ real customer reviews to surface the top performers</p>
       </div>
 
@@ -158,6 +184,40 @@ const products = {
     </div>
   </section>
 
+  
+  
+  <section class="buying-guide">
+    <div class="container">
+      <h2>Buying Guide</h2>
+      <p class="guide-intro">Body skincare is often neglected, but the skin below your neck deserves the same attention as your face. From keratosis pilaris to dry winter skin, the right body products make a visible difference.</p>
+      <h3>Quick Tips</h3>
+      <ul class="guide-tips">
+            <li>💡 Apply body lotion within 3 minutes of showering to lock in moisture</li>
+            <li>💡 Exfoliating body washes with AHA/BHA help with rough, bumpy skin (keratosis pilaris)</li>
+            <li>💡 Body oils work best layered over damp skin — they seal in water, not replace it</li>
+            <li>💡 Don't forget your neck and chest — they age just as fast as your face</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="related-section">
+    <div class="container">
+      <h2>Continue Your Routine</h2>
+      <div class="related-grid">
+          <a href="/reviews/face-moisturizers" class="related-card">
+            <h3>Moisturizers</h3>
+            <p>Upgrade your face routine too</p>
+            <span class="related-arrow">→</span>
+          </a>
+          <a href="/reviews/skincare-tools" class="related-card">
+            <h3>Skincare Tools</h3>
+            <p>Enhance absorption with body tools</p>
+            <span class="related-arrow">→</span>
+          </a>
+      </div>
+    </div>
+  </section>
+
   <section class="disclaimer-section">
     <div class="container">
       <p>
@@ -168,6 +228,7 @@ const products = {
       </p>
     </div>
   </section>
+  <script type="application/ld+json" set:html={pageSchema} />
 </Layout>
 
 <style>
@@ -203,4 +264,21 @@ const products = {
   .disclaimer-section { padding: 3rem 0; background: #f8f9fa; }
   .disclaimer-section p { text-align: center; max-width: 800px; margin: 0 auto 1rem; color: var(--text-light); font-size: 0.95rem; }
   .affiliate-disclosure { font-size: 0.9rem; background: rgba(233, 30, 99, 0.1); padding: 1rem; border-radius: var(--border-radius); border-left: 4px solid var(--primary); }
+  .last-updated { text-align: center; color: #888; font-size: 0.9rem; margin-top: -0.5rem; margin-bottom: 2rem; }
+
+  .related-section { padding: 3rem 0; background: #fafafa; }
+  .related-section h2 { text-align: center; font-size: 1.8rem; margin-bottom: 2rem; font-family: 'Playfair Display', serif; }
+  .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; max-width: 800px; margin: 0 auto; }
+  .related-card { background: white; padding: 1.5rem; border-radius: 12px; text-decoration: none; color: var(--text); box-shadow: 0 2px 10px rgba(0,0,0,0.06); transition: all 0.2s; display: flex; flex-direction: column; }
+  .related-card:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(233,30,99,0.12); }
+  .related-card h3 { font-size: 1.2rem; margin-bottom: 0.5rem; color: #e91e63; }
+  .related-card p { color: #666; font-size: 0.95rem; flex: 1; }
+  .related-arrow { color: #e91e63; font-size: 1.3rem; font-weight: 700; }
+
+  .buying-guide { padding: 3rem 0; }
+  .buying-guide h2 { text-align: center; font-size: 1.8rem; margin-bottom: 1.5rem; font-family: 'Playfair Display', serif; }
+  .buying-guide h3 { font-size: 1.3rem; margin: 1.5rem 0 1rem; color: var(--text); }
+  .guide-intro { max-width: 800px; margin: 0 auto 1.5rem; font-size: 1.1rem; line-height: 1.7; color: #555; text-align: center; }
+  .guide-tips { list-style: none; max-width: 800px; margin: 0 auto; }
+  .guide-tips li { padding: 0.75rem 0; border-bottom: 1px solid #f0f0f0; font-size: 1rem; line-height: 1.5; color: var(--text); }
 </style>
