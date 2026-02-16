@@ -80,6 +80,11 @@ const products = {
   ]
 };
 
+
+// Find top pick in each tier (highest rating)
+const budgetTopIdx = products.budget.reduce((best, p, i) => p.rating > products.budget[best].rating ? i : best, 0);
+const luxuryTopIdx = products.luxury.reduce((best, p, i) => p.rating > products.luxury[best].rating ? i : best, 0);
+
 const schemaItems = [...products.budget, ...products.luxury].map((p, i) => ({
   "@type": "ListItem",
   "position": i + 1,
@@ -121,8 +126,9 @@ const pageSchema = JSON.stringify({
       <section class="budget-section">
         <h2><span class="accent-budget">🏆 Top 3 Budget</span> (Under $15)</h2>
         <div class="products-grid">
-          {products.budget.map((product) => (
+          {products.budget.map((product, index) => (
             <div class="product-card" data-asin={product.asin}>
+              {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating}⭐</span>
@@ -149,8 +155,9 @@ const pageSchema = JSON.stringify({
       <section class="luxury-section">
         <h2><span class="accent-luxury">💎 Top 3 Luxury</span></h2>
         <div class="products-grid">
-          {products.luxury.map((product) => (
+          {products.luxury.map((product, index) => (
             <div class="product-card" data-asin={product.asin}>
+              {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating}⭐</span>
@@ -287,4 +294,17 @@ const pageSchema = JSON.stringify({
   .guide-intro { max-width: 800px; margin: 0 auto 1.5rem; font-size: 1.1rem; line-height: 1.7; color: #555; text-align: center; }
   .guide-tips { list-style: none; max-width: 800px; margin: 0 auto; }
   .guide-tips li { padding: 0.75rem 0; border-bottom: 1px solid #f0f0f0; font-size: 1rem; line-height: 1.5; color: var(--text); }
+
+  .top-pick-badge {
+    background: linear-gradient(135deg, #ff6f00, #ff8f00);
+    color: white;
+    padding: 0.4rem 1rem;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    display: inline-block;
+    margin-bottom: 0.75rem;
+    box-shadow: 0 2px 8px rgba(255,111,0,0.3);
+    letter-spacing: 0.02em;
+  }
 </style>
