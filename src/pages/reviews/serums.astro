@@ -96,7 +96,7 @@ const products = {
         <h2><span class="accent-budget">🏆 Top 3 Budget</span> (Under $30)</h2>
         <div class="products-grid">
           {products.budget.map((product, index) => (
-            <div class="product-card" key={product.asin}>
+            <div class="product-card" key={product.asin} data-asin={product.asin}>
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating}⭐</span>
@@ -122,7 +122,7 @@ const products = {
         <h2><span class="accent-luxury">💎 Top 3 Luxury</span></h2>
         <div class="products-grid">
           {products.luxury.map((product, index) => (
-            <div class="product-card" key={product.asin}>
+            <div class="product-card" key={product.asin} data-asin={product.asin}>
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating}⭐</span>
