@@ -84,10 +84,11 @@
     
     // Check if consent already given
     const consent = localStorage.getItem('glow-cookie-consent');
-    console.log('Cookie consent check:', consent);
-    // TEMPORARY DEBUG: Always show banner for testing
-    banner.style.display = 'block';
-    console.log('Banner should be visible now');
+    
+    if (!consent) {
+      // Show banner if no consent given
+      banner.style.display = 'block';
+    }
     
     if (consent) {
       // Apply saved settings
@@ -169,25 +170,53 @@
   });
   
   function loadAnalytics() {
-    // Google Analytics 4 - Replace with your GA4 ID when available
-    if (!window.gtag) {
+    // Google Analytics 4 - GlowPicked tracking
+    const GA4_ID = 'G-XXXXXXXXXX'; // TODO: Replace with actual GA4 ID from Google Analytics
+    
+    if (!window.gtag && GA4_ID !== 'G-XXXXXXXXXX') {
       const script = document.createElement('script');
       script.async = true;
-      script.src = 'https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID';
+      script.src = `https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`;
       document.head.appendChild(script);
       
       script.onload = function() {
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
+        window.gtag = gtag;
         gtag('js', new Date());
-        gtag('config', 'GA_TRACKING_ID');
+        gtag('config', GA4_ID, {
+          // Privacy-compliant settings
+          anonymize_ip: true,
+          allow_google_signals: false,
+          allow_ad_personalization_signals: false
+        });
+        
+        // Custom event for affiliate tracking
+        gtag('event', 'page_view', {
+          page_title: document.title,
+          page_location: window.location.href
+        });
       };
     }
   }
   
   function loadMarketing() {
-    // Add marketing pixels here when needed
+    // Marketing cookies enabled - can add Facebook Pixel, Pinterest, etc.
     console.log('Marketing cookies enabled');
+    
+    // Amazon affiliate click tracking (if analytics enabled)
+    if (window.hasConsentFor('analytics')) {
+      document.addEventListener('click', function(e) {
+        const link = e.target.closest('a[href*="amazon.com"], a[href*="amzn.to"]');
+        if (link && window.gtag) {
+          gtag('event', 'click', {
+            event_category: 'affiliate',
+            event_label: link.href,
+            custom_parameter_product: link.textContent || 'Unknown Product'
+          });
+        }
+      });
+    }
   }
   
   // Export consent checker for other scripts
