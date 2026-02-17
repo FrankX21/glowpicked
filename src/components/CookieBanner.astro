@@ -84,9 +84,12 @@
     
     // Check if consent already given
     const consent = localStorage.getItem('glow-cookie-consent');
-    if (!consent) {
-      banner.style.display = 'block';
-    } else {
+    console.log('Cookie consent check:', consent);
+    // TEMPORARY DEBUG: Always show banner for testing
+    banner.style.display = 'block';
+    console.log('Banner should be visible now');
+    
+    if (consent) {
       // Apply saved settings
       const settings = JSON.parse(consent);
       if (settings.analytics) loadAnalytics();
