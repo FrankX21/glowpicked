@@ -1,22 +1,16 @@
 ---
-/**
- * FACE MOISTURIZERS - VERSION DYNAMIQUE 100% VÉRIDIQUE
- * Plus jamais de données hardcodées!
- * Utilise automatiquement real-review-counts.json
- */
 import Layout from '../../layouts/Layout.astro';
-import { processProductsList, generateProductSchema, generateGlobalStats } from '../../utils/realProductData.js';
 
-// DONNÉES DE BASE - Seules infos qu'on contrôle
-// Rating et reviewCount seront automatiquement récupérés des vraies données
-const baseProducts = {
+const products = {
   budget: [
     {
       name: "CeraVe Moisturizing Cream",
       asin: "B00TTD9BRC",
+      rating: 4.7,
+      reviewCount: 142000,
       pros: [
         "Provides 24-hour deep hydration",
-        "Perfect for eczema and sensitive skin", 
+        "Perfect for eczema and sensitive skin",
         "Fragrance-free, non-comedogenic"
       ],
       con: "Jar packaging less hygienic"
@@ -24,6 +18,8 @@ const baseProducts = {
     {
       name: "Neutrogena Hydro Boost Water Gel",
       asin: "B00NR1YQHM",
+      rating: 4.5,
+      reviewCount: 92000,
       pros: [
         "Lightweight gel absorbs instantly",
         "Hyaluronic acid plumps fine lines",
@@ -34,6 +30,8 @@ const baseProducts = {
     {
       name: "Embryolisse Lait-Crème Concentré",
       asin: "B004KELK4C",
+      rating: 4.6,
+      reviewCount: 29000,
       pros: [
         "Multi-use moisturizer and primer",
         "Nourishing natural oils",
@@ -46,6 +44,8 @@ const baseProducts = {
     {
       name: "Tatcha The Water Cream",
       asin: "B072NNC2LR",
+      rating: 4.7,
+      reviewCount: 4000,
       pros: [
         "Japanese botanicals balance oil",
         "Fermented rice refines pores",
@@ -56,9 +56,11 @@ const baseProducts = {
     {
       name: "Tatcha The Dewy Skin Cream",
       asin: "B09QBB8ZL4",
+      rating: 4.6,
+      reviewCount: 5000,
       pros: [
         "Ultra-rich for dry skin",
-        "Boosts elasticity and glow", 
+        "Boosts elasticity and glow",
         "Silky luxurious texture"
       ],
       con: "Too rich for oily skin"
@@ -66,6 +68,8 @@ const baseProducts = {
     {
       name: "Medik8 Total Moisture Daily Facial Cream",
       asin: "B0D714LX6K",
+      rating: 4.6,
+      reviewCount: 190,
       pros: [
         "Multi-ceramide barrier repair",
         "Prebiotics support skin microbiome",
@@ -76,61 +80,47 @@ const baseProducts = {
   ]
 };
 
-// FALLBACKS au cas où vraies données indisponibles (conservative)
-const fallbacks = {
-  "B00TTD9BRC": { rating: 4.6, reviewCount: 140000 },
-  "B00NR1YQHM": { rating: 4.5, reviewCount: 90000 },
-  "B004KELK4C": { rating: 4.6, reviewCount: 28000 },
-  "B072NNC2LR": { rating: 4.7, reviewCount: 4000 },
-  "B09QBB8ZL4": { rating: 4.6, reviewCount: 5000 },
-  "B0D714LX6K": { rating: 4.6, reviewCount: 200 }
-};
 
-// PROCESS avec vraies données
-const products = {
-  budget: processProductsList(baseProducts.budget, fallbacks),
-  luxury: processProductsList(baseProducts.luxury, fallbacks)
-};
+// Find top pick in each tier (highest rating)
+const budgetTopIdx = products.budget.reduce((best, p, i) => p.rating > products.budget[best].rating ? i : best, 0);
+const luxuryTopIdx = products.luxury.reduce((best, p, i) => p.rating > products.luxury[best].rating ? i : best, 0);
 
-// Find top pick in each tier (highest rating from REAL data)
-const budgetTopIdx = products.budget.reduce((best, p, i) => 
-  p.rating > products.budget[best].rating ? i : best, 0);
-const luxuryTopIdx = products.luxury.reduce((best, p, i) => 
-  p.rating > products.luxury[best].rating ? i : best, 0);
+const schemaItems = [...products.budget, ...products.luxury].map((p, i) => ({
+  "@type": "ListItem",
+  "position": i + 1,
+  "item": {
+    "@type": "Product",
+    "name": p.name,
+    "url": `https://www.amazon.com/dp/${p.asin}/ref=nosim?tag=glowpicked0c-20`,
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": p.rating,
+      "bestRating": 5,
+      "reviewCount": p.reviewCount
+    }
+  }
+}));
 
-// Generate schema with REAL data
-const allProducts = [...products.budget, ...products.luxury];
-const pageSchema = JSON.stringify(
-  generateProductSchema(allProducts, "Best Face Moisturizers 2026 - Budget & Luxury Picks")
-);
-
-// Global stats for transparency
-const globalStats = generateGlobalStats();
-console.log('📊 Global Stats:', globalStats);
-
-// Log product validation for debugging
-allProducts.forEach(product => {
-  const validation = {
-    asin: product.asin,
-    rating: product.rating,
-    reviewCount: product.reviewCount,
-    dataSource: product.dataSource,
-    verified: product.verified
-  };
-  console.log('✅ Product processed:', validation);
+const pageSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": `Best Face Moisturizers 2026 - Budget & Luxury Picks`,
+  "description": `AI-analyzed reviews for top face moisturizers on Amazon`,
+  "numberOfItems": 6,
+  "itemListElement": schemaItems
 });
 ---
 
 <Layout 
   title="Best Face Moisturizers 2026 | Top Budget & Luxury | GlowPicked"
-  description="We researched Amazon customer reviews to find the top 3 budget and top 3 luxury face moisturizers on Amazon. All ratings verified from real data."
+  description="We researched Amazon customer reviews to find the top 3 budget and top 3 luxury face moisturizers on Amazon."
 >
   <section class="products-section">
     <div class="container">
       <div class="page-header">
         <h1>Best Face Moisturizers</h1>
-        <p class="last-updated">📅 Last updated: February 2026 | 📊 Data verified: {globalStats.verifiedCount} products</p>
-        <p class="lead-text">All ratings and review counts verified against real Amazon data - no invented numbers!</p>
+        <p class="last-updated">📅 Last updated: February 2026</p>
+        <p class="lead-text">We researched top-rated Amazon products and customer reviews to find the best picks</p>
       </div>
 
       <section class="budget-section">
@@ -139,14 +129,10 @@ allProducts.forEach(product => {
           {products.budget.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
-                <span class="rating">{product.rating.toFixed(1)}⭐</span>
-                <span class="reviews">
-                  Based on {product.reviewCount.toLocaleString()}+ verified Amazon ratings
-                  {product.dataSource === 'real-data' && <span class="verified-badge">✓ Verified</span>}
-                </span>
+                <span class="rating">{product.rating}⭐</span>
+                <span class="reviews">Based on {product.reviewCount.toLocaleString()}+ Amazon customer ratings</span>
               </div>
               <ul class="pros-list">
                 {product.pros.map((pro, i) => (
@@ -172,14 +158,10 @@ allProducts.forEach(product => {
           {products.luxury.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
-                <span class="rating">{product.rating.toFixed(1)}⭐</span>
-                <span class="reviews">
-                  Based on {product.reviewCount.toLocaleString()}+ verified Amazon ratings
-                  {product.dataSource === 'real-data' && <span class="verified-badge">✓ Verified</span>}
-                </span>
+                <span class="rating">{product.rating}⭐</span>
+                <span class="reviews">Based on {product.reviewCount.toLocaleString()}+ Amazon customer ratings</span>
               </div>
               <ul class="pros-list">
                 {product.pros.map((pro, i) => (
@@ -201,18 +183,6 @@ allProducts.forEach(product => {
     </div>
   </section>
 
-  <section class="transparency-section">
-    <div class="container">
-      <h2>🔍 Data Transparency</h2>
-      <p>
-        <strong>100% Verified Data:</strong> All ratings and review counts are automatically synchronized with real Amazon data. 
-        We've analyzed {globalStats.totalReviews.toLocaleString()} total reviews across {globalStats.totalProducts} products. 
-        No invented numbers - if we don't have verified data, we clearly mark it.
-      </p>
-      <p class="data-timestamp">Data last synchronized: {new Date().toLocaleDateString()}</p>
-    </div>
-  </section>
-
   <section class="methodology-section">
     <div class="container">
       <h2>How We Pick Products</h2>
@@ -225,6 +195,8 @@ allProducts.forEach(product => {
       </p>
     </div>
   </section>
+
+  
   
   <section class="buying-guide">
     <div class="container">
@@ -304,7 +276,6 @@ allProducts.forEach(product => {
   .lead-text {
     font-size: 1.3rem;
     color: var(--text-light);
-    font-weight: 600;
   }
 
   .budget-section, .luxury-section {
@@ -345,7 +316,6 @@ allProducts.forEach(product => {
     box-shadow: var(--shadow);
     padding: 2rem;
     transition: all 0.3s ease;
-    position: relative;
   }
 
   .product-card:hover {
@@ -378,28 +348,6 @@ allProducts.forEach(product => {
   .reviews {
     color: var(--text-light);
     font-size: 0.95rem;
-  }
-
-  .verified-badge {
-    background: #28a745;
-    color: white;
-    padding: 0.2rem 0.5rem;
-    border-radius: 12px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    margin-left: 0.5rem;
-  }
-
-  .data-warning {
-    background: #ffc107;
-    color: #000;
-    padding: 0.3rem 0.8rem;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
   }
 
   .pros-list {
@@ -444,32 +392,7 @@ allProducts.forEach(product => {
     box-shadow: var(--shadow-lg);
   }
 
-  .transparency-section {
-    background: #e8f5e8;
-    padding: 3rem 0;
-    text-align: center;
-  }
 
-  .transparency-section h2 {
-    font-size: 2rem;
-    margin-bottom: 1.5rem;
-    color: var(--green-budget);
-    font-family: 'Playfair Display', serif;
-  }
-
-  .transparency-section p {
-    max-width: 800px;
-    margin: 0 auto 1rem;
-    font-size: 1.1rem;
-    line-height: 1.7;
-    color: var(--text);
-  }
-
-  .data-timestamp {
-    font-size: 0.9rem;
-    color: var(--text-light);
-    font-style: italic;
-  }
 
   .methodology-section {
     background: var(--bg-light);
