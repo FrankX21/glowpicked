@@ -1,4 +1,6 @@
 ---
+import CookieBanner from '../components/CookieBanner.astro';
+
 export interface Props {
   title: string;
   description: string;
@@ -432,5 +434,9 @@ const fullTitle = title.includes('GlowPicked') ? title : `${title} | GlowPicked`
       });
     </script>
   <script src="/js/product-enhancer.js" defer></script>
+  
+  <!-- Cookie Consent Banner -->
+  <CookieBanner />
+  
   </body>
 </html>
