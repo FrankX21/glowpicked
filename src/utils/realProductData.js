@@ -34,6 +34,27 @@ export function loadRealProductData() {
 }
 
 /**
+ * Arrondit conservateur à la baisse pour éviter impression de gonflement
+ * @param {number} count - Nombre de reviews
+ * @returns {number} Nombre arrondi à la baisse de façon conservatrice
+ */
+export function conservativeRoundDown(count) {
+  if (count < 1000) {
+    // < 1000: arrondir aux centaines inférieures
+    return Math.floor(count / 100) * 100;
+  } else if (count < 10000) {
+    // 1K-10K: arrondir aux milliers inférieurs
+    return Math.floor(count / 1000) * 1000;
+  } else if (count < 50000) {
+    // 10K-50K: arrondir aux 5K inférieurs
+    return Math.floor(count / 5000) * 5000;
+  } else {
+    // 50K+: arrondir aux 10K inférieurs
+    return Math.floor(count / 10000) * 10000;
+  }
+}
+
+/**
  * Récupère et enrichit un produit avec ses vraies données Amazon
  * @param {Object} product - Produit avec au minimum {asin, name}
  * @param {Object} realData - Données réelles chargées
@@ -51,7 +72,7 @@ export function enrichProductWithRealData(product, realData, fallback = {}) {
     return {
       ...product,
       rating: fallback.rating || 4.0,
-      reviewCount: fallback.reviewCount || 1000,
+      reviewCount: conservativeRoundDown(fallback.reviewCount || 1000),
       dataSource: 'fallback',
       verified: false
     };
@@ -65,7 +86,7 @@ export function enrichProductWithRealData(product, realData, fallback = {}) {
     return {
       ...product,
       rating: realRating || fallback.rating || 4.0,
-      reviewCount: realReviews || fallback.reviewCount || 1000,
+      reviewCount: conservativeRoundDown(realReviews || fallback.reviewCount || 1000),
       dataSource: 'partial',
       verified: false
     };
@@ -74,7 +95,7 @@ export function enrichProductWithRealData(product, realData, fallback = {}) {
   return {
     ...product,
     rating: realRating,
-    reviewCount: realReviews,
+    reviewCount: conservativeRoundDown(realReviews), // Arrondi conservateur
     dataSource: 'real-data',
     verified: true
   };
@@ -200,5 +221,6 @@ export default {
   processProductsList,
   generateGlobalStats,
   validateProduct,
-  generateProductSchema
+  generateProductSchema,
+  conservativeRoundDown
 };
