@@ -40,32 +40,7 @@ const products = {
       "con": "Lower retinol concentration than competitors"
     }
   ],
-  "luxury": [
-    {
-      "name": "SkinCeuticals Retinol 0.5 Refining Night Cream",
-      "asin": "B0084Y59VO",
-      "rating": 4.7,
-      "reviewCount": 2100,
-      "pros": [
-        "0.5% pure retinol, clinical grade",
-        "Bisabolol soothes irritation",
-        "Visible firmness improvement"
-      ],
-      "con": "Very expensive for 1 oz"
-    },
-    {
-      "name": "Medik8 Crystal Retinal 3",
-      "asin": "B0BHX7NYJG",
-      "rating": 4.7,
-      "reviewCount": 2400,
-      "pros": [
-        "Retinaldehyde 11x faster than retinol",
-        "Hyaluronic acid buffer prevents dryness",
-        "Crystal delivery system is innovative"
-      ],
-      "con": "Must start at level 1 and work up"
-    }
-  ]
+  "luxury": []
 };
 
 
@@ -94,7 +69,7 @@ const pageSchema = JSON.stringify({
   "@type": "ItemList",
   "name": `Best Retinol Anti Aging 2026 - Budget & Luxury Picks`,
   "description": `AI-analyzed reviews for top retinol anti aging on Amazon`,
-  "numberOfItems": 6,
+  "numberOfItems": 3,
   "itemListElement": schemaItems
 });
 ---
@@ -140,8 +115,9 @@ const pageSchema = JSON.stringify({
         </div>
       </section>
 
+      {products.luxury.length > 0 && (
       <section class="luxury-section">
-        <h2><span class="accent-luxury">💎 Top 3 Luxury</span></h2>
+        <h2><span class="accent-luxury">💎 Top Luxury Picks</span></h2>
         <div class="products-grid">
           {products.luxury.map((product, index) => (
             <div class="product-card" data-asin={product.asin}>
@@ -168,6 +144,7 @@ const pageSchema = JSON.stringify({
           ))}
         </div>
       </section>
+      )}
     </div>
   </section>
 
