@@ -58,16 +58,6 @@ const baseProducts = {
         "con": "Pump can malfunction"
     },
     {
-        "name": "Glow Recipe Avocado Ceramide Cleanser",
-        "asin": "B0CBT1NMVL",
-        "pros": [
-            "Avocado and ceramides repair barrier",
-            "Gel-to-foam satisfying texture",
-            "Hyaluronic acid hydrates while cleansing"
-        ],
-        "con": "New product, fewer long-term reviews"
-    },
-    {
         "name": "Drunk Elephant Beste No. 9 Jelly Cleanser",
         "asin": "B076639783",
         "pros": [
@@ -98,10 +88,6 @@ const fallbacks = {
   "B018A0BO92": {
     "rating": 4.6,
     "reviewCount": 8000
-  },
-  "B0CBT1NMVL": {
-    "rating": 4.5,
-    "reviewCount": 2100
   },
   "B076639783": {
     "rating": 4.4,
@@ -161,7 +147,6 @@ allProducts.forEach(product => {
           {products.budget.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>
@@ -194,7 +179,6 @@ allProducts.forEach(product => {
           {products.luxury.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>

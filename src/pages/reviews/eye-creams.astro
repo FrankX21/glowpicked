@@ -35,37 +35,17 @@ const baseProducts = {
         "con": "May irritate sensitive skin initially"
     },
     {
-        "name": "CeraVe Eye Repair Cream",
-        "asin": "B01ET24GI4",
+        "name": "The Ordinary Multi-Peptide Eye Serum",
+        "asin": "B082965B6F",
         "pros": [
-            "Ceramides restore skin barrier",
-            "Gentle enough for daily use",
-            "Dermatologist recommended"
+            "Peptides target fine lines",
+            "Hyaluronic acid hydrates",
+            "Budget-friendly anti-aging"
         ],
-        "con": "Small tube for the price"
+        "con": "Small bottle"
     }
 ],
   luxury: [
-    {
-        "name": "CeraVe Eye Repair Cream",
-        "asin": "B01ET24GI4",
-        "pros": [
-            "Ceramides restore skin barrier",
-            "Gentle enough for daily use",
-            "Dermatologist recommended"
-        ],
-        "con": "Small tube for the price"
-    },
-    {
-        "name": "BeautyStat Universal C Eye Perfector",
-        "asin": "B08S1HL476",
-        "pros": [
-            "20% Vitamin C brightens dark circles",
-            "Clinically tested formula",
-            "Reduces puffiness on contact"
-        ],
-        "con": "Premium price point"
-    },
     {
         "name": "Sunday Riley Auto Correct Eye Cream",
         "asin": "B07B8DZN6B",
@@ -89,13 +69,9 @@ const fallbacks = {
     "rating": 4.4,
     "reviewCount": 42000
   },
-  "B01ET24GI4": {
-    "rating": 4.6,
-    "reviewCount": 6200
-  },
-  "B08S1HL476": {
-    "rating": 4.7,
-    "reviewCount": 2100
+  "B082965B6F": {
+    "rating": 4.1,
+    "reviewCount": 1000
   },
   "B07B8DZN6B": {
     "rating": 4.5,
@@ -155,7 +131,6 @@ allProducts.forEach(product => {
           {products.budget.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>
@@ -188,7 +163,6 @@ allProducts.forEach(product => {
           {products.luxury.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>

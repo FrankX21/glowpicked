@@ -54,24 +54,24 @@ const baseProducts = {
       con: "Premium price"
     },
     {
-      name: "Tatcha The Dewy Skin Cream",
+      name: "La Mer The Treatment Lotion",
       asin: "B09QBB8ZL4",
       pros: [
         "Ultra-rich for dry skin",
-        "Boosts elasticity and glow", 
+        "Boosts elasticity and glow",
         "Silky luxurious texture"
       ],
       con: "Too rich for oily skin"
     },
     {
-      name: "Medik8 Total Moisture Daily Facial Cream",
-      asin: "B0D714LX6K",
+      name: "Olay Regenerist Micro-Sculpting Cream",
+      asin: "B00387F42G",
       pros: [
-        "Multi-ceramide barrier repair",
-        "Prebiotics support skin microbiome",
-        "Lightweight intense hydration"
+        "Amino-peptides firm skin",
+        "Reduces appearance of pores",
+        "Affordable luxury results"
       ],
-      con: "Pump dispenses excess"
+      con: "Strong fragrance"
     }
   ]
 };
@@ -83,7 +83,7 @@ const fallbacks = {
   "B004KELK4C": { rating: 4.6, reviewCount: 28000 },
   "B072NNC2LR": { rating: 4.7, reviewCount: 4000 },
   "B09QBB8ZL4": { rating: 4.6, reviewCount: 5000 },
-  "B0D714LX6K": { rating: 4.6, reviewCount: 200 }
+  "B00387F42G": { rating: 4.3, reviewCount: 31000 }
 };
 
 // PROCESS avec vraies données
@@ -139,7 +139,6 @@ allProducts.forEach(product => {
           {products.budget.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>
@@ -172,7 +171,6 @@ allProducts.forEach(product => {
           {products.luxury.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>

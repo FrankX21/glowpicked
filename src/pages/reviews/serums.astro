@@ -32,16 +32,6 @@ const baseProducts = {
         ],
         "con": "Sticky if over-applied"
     },
-    {
-        "name": "La Roche-Posay Pure Vitamin C Serum",
-        "asin": "B07PM79MSC",
-        "pros": [
-            "10% pure vitamin C + salicylic acid",
-            "Reduces dark spots",
-            "Dermatologist recommended"
-        ],
-        "con": "Can sting sensitive skin initially"
-    }
 ],
   luxury: [
     {
@@ -55,24 +45,24 @@ const baseProducts = {
         "con": "Requires nighttime use"
     },
     {
-        "name": "SkinCeuticals Retinol 0.5",
-        "asin": "B0084Y59VO",
+        "name": "The Ordinary Resveratrol 3% + Ferulic Acid 3%",
+        "asin": "B00VK5SERU",
         "pros": [
-            "Medical-grade 0.5% retinol",
-            "Refines texture dramatically",
-            "Proven brand efficacy"
+            "Antioxidant protection against aging",
+            "Ferulic acid boosts stability",
+            "Brightens and firms skin"
         ],
-        "con": "Expensive per ml"
+        "con": "May cause irritation"
     },
     {
-        "name": "Augustinus Bader The Retinol Serum",
-        "asin": "B07FCD5QZC",
+        "name": "The Ordinary Magnesium Ascorbyl Phosphate 10%",
+        "asin": "B0B2TKJVDH",
         "pros": [
-            "TFC8 technology + retinol",
-            "Repairs and renews",
-            "Luxury results"
+            "Stable vitamin C derivative",
+            "Brightens hyperpigmentation",
+            "Gentle on sensitive skin"
         ],
-        "con": "Very high price"
+        "con": "Results take time"
     }
 ]
 };
@@ -87,21 +77,17 @@ const fallbacks = {
     "rating": 4.3,
     "reviewCount": 32000
   },
-  "B07PM79MSC": {
-    "rating": 4.5,
-    "reviewCount": 19000
-  },
   "B00387F42G": {
     "rating": 4.5,
     "reviewCount": 31000
   },
-  "B0084Y59VO": {
-    "rating": 4.6,
-    "reviewCount": 2100
-  },
-  "B07FCD5QZC": {
+  "B00VK5SERU": {
     "rating": 4.7,
-    "reviewCount": 1400
+    "reviewCount": 12000
+  },
+  "B0B2TKJVDH": {
+    "rating": 4.7,
+    "reviewCount": 7000
   }
 };
 
@@ -157,7 +143,6 @@ allProducts.forEach(product => {
           {products.budget.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>
@@ -190,7 +175,6 @@ allProducts.forEach(product => {
           {products.luxury.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>

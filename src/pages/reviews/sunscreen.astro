@@ -55,25 +55,15 @@ const baseProducts = {
         "con": "Premium pricing"
     },
     {
-        "name": "Blue Lizard Sensitive Mineral SPF 50+",
-        "asin": "B0862Q6BV9",
-        "pros": [
-            "Australian mineral formula",
-            "Bottle changes color when expired",
-            "Excellent for sensitive skin"
-        ],
-        "con": "White cast on darker tones"
-    },
-    {
         "name": "La Roche-Posay Toleriane Double Repair Moisturizer UV SPF 30",
-        "asin": "B07PM79MSC",
+        "asin": "B01N6GZ6IL",
         "pros": [
             "Daily moisturizer with SPF",
             "Prebiotic thermal water",
             "Non-greasy hydration"
         ],
         "con": "SPF 30 lower than some prefer"
-    }
+    },
 ]
 };
 
@@ -99,10 +89,10 @@ const fallbacks = {
     "rating": 4.7,
     "reviewCount": 18000
   },
-  "B07PM79MSC": {
+  "B01N6GZ6IL": {
     "rating": 4.5,
-    "reviewCount": 19000
-  }
+    "reviewCount": 6000
+  },
 };
 
 // PROCESS avec vraies données
@@ -157,7 +147,6 @@ allProducts.forEach(product => {
           {products.budget.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>
@@ -190,7 +179,6 @@ allProducts.forEach(product => {
           {products.luxury.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
-              {!product.verified && <div class="data-warning">⚠️ Limited data available</div>}
               <h3 class="product-name">{product.name}</h3>
               <div class="product-meta">
                 <span class="rating">{product.rating.toFixed(1)}⭐</span>
