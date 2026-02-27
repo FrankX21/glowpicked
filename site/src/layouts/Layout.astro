@@ -20,6 +20,9 @@ const {
 } = Astro.props;
 
 const fullTitle = title.includes('GlowPicked') ? title : `${title} | GlowPicked`;
+
+// 🚧 MAINTENANCE MODE — set to false to restore the site
+const MAINTENANCE_MODE = true;
 ---
 
 <!doctype html>
@@ -113,7 +116,18 @@ const fullTitle = title.includes('GlowPicked') ? title : `${title} | GlowPicked`
     </header>
 
     <main>
-      <slot />
+      {MAINTENANCE_MODE ? (
+        <div class="maintenance-overlay">
+          <div class="maintenance-content">
+            <div class="maintenance-icon">✨</div>
+            <h1 class="maintenance-title">We're Making Things Even Better</h1>
+            <p class="maintenance-text">Our team is currently improving the site to bring you the most accurate, verified skincare recommendations. We'll be back very soon!</p>
+            <div class="maintenance-badge">Back shortly</div>
+          </div>
+        </div>
+      ) : (
+        <slot />
+      )}
     </main>
 
     <footer class="footer">
@@ -444,6 +458,43 @@ const fullTitle = title.includes('GlowPicked') ? title : `${title} | GlowPicked`
         .container {
           padding: 0 1rem;
         }
+      }
+
+      /* Maintenance Mode */
+      .maintenance-overlay {
+        min-height: 70vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, #fdf2f8, #fce7f3, #fff1f2);
+      }
+      .maintenance-content {
+        text-align: center;
+        padding: 3rem 2rem;
+        max-width: 600px;
+      }
+      .maintenance-icon { font-size: 4rem; margin-bottom: 1.5rem; }
+      .maintenance-title {
+        font-size: 1.8rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+        color: var(--text);
+        font-family: var(--font-display);
+      }
+      .maintenance-text {
+        font-size: 1.1rem;
+        line-height: 1.7;
+        color: #555;
+        margin-bottom: 1.5rem;
+      }
+      .maintenance-badge {
+        display: inline-block;
+        background: rgba(233, 30, 99, 0.1);
+        color: var(--primary);
+        padding: 0.5rem 1.5rem;
+        border-radius: 50px;
+        font-size: 0.9rem;
+        font-weight: 600;
       }
 
       /* Accessibility */
