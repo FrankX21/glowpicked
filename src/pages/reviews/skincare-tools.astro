@@ -88,7 +88,7 @@ const pageSchema = JSON.stringify({
       </div>
 
       <section class="budget-section">
-        <h2><span class="accent-budget">🏆 Top 3 Budget</span> (Under $50)</h2>
+        <h2><span class="accent-budget">🏆 Top Budget Picks</span> (Under $50)</h2>
         <div class="products-grid">
           {products.budget.map((product, index) => (
             <div class="product-card" data-asin={product.asin}>
@@ -117,7 +117,7 @@ const pageSchema = JSON.stringify({
       </section>
 
       <section class="luxury-section">
-        <h2><span class="accent-luxury">💎 Top 3 Luxury</span></h2>
+        <h2><span class="accent-luxury">💎 Luxury Pick</span></h2>
         <div class="products-grid">
           {products.luxury.map((product, index) => (
             <div class="product-card" data-asin={product.asin}>

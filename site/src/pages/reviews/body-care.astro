@@ -38,13 +38,11 @@ const products = {
         "Non-comedogenic, dermatologist approved"
       ],
       "con": "Oily texture, not for everyone"
-    }
-  ],
-  "luxury": [
+    },
     {
       "name": "Palmer's Coconut Oil Formula Body Lotion",
       "asin": "B07FKXN23D",
-      "rating": 4.6,
+      "rating": 4.7,
       "reviewCount": 8000,
       "pros": [
         "Coconut oil deeply hydrates",
@@ -52,18 +50,20 @@ const products = {
         "Value size pump bottle"
       ],
       "con": "Coconut scent is strong"
-    },
+    }
+  ],
+  "luxury": [
     {
       "name": "Tatcha The Dewy Skin Cream",
       "asin": "B09QBB8ZL4",
-      "rating": 4.8,
+      "rating": 4.6,
       "reviewCount": 5000,
       "pros": [
         "Japanese purple rice antioxidants",
         "Plumping hydration lasts all day",
         "Dewy glow finish"
       ],
-      "con": "Not designed specifically for body"
+      "con": "Premium price point"
     }
   ]
 };
@@ -94,7 +94,7 @@ const pageSchema = JSON.stringify({
   "@type": "ItemList",
   "name": `Best Body Care 2026 - Budget & Luxury Picks`,
   "description": `AI-analyzed reviews for top body care on Amazon`,
-  "numberOfItems": 6,
+  "numberOfItems": 5,
   "itemListElement": schemaItems
 });
 ---
@@ -112,7 +112,7 @@ const pageSchema = JSON.stringify({
       </div>
 
       <section class="budget-section">
-        <h2><span class="accent-budget">🏆 Top 3 Budget</span> (Under $15)</h2>
+        <h2><span class="accent-budget">🏆 Top Budget Picks</span> (Under $15)</h2>
         <div class="products-grid">
           {products.budget.map((product, index) => (
             <div class="product-card" data-asin={product.asin}>
@@ -141,7 +141,7 @@ const pageSchema = JSON.stringify({
       </section>
 
       <section class="luxury-section">
-        <h2><span class="accent-luxury">💎 Top 3 Luxury</span></h2>
+        <h2><span class="accent-luxury">💎 Luxury Pick</span></h2>
         <div class="products-grid">
           {products.luxury.map((product, index) => (
             <div class="product-card" data-asin={product.asin}>
