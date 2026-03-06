@@ -137,10 +137,10 @@ const pageSchema = JSON.stringify({
                     <div class="score-bar-fill" style={`width: ${product.glowData.glowScore}%; background: ${getScoreGradient(product.glowData.glowScore)};`}></div>
                   </div>
                   <div class="score-breakdown">
-                    <span title="Customer satisfaction">Reviews {product.glowData.breakdown.reviews}/40</span>
-                    <span title="Ingredient science">Science {product.glowData.breakdown.ingredients}/30</span>
-                    <span title="Safety profile">Safety {product.glowData.breakdown.safety}/15</span>
-                    <span title="Value for money">Value {product.glowData.breakdown.value}/15</span>
+                    <span title="Customer satisfaction">Reviews {product.glowData.breakdown.reviewsSatisfaction ?? product.glowData.breakdown.reviews}/40</span>
+                    <span title="Ingredient science">Science {product.glowData.breakdown.ingredientScience ?? product.glowData.breakdown.ingredients}/30</span>
+                    <span title="Safety profile">Safety {product.glowData.breakdown.safetyProfile ?? product.glowData.breakdown.safety}/15</span>
+                    <span title="Value for money">Value {product.glowData.breakdown.valueForMoney ?? product.glowData.breakdown.value}/15</span>
                   </div>
                 </div>
               ) : (
@@ -153,7 +153,7 @@ const pageSchema = JSON.stringify({
                   <ul class="ingredients-list">
                     {product.glowData.topIngredients.map((ing) => (
                       <li>
-                        <span class="ing-name">{ing.name}</span>
+                        <span class="ing-name">{ing.name ?? ing}</span>
                         <span class="ing-benefit">{ing.benefit}</span>
                       </li>
                     ))}
@@ -212,10 +212,10 @@ const pageSchema = JSON.stringify({
                     <div class="score-bar-fill" style={`width: ${product.glowData.glowScore}%; background: ${getScoreGradient(product.glowData.glowScore)};`}></div>
                   </div>
                   <div class="score-breakdown">
-                    <span title="Customer satisfaction">Reviews {product.glowData.breakdown.reviews}/40</span>
-                    <span title="Ingredient science">Science {product.glowData.breakdown.ingredients}/30</span>
-                    <span title="Safety profile">Safety {product.glowData.breakdown.safety}/15</span>
-                    <span title="Value for money">Value {product.glowData.breakdown.value}/15</span>
+                    <span title="Customer satisfaction">Reviews {product.glowData.breakdown.reviewsSatisfaction ?? product.glowData.breakdown.reviews}/40</span>
+                    <span title="Ingredient science">Science {product.glowData.breakdown.ingredientScience ?? product.glowData.breakdown.ingredients}/30</span>
+                    <span title="Safety profile">Safety {product.glowData.breakdown.safetyProfile ?? product.glowData.breakdown.safety}/15</span>
+                    <span title="Value for money">Value {product.glowData.breakdown.valueForMoney ?? product.glowData.breakdown.value}/15</span>
                   </div>
                 </div>
               ) : (
