@@ -1,0 +1,35 @@
+{
+  "asin": "B00XOWPF9Y",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 25,
+    "safetyProfile": 13,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptides",
+    "Hyaluronic Acid",
+    "Niacinamide"
+  ],
+  "verdict": "Well-balanced multi-action serum combining peptides with niacinamide for barrier support. Competent formulation with good ingredient synergy but incremental rather than transformative.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XOWPF9Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Estée Lauder",
+  "price": "$95",
+  "_research": {
+    "name": "Perfectionist Pro Serum",
+    "rating": 4.2,
+    "reviewCount": 1150,
+    "pros": [
+      "Balanced peptide-niacinamide combination",
+      "Barrier-supportive",
+      "Broad appeal formula"
+    ],
+    "con": "Lacks standout actives or concentrations that differentiate from mid-tier competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00004YCAU",
+  "glowScore": 91,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "glycerin",
+    "panthenol"
+  ],
+  "verdict": "Aquaphor Lip Repair is a premium budget option featuring panthenol (provitamin B5) and glycerin for deep hydration and barrier repair. Highest-rated product with best-in-class ingredient synergy and safety profile.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00004YCAU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aquaphor",
+  "price": "$5",
+  "_research": {
+    "name": "Aquaphor Lip Repair Ointment",
+    "rating": 4.7,
+    "reviewCount": 11200,
+    "pros": [
+      "Panthenol promotes healing and hydration",
+      "Glycerin provides humectant moisture",
+      "Excellent for extremely dry lips"
+    ],
+    "con": "Heavier occlusive texture may feel greasy during daytime wear.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

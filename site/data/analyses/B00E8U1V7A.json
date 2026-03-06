@@ -1,0 +1,35 @@
+{
+  "asin": "B00E8U1V7A",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Squalane",
+    "Glycerin",
+    "Apricot Kernel Oil"
+  ],
+  "verdict": "Kiehl's Creme de Corps achieves market-leading satisfaction through expertly balanced hydration technology and time-tested formulation principles. The ingredient profile prioritizes efficacy and skin compatibility, representing the gold standard for accessible luxury.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E8U1V7A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$48",
+  "_research": {
+    "name": "Kiehl's Creme de Corps Body Moisturizer",
+    "rating": 4.6,
+    "reviewCount": 2847,
+    "pros": [
+      "Highest customer review count and satisfaction rating",
+      "Proven multi-decade performance track record",
+      "Excellent ingredient bioavailability"
+    ],
+    "con": "Formula is conventional in composition despite exceptional real-world results and customer loyalty.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

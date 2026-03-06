@@ -1,0 +1,35 @@
+{
+  "asin": "B0046RQUDU",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptides",
+    "Caffeine",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Estée Lauder's eye serum combines caffeine de-puffing with peptide support, specifically formulated for delicate periorbital area. Strong science but niche positioning limits value perception vs. multi-use serums.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0046RQUDU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Estée Lauder",
+  "price": "$68.00",
+  "_research": {
+    "name": "Advanced Multi-Corrective Eye Serum",
+    "rating": 4.3,
+    "reviewCount": 5600,
+    "pros": [
+      "Caffeine for de-puffing efficacy",
+      "Eye-area specialized formula",
+      "Strong consumer satisfaction (4.3★)"
+    ],
+    "con": "Single-use product; caffeine effects temporary, requiring consistent reapplication.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

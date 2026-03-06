@@ -1,0 +1,35 @@
+{
+  "asin": "B00GTMTNQ8",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Niacinamide",
+    "Glycerin",
+    "Dimethicone"
+  ],
+  "verdict": "Gold Bond's dark spot formula leverages niacinamide for melanin regulation, though the formula is relatively basic for targeted hyperpigmentation work. Solid hydration base with glycerin but lacks advanced brightening actives like vitamin C or kojic acid.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GTMTNQ8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Gold Bond",
+  "price": "$12",
+  "_research": {
+    "name": "Gold Bond Ultimate Dark Spot Minimizing",
+    "rating": 4.2,
+    "reviewCount": 5600,
+    "pros": [
+      "Niacinamide supports skin barrier",
+      "Affordable price point",
+      "Dermatologist-recommended brand"
+    ],
+    "con": "Limited brightening actives beyond niacinamide reduce efficacy for stubborn dark spots.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

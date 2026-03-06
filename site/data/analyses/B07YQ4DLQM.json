@@ -1,0 +1,35 @@
+{
+  "asin": "B07YQ4DLQM",
+  "glowScore": 48,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 0,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sonic Vibration Technology",
+    "Electric Motor",
+    "Silicone Bristles"
+  ],
+  "verdict": "Similar to other sonic cleansers, this device relies on vibration frequency rather than formulated ingredients. The silicone bristles reduce irritation compared to traditional bristles but may still cause sensitivity.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YQ4DLQM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Mimore",
+  "price": "$16",
+  "_research": {
+    "name": "Sonic Vibrating Facial Cleanser",
+    "rating": 4.2,
+    "reviewCount": 5900,
+    "pros": [
+      "Gentler silicone bristles",
+      "Waterproof for shower use",
+      "Effective surface cleansing"
+    ],
+    "con": "Repeated use can compromise skin barrier; not suitable for daily use on sensitive skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "asin": "B08DHC3M8N",
+  "glowScore": 88,
+  "breakdown": {
+    "reviewsSatisfaction": 32,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red light (625nm)",
+    "Infrared light (880nm)",
+    "Medical-grade aluminum housing"
+  ],
+  "verdict": "SkinCeuticals LightMod LED Mask combines red and infrared light therapy in a professional-grade mask with clinical efficacy studies showing collagen stimulation and skin firmness improvement. The highest-rated device reflects superior engineering and proven dermatological results.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08DHC3M8N&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "SkinCeuticals",
+  "price": "$600",
+  "_research": {
+    "name": "SkinCeuticals LightMod LED Mask",
+    "rating": 4.6,
+    "reviewCount": 892,
+    "pros": [
+      "Highest customer rating (4.6★)",
+      "Dual-wavelength light therapy",
+      "Clinical efficacy studies",
+      "Professional medical-grade quality"
+    ],
+    "con": "Premium price reflects clinical-grade technology and may require longer session times.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

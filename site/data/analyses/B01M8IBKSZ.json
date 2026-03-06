@@ -1,0 +1,35 @@
+{
+  "asin": "B01M8IBKSZ",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "630nm Red Light",
+    "Near-Infrared Spectrum",
+    "Collagen-stimulating wavelengths"
+  ],
+  "verdict": "Red light therapy excels at stimulating collagen production and improving skin texture with extensive clinical validation. Premium option with proven anti-aging benefits and excellent safety profile.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M8IBKSZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Quasar",
+  "price": "$499",
+  "_research": {
+    "name": "Quasar MD Red Light Therapy Device",
+    "rating": 4.3,
+    "reviewCount": 2341,
+    "pros": [
+      "Strongest collagen induction technology",
+      "Comprehensive clinical studies support efficacy",
+      "Suitable for all skin types"
+    ],
+    "con": "Higher price point may not justify results for mild skin concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B001ECM0WO",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Panthenol",
+    "Allantoin"
+  ],
+  "verdict": "Gentle, pediatrician-approved formula with skin-soothing panthenol and allantoin. While minimal, these ingredients are perfectly suited for sensitive skin at excellent value.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ECM0WO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$8",
+  "_research": {
+    "name": "Cetaphil Baby Lotion",
+    "rating": 4.6,
+    "reviewCount": 5876,
+    "pros": [
+      "Dermatologist and pediatrician recommended",
+      "Hypoallergenic formulation",
+      "Excellent safety profile"
+    ],
+    "con": "Very basic formula with no advanced actives or treatment benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "asin": "B08JVPWZLZ",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red Light LED (630nm)",
+    "Micro-vibration Technology",
+    "Hyaluronic Acid Infusion Capability"
+  ],
+  "verdict": "The Solawave Wand combines clinically-proven red light therapy with gentle micro-vibrations to enhance collagen production and reduce fine lines. Its versatility as a delivery device for serums makes it a comprehensive anti-aging tool with strong scientific backing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08JVPWZLZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Solawave",
+  "price": "$169",
+  "_research": {
+    "name": "Solawave Dermacare Wand LED Red Light",
+    "rating": 4.4,
+    "reviewCount": 8100,
+    "pros": [
+      "Proven red light wavelength (630nm) for collagen stimulation",
+      "High review count (8100) indicates consistent user satisfaction",
+      "Cordless and portable design enhances usability",
+      "Works synergistically with existing skincare products"
+    ],
+    "con": "Red light benefits are modest without consistent 3-month+ usage commitment, limiting immediate results.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

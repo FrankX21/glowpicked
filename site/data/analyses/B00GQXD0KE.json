@@ -1,0 +1,35 @@
+{
+  "asin": "B00GQXD0KE",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sodium Lauryl Sulfate",
+    "Glycerin",
+    "Panthenol"
+  ],
+  "verdict": "Cetaphil Gentle Body Wash is a cleanser focused on mildness rather than ingredient innovation. While safe, it uses basic surfactants and offers minimal skincare benefits beyond cleansing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GQXD0KE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$7",
+  "_research": {
+    "name": "Cetaphil Gentle Body Wash",
+    "rating": 4.5,
+    "reviewCount": 5500,
+    "pros": [
+      "Gentle formula for sensitive skin",
+      "Fragrance-free option available",
+      "Non-irritating"
+    ],
+    "con": "Contains SLS which may be drying for very sensitive individuals.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

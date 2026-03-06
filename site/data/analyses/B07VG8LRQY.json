@@ -1,0 +1,36 @@
+{
+  "asin": "B07VG8LRQY",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red light (630nm)",
+    "Infrared light (850nm)",
+    "Medical-grade silicone mask"
+  ],
+  "verdict": "CurrentBody LED Light Therapy Mask uses clinically-proven red and infrared wavelengths to stimulate collagen production and reduce inflammation. The mask design ensures even light distribution across the entire face for comprehensive treatment benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VG8LRQY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CurrentBody",
+  "price": "$399",
+  "_research": {
+    "name": "CurrentBody LED Light Therapy Mask",
+    "rating": 4.3,
+    "reviewCount": 2847,
+    "pros": [
+      "Clinically-proven wavelengths",
+      "Full-face coverage design",
+      "30-minute treatment sessions",
+      "Excellent value for LED therapy"
+    ],
+    "con": "Requires 30-minute daily commitment; less convenient than targeted spot-treatment devices.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07NQDJKQP",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red Light Wavelength (630nm)",
+    "Blue Light Wavelength (470nm)",
+    "Amber Light Wavelength (590nm)"
+  ],
+  "verdict": "Dr. Dennis Gross SpectraLite combines multiple LED light wavelengths to address inflammation, bacteria, and collagen synthesis without topical ingredients. Each wavelength targets specific skin concerns with dermatologist backing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NQDJKQP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Dr. Dennis Gross",
+  "price": "$435",
+  "_research": {
+    "name": "Dr. Dennis Gross SpectraLite FaceWare Pro",
+    "rating": 4.1,
+    "reviewCount": 1205,
+    "pros": [
+      "Professional-grade LED wavelengths",
+      "Clinically validated light frequencies",
+      "Dermatologist-developed"
+    ],
+    "con": "Expensive investment with results dependent on consistent 3-5x weekly 10-minute sessions.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

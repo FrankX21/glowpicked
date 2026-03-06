@@ -1,0 +1,35 @@
+{
+  "asin": "B01CCVBX3K",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Sonic Vibration (300Hz)",
+    "PMD Bristle Technology",
+    "Adjustable Intensity"
+  ],
+  "verdict": "PMD Clean Pro's 7800 reviews (4.3★) reflect reliability as a premium cleansing brush with proven ability to remove impurities and enhance serum absorption. Strong value for enhancing topical ingredient penetration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01CCVBX3K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "PMD",
+  "price": "$129",
+  "_research": {
+    "name": "PMD Clean Pro Facial Cleansing Brush",
+    "rating": 4.3,
+    "reviewCount": 7800,
+    "pros": [
+      "Multiple brush head options",
+      "Cordless and waterproof design",
+      "Works well with active serums and treatments"
+    ],
+    "con": "Cleansing tool only—provides no direct anti-aging benefits without complementary products.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

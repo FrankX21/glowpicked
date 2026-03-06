@@ -1,0 +1,35 @@
+{
+  "asin": "B07B1ZXYFT",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Deep Sea Water",
+    "Hyaluronic Acid",
+    "Mineral Complexes"
+  ],
+  "verdict": "A mineral-rich water cream emphasizing deep sea botanicals for hydration and antioxidant protection. Best for dehydrated skin seeking lightweight moisturization without active treatment.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07B1ZXYFT&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$12.99",
+  "_research": {
+    "name": "CeraVe Hydrating Toner",
+    "rating": 4.3,
+    "reviewCount": 7400,
+    "pros": [
+      "Mineral-rich deep sea water",
+      "Lightweight gel-cream texture",
+      "Soothing and hydrating"
+    ],
+    "con": "Lacks potent actives; primarily beneficial for hydration rather than visible skin concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B074NQ23LY",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Ultrasonic Exfoliation",
+    "Silk-weighted bristles",
+    "Mechanical micro-exfoliation"
+  ],
+  "verdict": "Ultrasonic exfoliation combines mechanical removal with sonic vibration for superior surface refinement without chemical dependency. Top safety profile with highest customer satisfaction rating.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074NQ23LY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Dermaflash",
+  "price": "$229",
+  "_research": {
+    "name": "Dermaflash LUXE Exfoliation Device",
+    "rating": 4.4,
+    "reviewCount": 2893,
+    "pros": [
+      "Highest review rating (4.4★)",
+      "Excellent for all skin types including sensitive",
+      "Immediate visible exfoliation results"
+    ],
+    "con": "Physical exfoliation may cause irritation if overused; not suitable for compromised skin barriers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

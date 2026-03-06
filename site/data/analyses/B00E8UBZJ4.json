@@ -1,0 +1,35 @@
+{
+  "asin": "B00E8UBZJ4",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Glycerin",
+    "Cetyl Alcohol",
+    "Sodium Cocyl Isethionate"
+  ],
+  "verdict": "A gentle creamy cleanser prioritizing skin barrier support over aggressive cleansing actives. The formula suits sensitive skin but lacks exfoliating or treatment-focused ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E8UBZJ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$30",
+  "_research": {
+    "name": "Kiehl's Creamy Body Cleanser",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "pros": [
+      "Creamy, non-stripping formula",
+      "Excellent for sensitive skin",
+      "Kiehl's quality standards"
+    ],
+    "con": "Functions purely as cleanser with no skincare treatment benefits beyond basic cleansing.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

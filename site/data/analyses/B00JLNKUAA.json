@@ -1,0 +1,35 @@
+{
+  "asin": "B00JLNKUAA",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red Light (660nm)",
+    "Near-Infrared (880nm)",
+    "LED Panel Array"
+  ],
+  "verdict": "Quasar's panel delivers high-irradiance light therapy with clinical backing for collagen remodeling, though panel format limits facial contour adaptation. Professional-grade intensity justifies luxury pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JLNKUAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Quasar",
+  "price": "$249",
+  "_research": {
+    "name": "Quasar MD Plus LED Light Therapy Panel",
+    "rating": 4.2,
+    "reviewCount": 2478,
+    "pros": [
+      "Highest power output in category",
+      "Suitable for full face and body",
+      "Proven photobiomodulation effects"
+    ],
+    "con": "Large format is less portable and requires dedicated space in skincare routine.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

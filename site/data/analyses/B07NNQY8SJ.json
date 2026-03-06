@@ -1,0 +1,35 @@
+{
+  "asin": "B07NNQY8SJ",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Vitamin B5",
+    "Thermal Water"
+  ],
+  "verdict": "Dermatologically sound formulation with dual molecular weight hyaluronic acid for layered hydration benefits. Clean ingredient profile makes it suitable for sensitive skin but lacks anti-aging actives beyond hydration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NNQY8SJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Roche-Posay",
+  "price": "$32",
+  "_research": {
+    "name": "La Roche-Posay Hyalu B5 Pure Hyaluronic Acid Serum",
+    "rating": 4.4,
+    "reviewCount": 6200,
+    "pros": [
+      "Hypoallergenic formula",
+      "Dermatologist recommended",
+      "Excellent for dehydrated skin"
+    ],
+    "con": "Limited anti-aging benefits beyond hydration; better suited for hydration-focused routines.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

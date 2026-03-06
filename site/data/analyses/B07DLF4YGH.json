@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLF4YGH",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 26,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Azelaic Acid 10%",
+    "Soothing Agents",
+    "Stabilizing Complex"
+  ],
+  "verdict": "Azelaic acid at 10% targets hyperpigmentation, rosacea, and acne with anti-inflammatory and antibacterial action. The solid 4.2★ rating across 5800 reviews demonstrates this often-overlooked ingredient's real efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLF4YGH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$12.30",
+  "_research": {
+    "name": "Azelaic Acid Suspension 10%",
+    "rating": 4.2,
+    "reviewCount": 5800,
+    "pros": [
+      "Effective for post-inflammatory hyperpigmentation",
+      "Addresses rosacea and acne",
+      "Well-tolerated by most skin types"
+    ],
+    "con": "Azelaic acid has gritty texture and can feel drying; requires robust hydration layering.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

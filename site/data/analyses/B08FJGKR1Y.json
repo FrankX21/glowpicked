@@ -1,0 +1,35 @@
+{
+  "asin": "B08FJGKR1Y",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Plant-Based Oils",
+    "Ceramides",
+    "Peptides"
+  ],
+  "verdict": "Augustinus Bader's oil serum leverages the brand's proprietary peptide complex with botanicals and ceramides for sophisticated barrier restoration. The formulation balances luxury positioning with functional actives, though the peptide blend remains undisclosed.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FJGKR1Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Augustinus Bader",
+  "price": "$110",
+  "_research": {
+    "name": "Nourishing Oil Serum",
+    "rating": 4.4,
+    "reviewCount": 980,
+    "pros": [
+      "Proprietary peptide technology",
+      "Ceramide-oil synergy",
+      "Dermatologist-formulated"
+    ],
+    "con": "Proprietary peptide concentrations prevent independent efficacy verification.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

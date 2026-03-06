@@ -1,0 +1,35 @@
+{
+  "asin": "B00JYDYG9C",
+  "glowScore": 54,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 2,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless steel",
+    "Rubber padding",
+    "Spring mechanism"
+  ],
+  "verdict": "This is a non-chemical tool relying entirely on mechanical design. Safety and durability are excellent, though results depend on user technique rather than formulation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JYDYG9C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Sephora Collection",
+  "price": "$10",
+  "_research": {
+    "name": "Stainless Steel Eyelash Curler",
+    "rating": 4.3,
+    "reviewCount": 6900,
+    "pros": [
+      "Durable stainless steel construction",
+      "No skin contact chemicals",
+      "Reusable and long-lasting investment"
+    ],
+    "con": "Effectiveness varies significantly based on individual eye shape and technique.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

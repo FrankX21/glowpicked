@@ -1,0 +1,35 @@
+{
+  "asin": "B08L8X5KYB",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Glycerin",
+    "Panthenol",
+    "Cetyl Alcohol"
+  ],
+  "verdict": "Dermatologist-recommended formula with excellent safety profile and proven hydrating ingredients. Offers solid moisture-binding through glycerin and panthenol, making it accessible luxury without unnecessary actives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L8X5KYB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$12",
+  "_research": {
+    "name": "Cetaphil Rich Hydrating Body Cream",
+    "rating": 4.4,
+    "reviewCount": 2341,
+    "pros": [
+      "Dermatologist-tested",
+      "Hypoallergenic formula",
+      "Strong review volume validates efficacy"
+    ],
+    "con": "Basic ingredient profile lacks anti-aging or specialized treatment compounds expected at higher price points.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

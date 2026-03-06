@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLF4Y6K",
+  "glowScore": 66,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Mandelic Acid 10%",
+    "Hyaluronic Acid",
+    "Brightening Complex"
+  ],
+  "verdict": "Mandelic acid is a larger AHA molecule that penetrates slower, making it gentler while still effective for brightening and texture. The 10% concentration is substantial, offering real exfoliating power with reduced irritation risk.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLF4Y6K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$8.50",
+  "_research": {
+    "name": "Mandelic Acid 10% + HA Brightening Serum",
+    "rating": 4,
+    "reviewCount": 5300,
+    "pros": [
+      "Gentler AHA with strong efficacy",
+      "Excellent for hyperpigmentation",
+      "Good for sensitive/ethnic skin"
+    ],
+    "con": "Slower penetration means results take 2-3 weeks to become apparent.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

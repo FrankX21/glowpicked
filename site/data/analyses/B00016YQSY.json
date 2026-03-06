@@ -1,0 +1,35 @@
+{
+  "asin": "B00016YQSY",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Oat Extract"
+  ],
+  "verdict": "Aveeno's Daily Moisturizing Lotion features colloidal oatmeal, a time-tested soothing ingredient, paired with effective humectants. This lightweight formula offers excellent value for daily body moisturization.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016YQSY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$8",
+  "_research": {
+    "name": "Aveeno Daily Moisturizing Lotion",
+    "rating": 4.6,
+    "reviewCount": 9800,
+    "pros": [
+      "Colloidal oatmeal for irritation relief",
+      "Lightweight lotion texture",
+      "Budget-friendly with broad appeal"
+    ],
+    "con": "Lacks advanced moisturizing agents like hyaluronic acid.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B0014GFJGE",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 19,
+    "safetyProfile": 14,
+    "valueForMoney": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Squalane",
+    "Plant Oils",
+    "Silicones"
+  ],
+  "verdict": "A lightweight hair oil achieving exceptional popularity (8,923 reviews) through effective frizz control. While excellent for hair, this is not a body care product and requires recategorization for accurate analysis.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0014GFJGE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Bumble and bumble",
+  "price": "$58",
+  "_research": {
+    "name": "Bumble and bumble Hairdresser's Invisible Oil",
+    "rating": 4.5,
+    "reviewCount": 8923,
+    "pros": [
+      "Proven frizz-control efficacy",
+      "Lightweight, non-greasy feel",
+      "Massive positive review volume"
+    ],
+    "con": "This is a hair product, not body care; its presence in this list represents misclassification requiring removal.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

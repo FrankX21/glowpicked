@@ -1,0 +1,35 @@
+{
+  "asin": "B00BGXWCW0",
+  "glowScore": 88,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Colloidal Oatmeal",
+    "Ceramides",
+    "Glycerin"
+  ],
+  "verdict": "Eucerin's eczema formula excels with colloidal oatmeal for anti-inflammatory relief and ceramides for barrier restoration, making it one of the most ingredient-thoughtful options in this list. Excellent safety profile for sensitive, compromised skin.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BGXWCW0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$14",
+  "_research": {
+    "name": "Eucerin Eczema Relief Cream",
+    "rating": 4.6,
+    "reviewCount": 9100,
+    "pros": [
+      "Colloidal oatmeal reduces inflammation",
+      "Ceramides restore skin barrier",
+      "Hypoallergenic and fragrance-free"
+    ],
+    "con": "Oatmeal texture may feel gritty to some users despite soothing benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

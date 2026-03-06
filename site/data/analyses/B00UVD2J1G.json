@@ -1,0 +1,35 @@
+{
+  "asin": "B00UVD2J1G",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Homosalate",
+    "Ceramides"
+  ],
+  "verdict": "CeraVe Face Lotion SPF 50 delivers exceptional value with ceramides, niacinamide, and hyaluronic acid combined with effective UV filters. The highest review count (4123) and 4.4★ rating confirm this is the superior choice for daily facial sun protection across skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UVD2J1G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$16",
+  "_research": {
+    "name": "CeraVe Face Lotion SPF 50",
+    "rating": 4.4,
+    "reviewCount": 4123,
+    "pros": [
+      "Ceramide-rich barrier support",
+      "Excellent review volume and ratings",
+      "Dermatologist-recommended"
+    ],
+    "con": "Slightly heavier texture than watery formulations may feel occlusive on very oily skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

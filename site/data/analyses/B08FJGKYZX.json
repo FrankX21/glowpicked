@@ -1,0 +1,35 @@
+{
+  "asin": "B08FJGKYZX",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 29,
+    "safetyProfile": 15,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Proprietary Peptide Complex",
+    "Natural Oils",
+    "Ceramides"
+  ],
+  "verdict": "Augustinus Bader's cream represents the pinnacle of luxury formulation with a proprietary peptide complex designed to mimic skin biology and restore optimal function. The ingredient sophistication justifies luxury pricing, though limited clinical disclosure requires brand trust.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FJGKYZX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Augustinus Bader",
+  "price": "$150",
+  "_research": {
+    "name": "The Rich Cream",
+    "rating": 4.5,
+    "reviewCount": 1100,
+    "pros": [
+      "Advanced proprietary peptide technology",
+      "Biocompatible formulation",
+      "Dermatologist-developed"
+    ],
+    "con": "Proprietary ingredients prevent third-party verification of efficacy claims.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

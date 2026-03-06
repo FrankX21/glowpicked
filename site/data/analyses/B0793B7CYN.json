@@ -1,0 +1,35 @@
+{
+  "asin": "B0793B7CYN",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 28,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Caffeine 5%",
+    "EGCG (Green Tea Extract)",
+    "Hydration Matrix"
+  ],
+  "verdict": "This antioxidant powerhouse combines caffeine's depuffing action with EGCG's potent free-radical protection and anti-inflammatory benefits. The high review count (7800) reflects consistent real-world efficacy, particularly for under-eye darkness and morning puffiness.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0793B7CYN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$8.80",
+  "_research": {
+    "name": "Caffeine Solution 5% + EGCG Serum",
+    "rating": 4.3,
+    "reviewCount": 7800,
+    "pros": [
+      "Double antioxidant protection",
+      "Proven depuffing action",
+      "Lightweight, fast-absorbing formula"
+    ],
+    "con": "Caffeine results are temporary (4-6 hours) rather than cumulative structural improvement.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07T4FTGMG",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "ceramides",
+    "salicylic acid",
+    "glycerin"
+  ],
+  "verdict": "Clinically-backed formula with ceramides and salicylic acid targeting rough, bumpy skin texture. Superior ingredient profile for exfoliation and barrier repair.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07T4FTGMG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$15",
+  "_research": {
+    "name": "CeraVe SA Lotion for Rough and Bumpy Skin",
+    "rating": 4.5,
+    "reviewCount": 6400,
+    "pros": [
+      "salicylic acid chemically exfoliates",
+      "ceramides restore skin barrier",
+      "addresses specific skin concerns"
+    ],
+    "con": "Exfoliating acid may be too strong for daily use on sensitive skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "asin": "B003E34JAM",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 21,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Menthol",
+    "Camphor",
+    "Petrolatum",
+    "Vitamin E"
+  ],
+  "verdict": "Treatment-focused formula with cooling menthol and camphor for intensive repair sensations. However, formula is less sophisticated than competitors with similar or lower pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003E34JAM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Bliss",
+  "price": "$22",
+  "_research": {
+    "name": "Lip Fix Extreme",
+    "rating": 4.2,
+    "reviewCount": 623,
+    "pros": [
+      "Therapeutic cooling sensation",
+      "Intense moisturization",
+      "Bliss brand fun factor"
+    ],
+    "con": "Menthol irritation risk for sensitive lips; formula lacks modern active ingredients like peptides or hyaluronic acid.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

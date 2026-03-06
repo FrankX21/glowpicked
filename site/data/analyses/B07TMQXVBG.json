@@ -1,0 +1,35 @@
+{
+  "asin": "B07TMQXVBG",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Jade Stone",
+    "Natural Mineral",
+    "Polished Crystal"
+  ],
+  "verdict": "Jade offers similar benefits to rose quartz with traditional cooling and anti-inflammatory properties attributed to the mineral itself. This is an excellent budget choice for those seeking tool-based skincare without chemical additives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TMQXVBG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Earth來",
+  "price": "$8",
+  "_research": {
+    "name": "Jade Roller Face Massager",
+    "rating": 4.4,
+    "reviewCount": 12000,
+    "pros": [
+      "Highest review count indicates reliability",
+      "Natural cooling effect",
+      "Durable polished stone"
+    ],
+    "con": "Pure tool with no formulated skincare compounds to address specific skin concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B08D5KXLZ8",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 22,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Bamboo Charcoal Material",
+    "Natural Bristles",
+    "Pore Cleansing Design"
+  ],
+  "verdict": "Natural charcoal-infused brush combining mechanical cleansing with carbon's absorbent properties. Good safety for daily use with proper bristle maintenance.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08D5KXLZ8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Evara",
+  "price": "$11",
+  "_research": {
+    "name": "Bamboo Charcoal Face Brush",
+    "rating": 4.2,
+    "reviewCount": 6300,
+    "pros": [
+      "Natural antimicrobial properties",
+      "Effective pore cleansing",
+      "Eco-friendly material"
+    ],
+    "con": "Bristles require regular replacement to maintain effectiveness and hygiene.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

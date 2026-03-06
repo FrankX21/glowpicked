@@ -1,0 +1,35 @@
+{
+  "asin": "B00LMUX5XA",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "cocoa butter",
+    "vitamin E"
+  ],
+  "verdict": "Vaseline Cocoa Butter variant adds rich emollient cocoa butter to the base petrolatum formula for enhanced nourishment. Good value upgrade over original with pleasant flavor and improved moisturizing power.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMUX5XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vaseline",
+  "price": "$2",
+  "_research": {
+    "name": "Vaseline Lip Therapy Cocoa Butter",
+    "rating": 4.5,
+    "reviewCount": 5100,
+    "pros": [
+      "Cocoa butter adds richness and flavor",
+      "Vitamin E provides antioxidant support",
+      "Budget-friendly variant"
+    ],
+    "con": "Cocoa butter may feel heavy; some users report stickiness.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

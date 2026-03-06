@@ -1,0 +1,35 @@
+{
+  "asin": "B01MT3JKXL",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octocrylene",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Murad's shield includes hyaluronic acid for hydration alongside reliable SPF 30 protection. Positioned as an anti-aging sunscreen, though the formula lacks distinctive advanced actives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MT3JKXL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Murad",
+  "price": "$65",
+  "_research": {
+    "name": "Murad Invisiblur Perfecting Shield SPF 30",
+    "rating": 4.1,
+    "reviewCount": 876,
+    "pros": [
+      "Hyaluronic acid hydration",
+      "Anti-aging positioning",
+      "Clean profile"
+    ],
+    "con": "SPF 30 is lower-tier; premium pricing without sufficient differentiation from competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

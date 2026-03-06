@@ -1,0 +1,35 @@
+{
+  "asin": "B0014DKSCT",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "beeswax",
+    "jojoba oil",
+    "vitamin E"
+  ],
+  "verdict": "Natural formula combining beeswax with botanical oils and vitamin E for nourishing hydration. Excellent ingredient profile with antioxidant benefits for budget-conscious consumers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0014DKSCT&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Vanilla Mint Lip Balm",
+    "rating": 4.4,
+    "reviewCount": 2734,
+    "pros": [
+      "natural beeswax base",
+      "vitamin E antioxidant protection",
+      "pleasant vanilla-mint flavor"
+    ],
+    "con": "Beeswax texture may feel slightly waxy compared to modern gel balms.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

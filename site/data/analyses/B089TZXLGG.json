@@ -1,0 +1,35 @@
+{
+  "asin": "B089TZXLGG",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 20,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Natural Wood Material",
+    "Jade Gua Sha Stone",
+    "Smooth Finish"
+  ],
+  "verdict": "Dual-function tool combining traditional gua sha with facial rolling benefits. Natural materials provide safe, effective lymphatic drainage support.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B089TZXLGG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Baimei",
+  "price": "$9",
+  "_research": {
+    "name": "Wooden Face Roller Gua Sha Combo",
+    "rating": 4.3,
+    "reviewCount": 7400,
+    "pros": [
+      "Reduces facial puffiness",
+      "Natural material composition",
+      "Versatile dual function"
+    ],
+    "con": "Wooden component may warp or splinter with improper care.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

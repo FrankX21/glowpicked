@@ -1,0 +1,35 @@
+{
+  "asin": "B07PQXVNV8",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red Light (630nm)",
+    "Amber Light (590nm)",
+    "Blue Light (415nm)"
+  ],
+  "verdict": "CurrentBody's multi-spectrum LED mask offers comprehensive light therapy with red for collagen and blue for acne, backed by substantial clinical research. The high review count (3012) reflects proven user satisfaction.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07PQXVNV8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CurrentBody",
+  "price": "$365",
+  "_research": {
+    "name": "CurrentBody LED Light Therapy Mask",
+    "rating": 4.3,
+    "reviewCount": 3012,
+    "pros": [
+      "Multi-wavelength coverage addresses multiple concerns",
+      "Professional-grade intensity",
+      "30-minute weekly commitment"
+    ],
+    "con": "Expensive upfront investment with results taking 8-12 weeks of consistent use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

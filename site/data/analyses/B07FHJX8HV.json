@@ -1,0 +1,35 @@
+{
+  "asin": "B07FHJX8HV",
+  "glowScore": 49,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 0,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sonic Vibration Technology",
+    "Electric Bristles",
+    "No Chemical Additives"
+  ],
+  "verdict": "This electronic cleanser relies on vibration frequency rather than ingredients to remove surface impurities. It's chemical-free but may cause irritation with overuse on sensitive skin.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07FHJX8HV&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Sonic Vibration",
+  "price": "$15",
+  "_research": {
+    "name": "Electric Facial Cleanser Brush",
+    "rating": 4.2,
+    "reviewCount": 6800,
+    "pros": [
+      "No chemical irritants",
+      "Effective mechanical cleansing",
+      "Budget-friendly price point"
+    ],
+    "con": "Can cause micro-irritation or sensitivity if used more than 2-3 times weekly.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

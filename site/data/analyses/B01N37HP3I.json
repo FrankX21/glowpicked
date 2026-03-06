@@ -1,0 +1,35 @@
+{
+  "asin": "B01N37HP3I",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "Glycerin"
+  ],
+  "verdict": "A gentle, ceramide-rich eye cream focusing on barrier repair and hydration rather than active treatment. Dermatologist-recommended for sensitive skin but lacks potent actives for visible wrinkle reduction.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N37HP3I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$7.90",
+  "_research": {
+    "name": "The Ordinary Matrixyl 10% + HA",
+    "rating": 4.1,
+    "reviewCount": 5500,
+    "pros": [
+      "Dermatologist-tested formula",
+      "Barrier-supporting ceramides",
+      "Hypoallergenic"
+    ],
+    "con": "Minimal active ingredients limits efficacy for visible anti-aging concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

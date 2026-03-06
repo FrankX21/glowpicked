@@ -1,0 +1,36 @@
+{
+  "asin": "B00E3YJHIY",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Zinc Oxide",
+    "Titanium Dioxide",
+    "Petrolatum",
+    "Vitamin E"
+  ],
+  "verdict": "Lightweight SPF formula with mineral sunscreen technology suitable for sensitive lips. However, formula is more basic than competitors at similar price tiers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E3YJHIY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$19",
+  "_research": {
+    "name": "Lip Conditioner SPF 15",
+    "rating": 4.2,
+    "reviewCount": 1563,
+    "pros": [
+      "Mineral SPF for sensitive skin",
+      "Non-comedogenic",
+      "Kiehl's reliability"
+    ],
+    "con": "Lower SPF (15) than comparable products and lacks hydrating actives like hyaluronic acid.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

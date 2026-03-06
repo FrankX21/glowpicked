@@ -1,0 +1,35 @@
+{
+  "asin": "B07NQSMR8Q",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "405-420nm Blue Light",
+    "LED Technology",
+    "Targeting Propionibacterium acnes"
+  ],
+  "verdict": "Blue light technology is clinically proven for acne-prone skin, with solid safety data supporting bacterial reduction. Good entry-level device but less versatile than multi-spectrum alternatives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NQSMR8Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Silk'n",
+  "price": "$99",
+  "_research": {
+    "name": "Silk'n Blue Light Acne Treatment Device",
+    "rating": 4.1,
+    "reviewCount": 1923,
+    "pros": [
+      "Clinically-backed blue light wavelength",
+      "Affordable luxury tier pricing",
+      "Targeted acne treatment without systemic effects"
+    ],
+    "con": "Limited to acne treatment only; doesn't address anti-aging or broader skin concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

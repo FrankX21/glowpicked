@@ -1,0 +1,35 @@
+{
+  "asin": "B00SLZYX3I",
+  "glowScore": 58,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 16,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "mineral oil",
+    "lanolin"
+  ],
+  "verdict": "A basic moisturizing formula with standard occlusive ingredients that provide temporary hydration. Effective but lacks standout actives or natural moisturizers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SLZYX3I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Chapstick",
+  "price": "$2",
+  "_research": {
+    "name": "Chapstick Total Moisture Lip Balm",
+    "rating": 4,
+    "reviewCount": 2156,
+    "pros": [
+      "simple formula",
+      "good moisture barrier",
+      "widely available"
+    ],
+    "con": "Minimal nourishing ingredients and relies heavily on occlusive agents rather than humectants.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

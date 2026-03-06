@@ -1,0 +1,35 @@
+{
+  "asin": "B00B2BTQZ6",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 19,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "glycerin",
+    "petrolatum",
+    "fragrance"
+  ],
+  "verdict": "Budget fragrance-free lotion with basic glycerin and occlusive blend. Minimal ingredient innovation but safe for sensitive skin and extremely affordable.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B2BTQZ6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Lubriderm",
+  "price": "$9",
+  "_research": {
+    "name": "Lubriderm Fragrance Free Lotion",
+    "rating": 4.3,
+    "reviewCount": 5400,
+    "pros": [
+      "fragrance-free reduces irritation risk",
+      "ultra-budget friendly",
+      "simple formula suitable for sensitive skin"
+    ],
+    "con": "Lower rating (4.3★) and fragrance-free marketing suggests weaker performance vs. competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

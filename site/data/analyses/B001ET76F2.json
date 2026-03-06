@@ -1,0 +1,35 @@
+{
+  "asin": "B001ET76F2",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Dimethicone",
+    "Glycerin",
+    "Petrolatum"
+  ],
+  "verdict": "Highest-rated product with minimal ingredient list emphasizing safety for sensitive/compromised skin. Fragrance-free formulation reduces irritation potential.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ET76F2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vanicream",
+  "price": "$8",
+  "_research": {
+    "name": "Vanicream Lite Lotion",
+    "rating": 4.6,
+    "reviewCount": 2800,
+    "pros": [
+      "Safest formula for reactive skin",
+      "Excellent ratings",
+      "Minimalist approach"
+    ],
+    "con": "Ultra-simple formula provides basic hydration without targeted treatment benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

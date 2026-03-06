@@ -1,0 +1,35 @@
+{
+  "asin": "B07DV9L8D5",
+  "glowScore": 60,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 8,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Jade stone",
+    "Natural cooling properties",
+    "Physical massage"
+  ],
+  "verdict": "Traditional tool with minimal active ingredients relying on cooling and massage mechanics. Effective for lymphatic drainage and product absorption, though benefits are primarily temporary.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DV9L8D5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Skin Gym",
+  "price": "$48",
+  "_research": {
+    "name": "Skin Gym Jade Roller Facial Roller",
+    "rating": 4.3,
+    "reviewCount": 6800,
+    "pros": [
+      "Natural material with no chemical concerns",
+      "Improves product application efficiency",
+      "Affordable luxury positioning"
+    ],
+    "con": "Lacks active ingredients; provides only mechanical benefits without skin-transforming compounds.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

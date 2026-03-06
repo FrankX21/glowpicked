@@ -1,0 +1,35 @@
+{
+  "asin": "B00B2BTQY8",
+  "glowScore": 91,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "glycerin",
+    "panthenol",
+    "allantoin"
+  ],
+  "verdict": "Best-in-class budget moisturizer with fragrance-free formula and soothing panthenol/allantoin. Highest rating (4.7★) reflects excellent ingredient balance and safety profile.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B2BTQY8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$10",
+  "_research": {
+    "name": "Cetaphil Moisturizing Lotion Fragrance Free",
+    "rating": 4.7,
+    "reviewCount": 9200,
+    "pros": [
+      "panthenol soothes and heals",
+      "allantoin reduces irritation",
+      "highest rated cleanser alternative option"
+    ],
+    "con": "Lightweight lotion may not suffice for very dry skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

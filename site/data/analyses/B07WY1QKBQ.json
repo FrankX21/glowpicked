@@ -1,0 +1,35 @@
+{
+  "asin": "B07WY1QKBQ",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "0.25mm Microneedles",
+    "Collagen Induction Therapy",
+    "Fractional skin stimulation"
+  ],
+  "verdict": "Microneedling triggers natural collagen remodeling at the dermal level with extensive clinical support for scars, texture, and anti-aging. Most reviews (3456) indicate strong consumer trust, though requires proper technique.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WY1QKBQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Dr. Pen",
+  "price": "$79",
+  "_research": {
+    "name": "Dr. Pen A6 Microneedling Pen",
+    "rating": 4.2,
+    "reviewCount": 3456,
+    "pros": [
+      "Highest review count showing strong market confidence",
+      "Proven for deep wrinkle and scar improvement",
+      "Affordable microneedling entry point"
+    ],
+    "con": "Steeper learning curve and potential for user error; requires numbing cream and proper aftercare protocols.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

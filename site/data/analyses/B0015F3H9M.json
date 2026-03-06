@@ -1,0 +1,35 @@
+{
+  "asin": "B0015F3H9M",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "cocoa butter",
+    "glycerin",
+    "mineral oil"
+  ],
+  "verdict": "Classic affordable moisturizer with rich cocoa butter and glycerin for hydration. Excellent for dry skin on a budget, though mineral oil may not suit all preferences.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0015F3H9M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Palmer's",
+  "price": "$6",
+  "_research": {
+    "name": "Palmer's Cocoa Butter Formula Original Lotion",
+    "rating": 4.5,
+    "reviewCount": 11000,
+    "pros": [
+      "iconic formula trusted for decades",
+      "rich cocoa butter deeply moisturizes",
+      "excellent value with massive review count"
+    ],
+    "con": "Contains mineral oil which some consumers prefer to avoid for environmental/skin concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

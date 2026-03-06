@@ -1,0 +1,33 @@
+{
+  "asin": "B07MDKWLG4",
+  "glowScore": 49,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 0,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "N/A - Physical Device"
+  ],
+  "verdict": "A mechanical trimming device with no chemical ingredients or skincare formulation. Provides safe, precise eyebrow grooming without topical products. Excellent value for budget-conscious consumers seeking tool-based solutions.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07MDKWLG4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Finishing Touch",
+  "price": "$20",
+  "_research": {
+    "name": "Eyebrow Trimmer for Women Finishing Touch",
+    "rating": 4.1,
+    "reviewCount": 9800,
+    "pros": [
+      "Zero chemical exposure",
+      "Precision grooming capability",
+      "4.1★ rating with nearly 10k reviews"
+    ],
+    "con": "Tool-based rather than ingredient-formulated; not applicable for skincare ingredient analysis.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

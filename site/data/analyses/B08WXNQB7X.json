@@ -1,0 +1,36 @@
+{
+  "asin": "B08WXNQB7X",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 19,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Platinum coating",
+    "Micro-vibration technology",
+    "Rose quartz composition"
+  ],
+  "verdict": "ReFa Carat Ray combines premium materials (platinum-coated rose quartz) with micro-vibration and solar-powered charging for luxurious facial rolling and lymphatic drainage. The elegant design delivers noticeable depuffing results with a prestige brand experience.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08WXNQB7X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ReFa",
+  "price": "$169",
+  "_research": {
+    "name": "ReFa Carat Ray Facial Roller",
+    "rating": 4.5,
+    "reviewCount": 3256,
+    "pros": [
+      "Luxury Japanese craftsmanship",
+      "Solar-powered charging capability",
+      "Visible depuffing results",
+      "Premium aesthetic design"
+    ],
+    "con": "Results are primarily mechanical depuffing; lacks active ingredient infusion or electrical stimulation for deeper skin rejuvenation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

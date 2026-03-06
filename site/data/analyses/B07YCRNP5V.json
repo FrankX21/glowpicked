@@ -1,0 +1,35 @@
+{
+  "asin": "B07YCRNP5V",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 29,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Rose Hip Oil",
+    "Black Tourmaline Extract",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Guerlain's highest-rated serum combines luxurious rose hip with proprietary black tourmaline crystal technology for antioxidant and energizing benefits. Premium formulation with strong consumer satisfaction despite limited ingredient transparency.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YCRNP5V&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Guerlain",
+  "price": "$185.00",
+  "_research": {
+    "name": "Supreme Noir Crystal Serum",
+    "rating": 4.4,
+    "reviewCount": 1500,
+    "pros": [
+      "Highest luxury aesthetic appeal",
+      "Rose hip antioxidant richness",
+      "Excellent consumer ratings"
+    ],
+    "con": "Proprietary crystal technology lacks peer-reviewed clinical substantiation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

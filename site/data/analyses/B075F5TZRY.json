@@ -1,0 +1,35 @@
+{
+  "asin": "B075F5TZRY",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 28,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "24K Gold",
+    "Hyaluronic Acid",
+    "Peptides"
+  ],
+  "verdict": "SK-II's luxury essence combines 24K gold with proprietary Pitera™ yeast complex for prestige positioning and highest rating (4.5★). However, gold's skincare benefits are largely cosmetic; formulation justification relies on brand heritage rather than ingredient innovation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075F5TZRY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "SK-II",
+  "price": "$99.00",
+  "_research": {
+    "name": "Premium Gold Essence Deep Nourishing",
+    "rating": 4.5,
+    "reviewCount": 4300,
+    "pros": [
+      "Highest product rating (4.5★)",
+      "Proprietary Pitera™ complex",
+      "Luxe positioning justified by results"
+    ],
+    "con": "24K gold provides minimal functional benefit; price premium heavily reflects branding over ingredient science.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

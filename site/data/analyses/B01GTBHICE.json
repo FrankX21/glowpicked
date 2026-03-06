@@ -1,0 +1,35 @@
+{
+  "asin": "B01GTBHICE",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Coconut Oil",
+    "Vitamin E",
+    "Chamomile Extract"
+  ],
+  "verdict": "Herbivore Botanicals Coco achieves exceptional ratings through a refined blend of cold-pressed coconut oil and calming botanicals with minimal synthetic additives. The formula balances efficacy with clean beauty standards, justifying premium positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GTBHICE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Herbivore Botanicals",
+  "price": "$54",
+  "_research": {
+    "name": "Herbivore Botanicals Coco Body Oil",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "pros": [
+      "High-quality cold-pressed coconut oil",
+      "Extensive botanical extract profile",
+      "Excellent customer satisfaction and repeat purchase rate"
+    ],
+    "con": "Coconut oil base may be comedogenic for acne-prone individuals.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

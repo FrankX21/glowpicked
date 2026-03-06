@@ -1,0 +1,35 @@
+{
+  "asin": "B08FQXQB7W",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 28,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red Light Wavelength (660nm)",
+    "Infrared Light (850nm)",
+    "Blue Light Wavelength (470nm)"
+  ],
+  "verdict": "Nurlighting (CurrentBody) LED mask combines multiple therapeutic light wavelengths to address acne, aging, and inflammation across the entire face simultaneously. The comprehensive light spectrum provides broader skin benefits than single-wavelength devices.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FQXQB7W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Currentbody",
+  "price": "$390",
+  "_research": {
+    "name": "Nurlighting LED Light Therapy Mask Premium",
+    "rating": 4.2,
+    "reviewCount": 2103,
+    "pros": [
+      "Multi-wavelength light coverage",
+      "Full-face treatment capability",
+      "Clinically-researched wavelengths"
+    ],
+    "con": "20-30 minute treatment sessions are time-intensive compared to quicker handheld device options.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

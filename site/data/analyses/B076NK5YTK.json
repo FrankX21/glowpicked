@@ -1,0 +1,35 @@
+{
+  "asin": "B076NK5YTK",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 21,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Natural Moisturizing Factors",
+    "Hyaluronic Acid",
+    "Allantoin"
+  ],
+  "verdict": "An exceptional budget moisturizer replicating skin's natural humectants with high-volume reviews reflecting proven efficacy. Best as a base layer rather than standalone treatment.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076NK5YTK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$7",
+  "_research": {
+    "name": "The Ordinary Natural Moisturizing Factors + HA",
+    "rating": 4.2,
+    "reviewCount": 5100,
+    "pros": [
+      "Natural ceramides and amino acids mimic skin chemistry",
+      "Exceptional value with 5100+ reviews",
+      "Minimal irritant potential"
+    ],
+    "con": "No active treatment ingredients limits effectiveness for specific aging or blemish concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

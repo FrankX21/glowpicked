@@ -1,0 +1,35 @@
+{
+  "asin": "B01MZDT95W",
+  "glowScore": 50,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 0,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sonic vibration technology",
+    "T-Sonic pulsations",
+    "Silicone brush head"
+  ],
+  "verdict": "Entry-level FOREO sonic cleanser with T-Sonic pulse technology and zero chemical ingredients. Extremely popular with 11k+ reviews; reliable, effective, and affordable.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MZDT95W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$39",
+  "_research": {
+    "name": "Foreo Luna Play Sonic Facial Cleanser",
+    "rating": 4.2,
+    "reviewCount": 11200,
+    "pros": [
+      "Massive review count validates quality",
+      "Portable compact design",
+      "Hypoallergenic silicone material"
+    ],
+    "con": "Smaller than full-size FOREO Luna models with less coverage per use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

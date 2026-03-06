@@ -1,0 +1,35 @@
+{
+  "asin": "B01EQGTX7A",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Sakura Extract",
+    "Vitamin C Derivative",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Shiseido's brightening formula emphasizes botanical extracts with gentle vitamin C stabilization for radiance without irritation. Effective but ingredient profile feels somewhat dated compared to newer brightening technologies.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01EQGTX7A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Shiseido",
+  "price": "$98.00",
+  "_research": {
+    "name": "Prestige White Lucent Brightening",
+    "rating": 4.1,
+    "reviewCount": 2400,
+    "pros": [
+      "Gentle brightening approach",
+      "Rich botanical heritage",
+      "Non-irritating vitamin C"
+    ],
+    "con": "Vitamin C derivative is less potent than pure L-ascorbic acid alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

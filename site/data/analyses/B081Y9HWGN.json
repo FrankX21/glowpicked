@@ -1,0 +1,35 @@
+{
+  "asin": "B081Y9HWGN",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel Construction",
+    "Ergonomic Design",
+    "Smooth Surface"
+  ],
+  "verdict": "Professional-grade stainless steel gua sha with superior durability and non-porous surface. Excellent safety profile with strong review count (6200) reflecting longevity.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081Y9HWGN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "NATURAL EARTH",
+  "price": "$8",
+  "_research": {
+    "name": "Stainless Steel Gua Sha Face Tool",
+    "rating": 4.3,
+    "reviewCount": 6200,
+    "pros": [
+      "Durable stainless steel",
+      "Superior heat retention",
+      "Non-porous material"
+    ],
+    "con": "Metal conduction may feel cold initially and requires warming before use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

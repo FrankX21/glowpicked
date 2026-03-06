@@ -1,0 +1,35 @@
+{
+  "asin": "B088XVVM92",
+  "glowScore": 56,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 14,
+    "safetyProfile": 12,
+    "valueForMoney": 8
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Volumizing polymers",
+    "Keratin compounds",
+    "Heat protectants"
+  ],
+  "verdict": "Olaplex Hair Perfecting Volumizer is a hair styling product containing volumizing agents and heat protection, not a skincare tool. While premium Olaplex formulation, it's miscategorized for this skincare device analysis.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B088XVVM92&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olaplex",
+  "price": "$28",
+  "_research": {
+    "name": "Olaplex Hair Perfecting Volumizer",
+    "rating": 4.2,
+    "reviewCount": 2156,
+    "pros": [
+      "Olaplex's proven bond-repair technology",
+      "Heat protection",
+      "Professional volumizing results"
+    ],
+    "con": "Not a skincare tool; belongs in hair care category, not facial device analysis.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

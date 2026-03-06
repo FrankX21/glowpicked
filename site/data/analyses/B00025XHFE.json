@@ -1,0 +1,35 @@
+{
+  "asin": "B00025XHFE",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Water",
+    "Glycerin",
+    "Panthenol"
+  ],
+  "verdict": "MAC Fix+ is a professional setting spray with minimal active ingredients, prioritizing performance over skincare benefits. While safe and effective for makeup, it lacks substantive body care benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00025XHFE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "MAC",
+  "price": "$30",
+  "_research": {
+    "name": "MAC Fix+",
+    "rating": 4.5,
+    "reviewCount": 7821,
+    "pros": [
+      "Exceptional safety profile",
+      "Professional-grade formulation",
+      "Highly effective for makeup longevity"
+    ],
+    "con": "Designed as a setting spray, not a moisturizer—provides minimal lasting hydration or skin conditioning.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

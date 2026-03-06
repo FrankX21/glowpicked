@@ -1,0 +1,35 @@
+{
+  "asin": "B00B2BTR2E",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Niacinamide",
+    "Dimethicone"
+  ],
+  "verdict": "CeraVe's facial AM lotion combines niacinamide and glycerin for daily hydration with lightweight texture suitable for face and neck, though it lacks the ceramide trio found in their body lotion for deeper barrier repair.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B2BTR2E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$16",
+  "_research": {
+    "name": "CeraVe Lotion AM Facial Moisturizing",
+    "rating": 4.5,
+    "reviewCount": 12000,
+    "pros": [
+      "Lightweight AM formula",
+      "Niacinamide for skin barrier",
+      "12,000+ reviews show consistency"
+    ],
+    "con": "Missing ceramides limits barrier-repair capability compared to CeraVe's other formulations.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

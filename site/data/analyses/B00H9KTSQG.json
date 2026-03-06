@@ -1,0 +1,35 @@
+{
+  "asin": "B00H9KTSQG",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Salicylic Acid",
+    "Niacinamide",
+    "Thermal Spring Water"
+  ],
+  "verdict": "Specialized mattifying formula with salicylic acid targeting oily and acne-prone skin. La Roche-Posay's thermal water adds soothing benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H9KTSQG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Roche-Posay",
+  "price": "$16",
+  "_research": {
+    "name": "La Roche-Posay Effaclar Mat Daily Moisturizer",
+    "rating": 4.3,
+    "reviewCount": 5300,
+    "pros": [
+      "Oil-control focused",
+      "Dermatologist-tested",
+      "Non-comedogenic"
+    ],
+    "con": "Limited moisturization may not suit dry or combination skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

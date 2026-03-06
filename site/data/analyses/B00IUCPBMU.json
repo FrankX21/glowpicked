@@ -1,0 +1,35 @@
+{
+  "asin": "B00IUCPBMU",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Colloidal Oatmeal",
+    "Dimethicone"
+  ],
+  "verdict": "Aveeno's skin relief lotion replicates the brand's signature oatmeal approach with glycerin hydration. Functional for sensitive skin but formulaically similar to their daily moisturizing lotion with minimal differentiation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IUCPBMU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$7",
+  "_research": {
+    "name": "Aveeno Skin Relief Lotion",
+    "rating": 4.6,
+    "reviewCount": 8943,
+    "pros": [
+      "Colloidal oatmeal provides anti-inflammatory benefits",
+      "Lightweight absorption suitable for body use",
+      "Affordable price point"
+    ],
+    "con": "Nearly identical formulation to their standard daily moisturizer with minimal added value.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

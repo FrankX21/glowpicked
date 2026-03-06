@@ -1,0 +1,35 @@
+{
+  "asin": "B00ARQZQMM",
+  "glowScore": 40,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 0,
+    "safetyProfile": 12,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Diamond-tip abrasion",
+    "Vacuum suction",
+    "Adjustable intensity settings"
+  ],
+  "verdict": "Professional-grade microdermabrasion device using diamond-tip technology for mechanical exfoliation. More aggressive than other tools; requires careful use to avoid irritation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ARQZQMM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Microderm GLO",
+  "price": "$99",
+  "_research": {
+    "name": "Microderm GLO Professional Microdermabrasion System",
+    "rating": 4,
+    "reviewCount": 5400,
+    "pros": [
+      "Professional results at home",
+      "Diamond tips superior to crystal abrasion",
+      "Visible exfoliation effects"
+    ],
+    "con": "Higher risk of irritation; not suitable for sensitive or compromised skin barriers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

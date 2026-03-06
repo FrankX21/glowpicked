@@ -1,0 +1,35 @@
+{
+  "asin": "B00FQPF0NG",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Hyaluronic Acid",
+    "Squalane"
+  ],
+  "verdict": "RoC's moisturizer balances retinol efficacy with hydrating humectants and emollients for comfortable daily use without excessive dryness. Reliable formula for mainstream anti-aging seekers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQPF0NG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "RoC",
+  "price": "$16",
+  "_research": {
+    "name": "Retinol Anti-Aging Moisturizer",
+    "rating": 4.1,
+    "reviewCount": 6400,
+    "pros": [
+      "Well-balanced hydration-to-active ratio",
+      "Established dermatological brand",
+      "Smooth, absorbing texture"
+    ],
+    "con": "Generic formulation lacks differentiated ingredients; moderate ingredient quality scores.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

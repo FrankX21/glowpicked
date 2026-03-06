@@ -1,0 +1,35 @@
+{
+  "asin": "B01MTC9VF7",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Yeast Extract",
+    "Squalane",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Shiseido's Ultime8 leverages fermented yeast extract for advanced bioavailability and multi-corrective benefits with strong consumer validation (4.4★, 2900 reviews). Premium formulation justified by ingredient sophistication but commands luxury pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MTC9VF7&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Shiseido",
+  "price": "$168.00",
+  "_research": {
+    "name": "Ultime8 Sublime Beauty Fluid",
+    "rating": 4.4,
+    "reviewCount": 2900,
+    "pros": [
+      "Fermented yeast bioavailability",
+      "Multi-corrective targeting",
+      "Shiseido innovation foundation"
+    ],
+    "con": "High price point; functional benefits modest compared to category leaders like COSRX.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

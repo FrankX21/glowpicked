@@ -1,0 +1,35 @@
+{
+  "asin": "B00B2BTQXU",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Ceramides",
+    "Petrolatum"
+  ],
+  "verdict": "Eucerin's formulation prioritizes skin barrier repair with ceramides and glycerin, making it dermatologist-recommended for sensitive skin. The ingredient profile is straightforward and clinically-backed, though not particularly innovative for the price point.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B2BTQXU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$10",
+  "_research": {
+    "name": "Eucerin Daily Hydrating Lotion",
+    "rating": 4.5,
+    "reviewCount": 6900,
+    "pros": [
+      "Ceramide complex strengthens skin barrier",
+      "Hypoallergenic and fragrance-free",
+      "Excellent for eczema-prone skin"
+    ],
+    "con": "Heavy, occlusive texture may feel greasy for warm climates or oily skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

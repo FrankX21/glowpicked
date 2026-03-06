@@ -1,0 +1,35 @@
+{
+  "asin": "B000TKPFDU",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 20,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octinoxate",
+    "Glycerin"
+  ],
+  "verdict": "Coppertone Sport delivers exceptional value with a straightforward, effective chemical filter blend and hydrating glycerin base. The high review count (2156) and 4.4★ rating indicate reliable, accessible sun protection without luxury pretension.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000TKPFDU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Coppertone",
+  "price": "$7",
+  "_research": {
+    "name": "Coppertone Sport Sunscreen Lotion SPF 50",
+    "rating": 4.4,
+    "reviewCount": 2156,
+    "pros": [
+      "Best value-to-performance ratio",
+      "Proven stability and popularity",
+      "Water-resistant formulation"
+    ],
+    "con": "Generic ingredient profile lacks antioxidants or skin-conditioning actives found in premium lines.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

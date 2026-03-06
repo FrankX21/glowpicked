@@ -1,0 +1,35 @@
+{
+  "asin": "B07BL44V68",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Glycerin",
+    "Dimethicone"
+  ],
+  "verdict": "Popular hydrating lotion leveraging hyaluronic acid's humectant properties with a lightweight gel texture. Strong value proposition with solid consumer validation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BL44V68&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$7",
+  "_research": {
+    "name": "Neutrogena Hydro Boost Hydrating Lotion",
+    "rating": 4.5,
+    "reviewCount": 4800,
+    "pros": [
+      "Hyaluronic acid draws moisture into skin effectively",
+      "Fast-absorbing gel texture suitable for combination skin",
+      "Excellent review volume (4800 reviews) at budget price"
+    ],
+    "con": "Lacks ceramides and cholesterol needed for true barrier repair in very dry skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

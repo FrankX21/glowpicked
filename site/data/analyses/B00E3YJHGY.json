@@ -1,0 +1,36 @@
+{
+  "asin": "B00E3YJHGY",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Squalane",
+    "Peptides",
+    "Vitamin Complex",
+    "Avocado Oil"
+  ],
+  "verdict": "Kiehl's Advanced Renewal combines peptides for structural support with nourishing squalane, creating a science-backed luxury formula. The inclusion of avocado oil elevates the nutritional profile beyond basic lip balms.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E3YJHGY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$26",
+  "_research": {
+    "name": "Advanced Renewal Lip Care",
+    "rating": 4.5,
+    "reviewCount": 1523,
+    "pros": [
+      "Peptide technology",
+      "Antioxidant-rich",
+      "Dermatologist-approved"
+    ],
+    "con": "Slightly greasy texture may not appeal to all users.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B074HN4DPX",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol 0.2%",
+    "Squalane",
+    "Vitamin F"
+  ],
+  "verdict": "This standardized 0.2% retinol concentration in stabilizing squalane offers precise dosing for predictable results and exceptional value. Ideal for beginners establishing retinol tolerance with clinical transparency.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074HN4DPX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$6",
+  "_research": {
+    "name": "Retinol A 0.2%",
+    "rating": 4,
+    "reviewCount": 7500,
+    "pros": [
+      "Exact retinol percentage clearly labeled",
+      "Lightweight, non-greasy formula",
+      "Unmatched budget value"
+    ],
+    "con": "Minimal supporting ingredients means users must layer with separate hydrating products.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

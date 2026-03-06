@@ -1,0 +1,36 @@
+{
+  "asin": "B075ZJ4HGB",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hydrocolloid",
+    "Cellulose",
+    "Sodium Carboxymethyl Cellulose"
+  ],
+  "verdict": "Hydrocolloid patches are clinically-proven acne treatment that absorbs fluid and creates optimal healing environment. Minimal ingredient formula reduces irritation risk while delivering consistent results for whiteheads and surface blemishes.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075ZJ4HGB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Mighty Patch",
+  "price": "$6",
+  "_research": {
+    "name": "Pimple Patch Hydrocolloid Patches",
+    "rating": 4.5,
+    "reviewCount": 12100,
+    "pros": [
+      "Clinically validated hydrocolloid technology",
+      "Excellent absorption and fluid-wicking",
+      "Affordable multi-use format",
+      "Non-irritating for sensitive skin"
+    ],
+    "con": "Less effective on cystic or deep-seated acne that requires prescription-strength actives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

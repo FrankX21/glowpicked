@@ -1,0 +1,35 @@
+{
+  "asin": "B01MQNWUVG",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Jojoba Oil",
+    "Aloe Vera"
+  ],
+  "verdict": "InstaNatural blends retinol with botanical extracts and jojoba oil, appealing to natural-leaning consumers seeking plant-based support. Balanced profile, though botanical inclusion adds potential allergen risk.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MQNWUVG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "InstaNatural",
+  "price": "$12",
+  "_research": {
+    "name": "Retinol Complex Serum",
+    "rating": 4.2,
+    "reviewCount": 6900,
+    "pros": [
+      "Plant-derived supporting ingredients",
+      "Jojoba oil supports barrier health",
+      "Botanical antioxidants included"
+    ],
+    "con": "Botanical extracts increase allergen exposure; less predictable stability than synthetic formulations.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

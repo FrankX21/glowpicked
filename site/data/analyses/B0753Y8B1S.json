@@ -1,0 +1,35 @@
+{
+  "asin": "B0753Y8B1S",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Caffeine",
+    "Peptides",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Olay's eye serum combines caffeine stimulation with peptide support and humectants for comprehensive under-eye treatment at mid-luxury pricing. The formulation is well-balanced but offers incremental rather than breakthrough innovation compared to luxury competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0753Y8B1S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$35",
+  "_research": {
+    "name": "Firming Eye Serum",
+    "rating": 4.1,
+    "reviewCount": 2400,
+    "pros": [
+      "Caffeine for circulation support",
+      "Peptide-collagen synergy",
+      "Accessible luxury price point"
+    ],
+    "con": "Ingredient concentrations are proprietary, limiting efficacy verification.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

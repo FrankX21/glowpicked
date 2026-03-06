@@ -1,0 +1,35 @@
+{
+  "asin": "B00W5GB0F2",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Multicolor LED (Red, Blue, Infrared)",
+    "Wearable mask format",
+    "Photobiomodulation technology"
+  ],
+  "verdict": "Wearable LED mask provides hands-free multicolor light therapy with convenience factor, though light penetration may be compromised by facial contours. Excellent safety and clinical backing for LED light therapy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00W5GB0F2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "LightStim",
+  "price": "$299",
+  "_research": {
+    "name": "LightStim LED Light Therapy Mask",
+    "rating": 4.2,
+    "reviewCount": 2734,
+    "pros": [
+      "Hands-free convenience",
+      "Multiple wavelengths in single device",
+      "Proven light therapy technology"
+    ],
+    "con": "Uneven light distribution across facial contours limits efficacy in crevices and eye areas.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

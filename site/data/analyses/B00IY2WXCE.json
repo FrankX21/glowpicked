@@ -1,0 +1,35 @@
+{
+  "asin": "B00IY2WXCE",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Olive Oil Extract",
+    "Peptide Complex"
+  ],
+  "verdict": "Estée Lauder combines night repair technology with peptides for skin firming. The formula targets mature skin with molecular-level actives justified by the prestige pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IY2WXCE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Estée Lauder",
+  "price": "$65",
+  "_research": {
+    "name": "Estée Lauder Advanced Night Repair Body Moisturizer",
+    "rating": 4.5,
+    "reviewCount": 1342,
+    "pros": [
+      "Advanced peptide technology",
+      "Night-specific formulation",
+      "Prestige brand heritage"
+    ],
+    "con": "Premium price point reflects branding as much as ingredient innovation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

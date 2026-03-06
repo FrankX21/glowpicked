@@ -1,0 +1,35 @@
+{
+  "asin": "B07QB8JL97",
+  "glowScore": 60,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 21,
+    "safetyProfile": 12,
+    "valueForMoney": 10
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Collagen",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Kiehl's cream delivers retinol with collagen and hyaluronic acid for comprehensive anti-aging, but the luxury brand positioning inflates cost relative to efficacy. Collagen as topical ingredient provides minimal penetration benefits compared to internal synthesis stimulation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QB8JL97&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$29",
+  "_research": {
+    "name": "Retinol Renewal Cream",
+    "rating": 4,
+    "reviewCount": 6800,
+    "pros": [
+      "Prestigious brand reliability",
+      "Collagen marketing appeals to anti-aging focus",
+      "Established dermatologist endorsement"
+    ],
+    "con": "Topical collagen molecules cannot penetrate skin barrier, limiting actual efficacy.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B01JMGLPZE",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 25,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Hyaluronic Acid",
+    "Aloe Vera"
+  ],
+  "verdict": "Radha Beauty's serum balances retinol with hydrating hyaluronic acid and soothing aloe, creating a well-rounded night treatment. The inclusion of complementary actives makes it effective for combination skin without excessive irritation potential.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JMGLPZE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Radha Beauty",
+  "price": "$14",
+  "_research": {
+    "name": "Retinol Brightening Night Serum",
+    "rating": 4.2,
+    "reviewCount": 6500,
+    "pros": [
+      "Hyaluronic acid counters retinol dryness",
+      "Soothing aloe vera reduces irritation",
+      "Serum texture absorbs quickly"
+    ],
+    "con": "Hyaluronic acid efficacy depends on humectant presence in subsequent moisturizer layer.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

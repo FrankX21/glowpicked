@@ -1,0 +1,35 @@
+{
+  "asin": "B00A6IL7D8",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "jojoba oil",
+    "shea butter",
+    "vitamin E"
+  ],
+  "verdict": "Natural oil-based formula with jojoba and shea butter providing nourishing hydration without synthetic occlusives. Good ingredient quality with pleasant fruity flavor.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A6IL7D8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "EOS",
+  "price": "$2",
+  "_research": {
+    "name": "EOS Lip Balm Blueberry Acai",
+    "rating": 4.3,
+    "reviewCount": 2345,
+    "pros": [
+      "plant-based emollients",
+      "vitamin E antioxidant",
+      "smooth application"
+    ],
+    "con": "Jojoba oil base may not provide as long-lasting occlusion as petrolatum in very dry conditions.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

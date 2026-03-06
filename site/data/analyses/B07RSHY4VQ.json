@@ -1,0 +1,35 @@
+{
+  "asin": "B07RSHY4VQ",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptides",
+    "Plant Extracts",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Clé de Peau's serum reflects ultra-luxury positioning with refined formulation, though smallest review sample (1200) limits efficacy validation. Premium pricing driven by brand prestige rather than superior ingredient science vs. competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07RSHY4VQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clé de Peau Beauté",
+  "price": "$195.00",
+  "_research": {
+    "name": "Revitalizing Supreme Serum",
+    "rating": 4.2,
+    "reviewCount": 1200,
+    "pros": [
+      "Ultra-luxury formulation",
+      "Refined ingredient selection",
+      "Prestige brand backing"
+    ],
+    "con": "Lowest review count reduces consumer efficacy validation; pricing not supported by ingredient innovation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

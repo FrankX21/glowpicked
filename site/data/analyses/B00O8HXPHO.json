@@ -1,0 +1,35 @@
+{
+  "asin": "B00O8HXPHO",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "glycerin",
+    "feverfew extract",
+    "oat extract"
+  ],
+  "verdict": "Calming specialist lotion with feverfew and oat extracts for reactive skin. Targeted formula for sensitive/rosacea-prone skin at accessible price point.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O8HXPHO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$10",
+  "_research": {
+    "name": "Aveeno Ultra Calming Daily Moisturizer",
+    "rating": 4.4,
+    "reviewCount": 6200,
+    "pros": [
+      "feverfew reduces redness and inflammation",
+      "oat extract soothes sensitive skin",
+      "dermatologist-tested for reactivity"
+    ],
+    "con": "Specialized formula limits broader appeal compared to universal moisturizers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

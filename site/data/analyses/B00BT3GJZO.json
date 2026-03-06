@@ -1,0 +1,35 @@
+{
+  "asin": "B00BT3GJZO",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Squalane",
+    "Vitamin E",
+    "Resveratrol"
+  ],
+  "verdict": "This antioxidant-rich serum combines plant-based polyphenols with protective vitamins in a sophisticated formulation. Kiehl's delivers consistent quality and sensorial experience, though the antioxidant blend is less concentrated than competitors at this price tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BT3GJZO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$58",
+  "_research": {
+    "name": "Super Power Antioxidant Serum",
+    "rating": 4.3,
+    "reviewCount": 1850,
+    "pros": [
+      "Multiple antioxidant layers",
+      "Lightweight yet nourishing",
+      "Stable formulation"
+    ],
+    "con": "Antioxidant concentrations lower than specialized vitamin C serums.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

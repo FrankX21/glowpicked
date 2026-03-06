@@ -1,0 +1,35 @@
+{
+  "asin": "B00016YR5C",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Glycerin",
+    "Mineral Oil"
+  ],
+  "verdict": "Vaseline's Advanced Repair is a simple occlusive formula dominated by petroleum derivatives. While effective for barrier repair, it lacks modern moisturizing ingredients and feels heavy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016YR5C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vaseline",
+  "price": "$6",
+  "_research": {
+    "name": "Vaseline Intensive Care Advanced Repair",
+    "rating": 4.5,
+    "reviewCount": 6500,
+    "pros": [
+      "Petrolatum for strong barrier sealing",
+      "Fragrance-free",
+      "Affordable"
+    ],
+    "con": "Greasy texture and minimal skincare actives beyond occlusion.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

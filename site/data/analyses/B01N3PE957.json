@@ -1,0 +1,35 @@
+{
+  "asin": "B01N3PE957",
+  "glowScore": 58,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 16,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Sonic Oscillation Technology",
+    "Soft Bristle Design",
+    "Customizable Cleansing Modes"
+  ],
+  "verdict": "Clarisonic Mia Smart offers sonic pulsation technology that physically removes impurities without chemical exfoliants, though it's been gradually phased out due to market shifts. The device remains safe but represents aging technology in the cleansing space.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3PE957&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clarisonic",
+  "price": "$189",
+  "_research": {
+    "name": "Clarisonic Mia Smart Facial Cleansing Brush",
+    "rating": 4,
+    "reviewCount": 2156,
+    "pros": [
+      "Established brand with history",
+      "Multiple attachment heads included",
+      "Gentle on sensitive skin"
+    ],
+    "con": "Discontinued product line with limited warranty support and newer competitors offering better technology.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

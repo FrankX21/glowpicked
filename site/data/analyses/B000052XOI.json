@@ -1,0 +1,36 @@
+{
+  "asin": "B000052XOI",
+  "glowScore": 60,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 18,
+    "safetyProfile": 13,
+    "valueForMoney": 10
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "SPF 15"
+  ],
+  "verdict": "A daily moisturizer with SPF rather than serum—ceramide and HA provide barrier support but SPF 15 remains insufficient for adequate sun protection.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000052XOI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$10",
+  "_research": {
+    "name": "Cetaphil Daily Facial Moisturizer SPF 15",
+    "rating": 4.1,
+    "reviewCount": 2100,
+    "pros": [
+      "Ceramide + HA combination",
+      "SPF 15 added convenience",
+      "Gentle, non-irritating",
+      "Budget-friendly moisturizer"
+    ],
+    "con": "SPF 15 inadequate for proper photoprotection; functions as moisturizer, not serum with actives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00C6OBT0K",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Colloidal Oatmeal",
+    "Glycerin",
+    "Dimethicone"
+  ],
+  "verdict": "Colloidal oatmeal provides gentle anti-inflammatory benefits with reliable glycerin hydration. Positioning as 'smoothing' is marketing-driven, but the formula is genuinely soothing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00C6OBT0K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$8",
+  "_research": {
+    "name": "Aveeno Positively Smooth Body Lotion",
+    "rating": 4.4,
+    "reviewCount": 5234,
+    "pros": [
+      "Colloidal oatmeal for sensitive skin",
+      "Anti-inflammatory properties",
+      "Pleasant sensory experience"
+    ],
+    "con": "Oatmeal extract is beneficial but not clinically transformative for body skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

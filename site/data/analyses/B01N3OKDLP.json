@@ -1,0 +1,35 @@
+{
+  "asin": "B01N3OKDLP",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red light wavelength (630nm)",
+    "High-powered LED panels",
+    "Adjustable intensity"
+  ],
+  "verdict": "Professional-grade red light panel with customizable intensity settings for clinical-strength light therapy. Strong ingredient profile backed by solid user satisfaction across large review base.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3OKDLP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "AgingLights",
+  "price": "$399",
+  "_research": {
+    "name": "AgingLights Red Light Therapy Panel",
+    "rating": 4.3,
+    "reviewCount": 6500,
+    "pros": [
+      "Adjustable intensity allows personalization",
+      "Professional specifications",
+      "Large user base provides validation"
+    ],
+    "con": "Panel format less convenient than portable masks; requires dedicated treatment space.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

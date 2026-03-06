@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWYE",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Shea Butter",
+    "Coconut Oil",
+    "Beeswax"
+  ],
+  "verdict": "Premium natural butters deliver rich emollience and nourishment in an accessible format. Strong ingredient profile with minimal synthetic additives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWYE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Tree Hut",
+  "price": "$4",
+  "_research": {
+    "name": "Tree Hut Shea Lip Balm",
+    "rating": 4.5,
+    "reviewCount": 6400,
+    "pros": [
+      "Natural plant butters",
+      "Intense moisturization",
+      "Clean ingredient list"
+    ],
+    "con": "Heavier formula may feel greasy for some lip types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

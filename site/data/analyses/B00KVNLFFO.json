@@ -1,0 +1,35 @@
+{
+  "asin": "B00KVNLFFO",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 27,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "850nm Near-infrared light",
+    "660nm Red light",
+    "Dual-wavelength penetration"
+  ],
+  "verdict": "Combination red and near-infrared light therapy panel with strong clinical backing for collagen synthesis and tissue healing. Slightly lower rating warrants cautious evaluation versus top competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KVNLFFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Trophy Skin",
+  "price": "$249",
+  "_research": {
+    "name": "Trophy Skin RejuvalitMD Red Light Therapy",
+    "rating": 4,
+    "reviewCount": 6700,
+    "pros": [
+      "Dual-wavelength targets deeper tissue penetration",
+      "Professional-grade specifications",
+      "Proven collagen stimulation"
+    ],
+    "con": "Lower star rating (4.0★) suggests occasional consistency issues compared to peer devices.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

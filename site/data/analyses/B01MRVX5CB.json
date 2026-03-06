@@ -1,0 +1,35 @@
+{
+  "asin": "B01MRVX5CB",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 22,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Shea Butter",
+    "Jojoba Oil"
+  ],
+  "verdict": "Baebody's cream-based formula emphasizes moisturization alongside retinol, making it suitable for beginners or dry skin. However, the retinol concentration is undisclosed, limiting ability to assess true potency compared to competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MRVX5CB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Baebody",
+  "price": "$16",
+  "_research": {
+    "name": "Retinol Plus Anti-Aging Cream",
+    "rating": 4,
+    "reviewCount": 5900,
+    "pros": [
+      "Rich emollient base with shea butter and jojoba oil",
+      "Beginner-friendly formulation",
+      "Good for dry skin types"
+    ],
+    "con": "Undisclosed retinol concentration obscures actual efficacy level.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00JBWB1EQ",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Vacuum technology",
+    "Diamond tip heads",
+    "Adjustable suction levels"
+  ],
+  "verdict": "PMD Personal Microderm Pro uses diamond-tip vacuum technology for mechanical exfoliation, effectively removing dead skin and stimulating cellular turnover. Results are visible but exfoliation intensity requires careful calibration to avoid irritation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JBWB1EQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "PMD",
+  "price": "$99",
+  "_research": {
+    "name": "PMD Personal Microderm Pro Skin Exfoliation Tool",
+    "rating": 4.1,
+    "reviewCount": 2103,
+    "pros": [
+      "Visible exfoliation results",
+      "Replaceable diamond heads",
+      "Three suction intensity levels"
+    ],
+    "con": "Risk of over-exfoliation if suction settings aren't carefully monitored.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

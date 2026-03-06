@@ -1,0 +1,35 @@
+{
+  "asin": "B003P8NFME",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "jojoba oil",
+    "vitamin E"
+  ],
+  "verdict": "EOS Sphere Original balances jojoba oil and vitamin E with petrolatum for moderate hydration in an iconic package. The formula is safe but ingredient quality is middling for the price compared to competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003P8NFME&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "EOS",
+  "price": "$3",
+  "_research": {
+    "name": "EOS Lip Balm Sphere Original",
+    "rating": 4.4,
+    "reviewCount": 9800,
+    "pros": [
+      "Pleasant texture and application",
+      "Jojoba oil provides natural moisture",
+      "Vitamin E for antioxidant protection"
+    ],
+    "con": "Contains more fragrance and additives than necessary; premium pricing for basic formula.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

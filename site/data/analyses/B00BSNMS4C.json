@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNMS4C",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Algae Extract",
+    "Hyaluronic Acid",
+    "Mineral Oil"
+  ],
+  "verdict": "Prestigious brand leveraging marine biotechnology with seaweed extracts and hyaluronic acid for intensive hydration. Formula is luxurious but relies heavily on brand heritage rather than innovative ingredient combinations.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNMS4C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Mer",
+  "price": "$145",
+  "_research": {
+    "name": "La Mer The Body Moisturizing Cream",
+    "rating": 4.2,
+    "reviewCount": 1203,
+    "pros": [
+      "Signature marine ingredients",
+      "Rich, luxurious texture",
+      "Established heritage brand"
+    ],
+    "con": "Mineral oil base may feel heavy for some; limited innovation compared to price premium charged.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

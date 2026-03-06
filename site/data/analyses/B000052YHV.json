@@ -1,0 +1,35 @@
+{
+  "asin": "B000052YHV",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Niacinamide",
+    "SPF 15",
+    "Vitamin E"
+  ],
+  "verdict": "Balanced daily moisturizer with niacinamide and modest SPF coverage. Good for normal skin seeking convenient multitasking hydration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000052YHV&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$7",
+  "_research": {
+    "name": "Olay Complete Daily Moisturizer SPF 15 Normal",
+    "rating": 4.4,
+    "reviewCount": 6700,
+    "pros": [
+      "Includes SPF 15",
+      "Niacinamide calming",
+      "Affordable daily option"
+    ],
+    "con": "SPF 15 is below recommended minimum (SPF 30) for adequate sun protection.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

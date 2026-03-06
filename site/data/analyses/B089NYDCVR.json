@@ -1,0 +1,35 @@
+{
+  "asin": "B089NYDCVR",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "Niacinamide"
+  ],
+  "verdict": "A hydrating toner balancing ceramides, humectants, and niacinamide for barrier repair and pore refinement. Excellent as a hydration layer before serums, suitable for all skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B089NYDCVR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$19.99",
+  "_research": {
+    "name": "Olay Regenerist Retinol24 Eye Cream",
+    "rating": 4.2,
+    "reviewCount": 6100,
+    "pros": [
+      "Three-way barrier support",
+      "Lightweight hydration layer",
+      "Suitable for sensitive skin"
+    ],
+    "con": "Functions as hydration boost rather than active treatment; requires layering for targeted concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07D8XQXZ2",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 21,
+    "safetyProfile": 14,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptides",
+    "Collagen",
+    "Glycerin"
+  ],
+  "verdict": "Olay's peptide-collagen serum combines multiple age-defense mechanisms with established safety, though ingredient transparency remains limited. Solid performer but lacks specialized peptide identification found in premium tiers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D8XQXZ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$34.99",
+  "_research": {
+    "name": "Peptide Collagen Boosting Serum",
+    "rating": 4.2,
+    "reviewCount": 7100,
+    "pros": [
+      "Dual peptide + collagen approach",
+      "Established brand safety record",
+      "High review count (7100)"
+    ],
+    "con": "Collagen molecules too large for dermal penetration; primarily surface-moisturizing benefit.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

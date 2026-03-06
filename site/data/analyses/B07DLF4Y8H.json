@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLF4Y8H",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 25,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Lactic Acid 5%",
+    "Hyaluronic Acid",
+    "Humectant Blend"
+  ],
+  "verdict": "Lactic acid at 5% provides gentle hydroxy acid exfoliation for sensitive skin while hyaluronic acid maintains hydration balance. This is an ideal entry exfoliant for those moving beyond basic skincare.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLF4Y8H&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$6.80",
+  "_research": {
+    "name": "Lactic Acid 5% + HA Hydrating Serum",
+    "rating": 4.2,
+    "reviewCount": 6200,
+    "pros": [
+      "Gentle AHA for sensitive skin",
+      "Hydrating despite exfoliation",
+      "Excellent value proposition"
+    ],
+    "con": "5% lactic acid is mild; ineffective for those needing stronger chemical exfoliation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

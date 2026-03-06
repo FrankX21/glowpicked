@@ -1,0 +1,35 @@
+{
+  "asin": "B000UPWO8C",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Blue Light (415nm)",
+    "Red Light (633nm)",
+    "Dual-wavelength therapy"
+  ],
+  "verdict": "Specialized dual-wavelength LED device targeting acne-causing bacteria with blue light while supporting healing with red light. Excellent clinical backing for acne-prone skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000UPWO8C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "LightStim",
+  "price": "$119",
+  "_research": {
+    "name": "LightStim For Acne LED Light Therapy",
+    "rating": 4.1,
+    "reviewCount": 6400,
+    "pros": [
+      "Dual-wavelength approach addresses root causes",
+      "Highest review volume indicates widespread adoption",
+      "Clinically validated for acne improvement"
+    ],
+    "con": "Narrower use case than general anti-aging devices limits versatility.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

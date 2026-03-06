@@ -1,0 +1,36 @@
+{
+  "asin": "B0B8F5Y2J1",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red light therapy (630nm)",
+    "Microcurrent technology",
+    "Hyaluronic acid serum base"
+  ],
+  "verdict": "SolaWave combines clinical red light therapy with microcurrent and heat to stimulate collagen production and improve skin firmness. The integrated serum-infusion design maximizes ingredient penetration while delivering multi-modal anti-aging benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B8F5Y2J1&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "SolaWave",
+  "price": "$169",
+  "_research": {
+    "name": "SolaWave Facial Wand Red Light Therapy",
+    "rating": 4.5,
+    "reviewCount": 4892,
+    "pros": [
+      "Clinical red light + microcurrent dual action",
+      "Serum infusion technology",
+      "Highest customer satisfaction rating",
+      "Visible results in 2-3 weeks"
+    ],
+    "con": "Requires compatible serum purchases for optimal serum-infusion functionality.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

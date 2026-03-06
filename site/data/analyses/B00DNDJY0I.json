@@ -1,0 +1,35 @@
+{
+  "asin": "B00DNDJY0I",
+  "glowScore": 46,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 0,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sonic vibration technology",
+    "Rotating massage head",
+    "Waterproof construction"
+  ],
+  "verdict": "Multipurpose sonic device for cleansing and massage without chemical ingredients. Versatile tool that complements skincare routines; solid budget alternative to premium brands.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNDJY0I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Michael Todd",
+  "price": "$45",
+  "_research": {
+    "name": "Michael Todd Sonic Refresher Beauty Device",
+    "rating": 4.1,
+    "reviewCount": 6800,
+    "pros": [
+      "Dual-function cleansing and massage",
+      "Waterproof for shower use",
+      "Good value proposition"
+    ],
+    "con": "Less specialized than single-purpose tools; may not excel at any specific function.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

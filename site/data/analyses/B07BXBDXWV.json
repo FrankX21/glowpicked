@@ -1,0 +1,35 @@
+{
+  "asin": "B07BXBDXWV",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 21,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Glycerin",
+    "Dimethicone"
+  ],
+  "verdict": "Specialized lotion for clinically dry skin with emphasis on occlusive ingredients and glycerin. Effective for severe dryness but formulaically conventional.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BXBDXWV&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$11",
+  "_research": {
+    "name": "Cetaphil Pro Dry Skin Lotion",
+    "rating": 4.5,
+    "reviewCount": 2600,
+    "pros": [
+      "Petrolatum creates strong moisture barrier",
+      "Targeted formulation for compromised skin",
+      "Dermatologist-developed and hypoallergenic"
+    ],
+    "con": "Lower review volume (2600) suggests narrower appeal; lacks innovative barrier-repair ingredients.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

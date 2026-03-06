@@ -1,0 +1,35 @@
+{
+  "asin": "B00GQXD2JO",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sodium Lauryl Sulfate",
+    "Glycerin",
+    "Panthenol"
+  ],
+  "verdict": "Cetaphil Pro Dry Skin Body Wash is specifically formulated for compromised skin with gentle surfactants and skin-conditioning agents. It balances cleansing and skin-barrier respect effectively.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GQXD2JO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$8",
+  "_research": {
+    "name": "Cetaphil Pro Dry Skin Body Wash",
+    "rating": 4.5,
+    "reviewCount": 6700,
+    "pros": [
+      "Targeted for dry skin",
+      "Gentle surfactant system",
+      "Fragrance-free"
+    ],
+    "con": "Contains SLS which may still be irritating for the most sensitive individuals.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

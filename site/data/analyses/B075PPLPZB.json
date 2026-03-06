@@ -1,0 +1,35 @@
+{
+  "asin": "B075PPLPZB",
+  "glowScore": 56,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 8,
+    "safetyProfile": 11,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Suction pump mechanism (non-ingredient)",
+    "Silicone head material",
+    "Trace mineral solution for extraction"
+  ],
+  "verdict": "Mechanical suction device with minimal skincare ingredients—relies primarily on physical extraction technology rather than chemical formulations. Moderate safety concerns regarding skin irritation from aggressive suction. Good budget value but carries overuse risks.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075PPLPZB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "HEETA",
+  "price": "$19",
+  "_research": {
+    "name": "Pore Vacuum Blackhead Remover USB Rechargeable",
+    "rating": 4.3,
+    "reviewCount": 13500,
+    "pros": [
+      "High 4.3★ rating with 13,500+ reviews",
+      "Visible blackhead removal results",
+      "USB rechargeable convenience"
+    ],
+    "con": "Aggressive suction can cause redness, irritation, and broken capillaries with overuse; not ingredient-dependent.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

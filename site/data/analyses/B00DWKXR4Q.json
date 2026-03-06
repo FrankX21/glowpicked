@@ -1,0 +1,35 @@
+{
+  "asin": "B00DWKXR4Q",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Glycerin",
+    "Petrolatum"
+  ],
+  "verdict": "Hand-cream specific formulation with robust ceramide and occlusive technology. Higher concentration of active moisturizers than body lotions justifies premium positioning within budget tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DWKXR4Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vanicream",
+  "price": "$7",
+  "_research": {
+    "name": "Vanicream Intensive Repair Hand Cream",
+    "rating": 4.5,
+    "reviewCount": 3892,
+    "pros": [
+      "Ceramide-rich for barrier repair",
+      "Intensive occlusive protection",
+      "Non-greasy despite potency"
+    ],
+    "con": "Rich texture may feel heavy on face or thin-skinned areas.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

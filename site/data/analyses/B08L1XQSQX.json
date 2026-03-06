@@ -1,0 +1,35 @@
+{
+  "asin": "B08L1XQSQX",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "T-Sonic Pulsation Technology",
+    "Silicone Bristles",
+    "Smart Sensor Feedback"
+  ],
+  "verdict": "FOREO Luna 3 uses oscillating T-Sonic technology rather than chemical exfoliants, making it a physical cleansing tool compatible with any skincare routine. Its silicone design eliminates bacterial breeding grounds found in traditional bristles.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L1XQSQX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$199",
+  "_research": {
+    "name": "FOREO Luna 3 Facial Cleansing Brush",
+    "rating": 4.2,
+    "reviewCount": 3421,
+    "pros": [
+      "Hygienic silicone design",
+      "8 intensity settings",
+      "Compatible with all skin types"
+    ],
+    "con": "Requires regular charging and replacement costs for brush heads are substantial.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

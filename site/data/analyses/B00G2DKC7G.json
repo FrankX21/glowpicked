@@ -1,0 +1,35 @@
+{
+  "asin": "B00G2DKC7G",
+  "glowScore": 88,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "Niacinamide"
+  ],
+  "verdict": "Gold-standard budget moisturizer with optimal ceramide-hyaluronic acid balance and clinically-proven ingredients. Highest review count validates universal efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G2DKC7G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$16",
+  "_research": {
+    "name": "CeraVe Moisturizing Lotion",
+    "rating": 4.5,
+    "reviewCount": 8900,
+    "pros": [
+      "Triple ceramides",
+      "Hyaluronic acid hydration",
+      "Excellent safety profile"
+    ],
+    "con": "May feel slightly heavy for very oily skin despite strong hydration.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

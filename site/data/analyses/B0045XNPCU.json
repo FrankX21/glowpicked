@@ -1,0 +1,35 @@
+{
+  "asin": "B0045XNPCU",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Sonic vibration technology",
+    "Brush bristle materials",
+    "Gentle oscillation patterns"
+  ],
+  "verdict": "Sonic cleansing brush with mechanical cleaning action rather than chemical exfoliants. Effective for removing impurities but primarily a cleansing tool rather than treatment device.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0045XNPCU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Michael Todd",
+  "price": "$129",
+  "_research": {
+    "name": "Michael Todd Soniclear Elite Facial Brush",
+    "rating": 4.1,
+    "reviewCount": 7300,
+    "pros": [
+      "Excellent review volume shows mainstream appeal",
+      "Removes makeup and impurities effectively",
+      "Gentle alternative to manual scrubbing"
+    ],
+    "con": "Limited to cleansing function without active treatment ingredients or light therapy.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

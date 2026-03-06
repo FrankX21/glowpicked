@@ -1,0 +1,35 @@
+{
+  "asin": "B00X5LVCT8",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 27,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Peptides",
+    "Plant Stem Cells"
+  ],
+  "verdict": "Givenchy's formula balances hydration with peptides and botanical stem cells for comprehensive anti-aging and plumping effects. Strong ingredient synergy creates visible results though some novelty claims lack independent substantiation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00X5LVCT8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Givenchy",
+  "price": "$88.00",
+  "_research": {
+    "name": "Time-Filler Intensive Serum",
+    "rating": 4.3,
+    "reviewCount": 4600,
+    "pros": [
+      "Plant stem cell technology",
+      "Strong peptide complex",
+      "Proven hydration support"
+    ],
+    "con": "Stem cell claims sometimes exaggerated beyond proven skin benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

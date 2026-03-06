@@ -1,0 +1,35 @@
+{
+  "asin": "B00TZLHXTU",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Volcanic Pumice",
+    "Natural Lava Rock",
+    "Abrasive Surface"
+  ],
+  "verdict": "Excellent natural abrasive tool for callus removal with proven efficacy. Highest review count (9800) reflects strong consumer satisfaction and durability.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TZLHXTU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Pumie",
+  "price": "$6",
+  "_research": {
+    "name": "Lava Pumice Stone Foot Scrubber",
+    "rating": 4.4,
+    "reviewCount": 9800,
+    "pros": [
+      "Natural volcanic material",
+      "Long-lasting abrasive surface",
+      "Budget-friendly foot care"
+    ],
+    "con": "Can be too abrasive for sensitive or thin foot skin if used excessively.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWBH",
+  "glowScore": 94,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "Petrolatum"
+  ],
+  "verdict": "Dermatologist-formulated with clinical-grade moisturizers—ceramides and hyaluronic acid target barrier repair. Best-in-class ingredient science at budget price.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWBH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$5",
+  "_research": {
+    "name": "CeraVe Moisturizing Lip Balm",
+    "rating": 4.7,
+    "reviewCount": 10300,
+    "pros": [
+      "Ceramides for barrier repair",
+      "Hyaluronic acid hydration",
+      "Highest review count"
+    ],
+    "con": "May feel thin compared to richer balms.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B01MSVQVZM",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 23,
+    "safetyProfile": 12,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Glycerin",
+    "Mineral Oil"
+  ],
+  "verdict": "Garnier's formula offers basic retinol benefits but relies on mineral oil, which occludes pores and may trigger congestion in acne-prone skin. Better for dry, non-congestion-prone complexions.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MSVQVZM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Garnier",
+  "price": "$13",
+  "_research": {
+    "name": "Retinol Firming Cream",
+    "rating": 4,
+    "reviewCount": 5600,
+    "pros": [
+      "Affordable mass-market option",
+      "Strong brand recognition",
+      "Rich, nourishing texture"
+    ],
+    "con": "Mineral oil occlusion risks congestion; lower ingredient quality for modern standards.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

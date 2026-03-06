@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWZF",
+  "glowScore": 65,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 16,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Acrylates",
+    "Isododecane",
+    "Mica"
+  ],
+  "verdict": "Pigmented long-wear formula optimized for color adherence over lip care. Polymer-heavy composition sacrifices hydration for durability.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWZF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Revlon",
+  "price": "$8",
+  "_research": {
+    "name": "Revlon ColorStay Satin Ink",
+    "rating": 4.3,
+    "reviewCount": 5200,
+    "pros": [
+      "Extended color wear",
+      "Satin finish",
+      "Diverse shades"
+    ],
+    "con": "Minimal conditioning ingredients; not ideal for dry lips.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

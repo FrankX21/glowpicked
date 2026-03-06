@@ -1,0 +1,35 @@
+{
+  "asin": "B001ECQRCK",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Glycerin",
+    "Cetyl Alcohol"
+  ],
+  "verdict": "A dermatologist-favorite with simple, effective humectants and occlusives. The minimal formula prioritizes barrier repair over exotic actives, making it ideal for sensitive or compromised skin.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ECQRCK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$9",
+  "_research": {
+    "name": "Eucerin Original Healing Cream",
+    "rating": 4.6,
+    "reviewCount": 7234,
+    "pros": [
+      "Fragrance-free formulation",
+      "Excellent for eczema and dermatitis",
+      "Hypoallergenic with proven track record"
+    ],
+    "con": "Limited active ingredients beyond basic moisturization; not ideal for those seeking anti-aging benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

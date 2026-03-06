@@ -1,0 +1,35 @@
+{
+  "asin": "B000C214CO",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octocrylene",
+    "Glycerin"
+  ],
+  "verdict": "Blue Lizard's Australian formula uses color-changing technology and reliable UV filters with excellent water resistance. Strong review count reflects consistent performance at accessible luxury pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000C214CO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Blue Lizard",
+  "price": "$14",
+  "_research": {
+    "name": "Blue Lizard Australian Sunscreen SPF 30+",
+    "rating": 4.4,
+    "reviewCount": 3156,
+    "pros": [
+      "Color-change indicator feature",
+      "Water-resistant formula",
+      "Proven reliability"
+    ],
+    "con": "Ingredient profile is straightforward; lacks advanced anti-aging or antioxidant components.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

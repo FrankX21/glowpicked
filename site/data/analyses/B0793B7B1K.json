@@ -1,0 +1,35 @@
+{
+  "asin": "B0793B7B1K",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 15
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid 2%",
+    "Panthenol",
+    "Amino Acids"
+  ],
+  "verdict": "Most versatile hydrating serum with clinically optimal 2% hyaluronic acid and synergistic B5. Exceptional value leader with overwhelming user validation and universal skin compatibility.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0793B7B1K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$5.90",
+  "_research": {
+    "name": "Hyaluronic Acid 2% + B5 Hydrating Serum",
+    "rating": 4.4,
+    "reviewCount": 9100,
+    "pros": [
+      "Optimal 2% HA concentration",
+      "Works with all skin types",
+      "Unmatched review volume"
+    ],
+    "con": "Purely hydrating; requires layering with treatment actives for comprehensive skincare.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

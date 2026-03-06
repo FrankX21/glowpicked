@@ -1,0 +1,35 @@
+{
+  "asin": "B079GF2JLQ",
+  "glowScore": 54,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 4,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless steel loop extractors",
+    "Anti-bacterial coating",
+    "Ergonomic handles"
+  ],
+  "verdict": "Multi-tool set using mechanical extraction without chemical agents. High review count validates popularity, though professional extraction is safer and more effective for severe acne.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079GF2JLQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Yeelen",
+  "price": "$11",
+  "_research": {
+    "name": "Metal Blackhead Extraction Set",
+    "rating": 4.3,
+    "reviewCount": 8900,
+    "pros": [
+      "Multiple extractor sizes for different comedones",
+      "Reusable and cost-effective",
+      "Anti-bacterial coating reduces infection risk"
+    ],
+    "con": "Risk of permanent scarring and infection if used improperly; not recommended for cystic acne.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

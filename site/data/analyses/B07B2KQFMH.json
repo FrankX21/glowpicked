@@ -1,0 +1,35 @@
+{
+  "asin": "B07B2KQFMH",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Chamomile Extract",
+    "Feverfew Extract"
+  ],
+  "verdict": "A solid budget moisturizer with soothing botanical extracts and glycerin for hydration. The calming ingredients are well-chosen for sensitive skin, though the formula lacks ceramides or peptides that would elevate it beyond basic hydration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07B2KQFMH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$9",
+  "_research": {
+    "name": "Aveeno Ultra-Calming Hydrating Gel Cream",
+    "rating": 4.3,
+    "reviewCount": 5000,
+    "pros": [
+      "Contains calming botanicals (chamomile, feverfew)",
+      "Lightweight gel-cream texture",
+      "Excellent safety profile for reactive skin"
+    ],
+    "con": "Limited occlusive ingredients mean it may need a richer cream for very dry skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07NZYDSWC",
+  "glowScore": 88,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Panthenol"
+  ],
+  "verdict": "Cetaphil's night cream combines glycerin and panthenol for intensive hydration without common irritants. While effective, the ingredient list relies heavily on humectants rather than advanced actives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NZYDSWC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$12",
+  "_research": {
+    "name": "Cetaphil Rich Hydrating Night Cream",
+    "rating": 4.6,
+    "reviewCount": 8932,
+    "pros": [
+      "Hypoallergenic and fragrance-free formula",
+      "Excellent for compromised barriers",
+      "Silicone-based occlusion locks in moisture"
+    ],
+    "con": "Lacks ceramides or peptides found in higher-performing competitors at similar price points.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

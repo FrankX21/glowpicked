@@ -1,0 +1,35 @@
+{
+  "asin": "B00BRXVLB8",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 20,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Zinc Oxide SPF 25",
+    "Shea Butter",
+    "Jojoba Oil"
+  ],
+  "verdict": "Jack Black All Over Body Lotion SPF 25 uniquely combines UV protection with body moisturization, though the SPF requirement compromises formulation elegance. The mineral sunscreen addition limits premium ingredient concentration compared to non-SPF competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BRXVLB8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Jack Black",
+  "price": "$36",
+  "_research": {
+    "name": "Jack Black All Over Body Lotion SPF 25",
+    "rating": 4.5,
+    "reviewCount": 1204,
+    "pros": [
+      "Rare SPF 25 body lotion format",
+      "Mineral sunscreen safety profile",
+      "Functional dual-benefit formula"
+    ],
+    "con": "SPF formulation reduces space for premium skincare actives and creates different texture expectations than standard body lotions.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

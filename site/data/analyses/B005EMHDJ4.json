@@ -1,0 +1,35 @@
+{
+  "asin": "B005EMHDJ4",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Rosa Damascena",
+    "Tuberose",
+    "Heliotrope"
+  ],
+  "verdict": "Diptyque Baies prioritizes fragrance artistry over ingredient innovation, featuring synthetic aromatic molecules alongside standard moisturizers. While beloved for scent, the skincare benefits are secondary to its perfumery positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005EMHDJ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Diptyque",
+  "price": "$75",
+  "_research": {
+    "name": "Diptyque Baies Body Lotion",
+    "rating": 4.3,
+    "reviewCount": 1245,
+    "pros": [
+      "Iconic fragrance profile highly praised by customers",
+      "Consistent quality across large customer base",
+      "Luxurious sensory experience"
+    ],
+    "con": "Fragrance-forward formulation means skincare ingredients are relatively standard and not particularly innovative.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

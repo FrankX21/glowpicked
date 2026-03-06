@@ -1,0 +1,36 @@
+{
+  "asin": "B003XNBFQU",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Ginseng Extract",
+    "Hyaluronic Acid",
+    "Sea Algae",
+    "Ceramides"
+  ],
+  "verdict": "Shiseido's regenerating formula combines Asian botanical wisdom with ceramides for barrier repair. The ginseng and sea algae provide rejuvenating properties that align with the brand's skincare expertise.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003XNBFQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Shiseido",
+  "price": "$32",
+  "_research": {
+    "name": "Regenerating Lip Balm",
+    "rating": 4.4,
+    "reviewCount": 892,
+    "pros": [
+      "Barrier-repairing ceramides",
+      "Potent botanical extracts",
+      "Regenerative focus"
+    ],
+    "con": "Complex formula may trigger sensitivity in very reactive lips.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

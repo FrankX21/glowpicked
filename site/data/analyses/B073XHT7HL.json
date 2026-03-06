@@ -1,0 +1,35 @@
+{
+  "asin": "B073XHT7HL",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Hydrolyzed Proteins",
+    "Glycerin"
+  ],
+  "verdict": "This serum delivers solid hydration with multi-weight hyaluronic acid and protein complexes that work synergistically for plumping effects. Formulation is well-balanced but relatively straightforward for the luxury price point.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073XHT7HL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Lancôme",
+  "price": "$75.00",
+  "_research": {
+    "name": "Serum Infusion Hyaluronic Complex",
+    "rating": 4.2,
+    "reviewCount": 3900,
+    "pros": [
+      "Multi-molecular hyaluronic acid",
+      "Lightweight hydrating base",
+      "Good for all skin types"
+    ],
+    "con": "Formula lacks standout active ingredients beyond basic humectants.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

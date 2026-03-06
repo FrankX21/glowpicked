@@ -1,0 +1,35 @@
+{
+  "asin": "B0014DKSRF",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Camphor",
+    "Menthol"
+  ],
+  "verdict": "Blistex Medicated Plus delivers functional lip care with active medicinal ingredients designed to soothe and heal chapped lips. The camphor and menthol provide therapeutic benefits, though the formula leans medicated rather than nourishing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0014DKSRF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Blistex",
+  "price": "$3",
+  "_research": {
+    "name": "Blistex Medicated Plus Lip Balm",
+    "rating": 4.1,
+    "reviewCount": 1123,
+    "pros": [
+      "Effective for severely dry or chapped lips",
+      "Clinically-proven medicinal actives",
+      "Affordable and widely available"
+    ],
+    "con": "Heavy menthol/camphor content may irritate sensitive lips with prolonged use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

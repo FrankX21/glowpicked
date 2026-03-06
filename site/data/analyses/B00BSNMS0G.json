@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNMS0G",
+  "glowScore": 62,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 15,
+    "safetyProfile": 14,
+    "valueForMoney": 8
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptides",
+    "Hyaluronic Acid",
+    "Caffeine"
+  ],
+  "verdict": "A prestige eye cream misclassified as body product in this list. While featuring anti-aging peptides and caffeine, it's formulated for delicate eye area, not body application, making this entry categorically inappropriate.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNMS0G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Estée Lauder",
+  "price": "$78",
+  "_research": {
+    "name": "Estée Lauder Advanced Night Repair Eye Cream",
+    "rating": 4.3,
+    "reviewCount": 4521,
+    "pros": [
+      "Advanced peptide technology",
+      "Caffeine for depuffing",
+      "Prestigious luxury brand"
+    ],
+    "con": "This is an eye cream, not body care; its inclusion appears to be a data error requiring removal.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

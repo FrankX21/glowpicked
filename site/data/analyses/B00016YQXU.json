@@ -1,0 +1,35 @@
+{
+  "asin": "B00016YQXU",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Squalane",
+    "Glycerin",
+    "Shea Butter"
+  ],
+  "verdict": "Kiehl's flagship body lotion balances hydration with elegant sensory profile using proven moisturizers. The combination of squalane and shea butter creates effective hydration, positioning this as accessible luxury with reliable performance.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016YQXU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$48",
+  "_research": {
+    "name": "Kiehl's Creme de Corps Body Lotion",
+    "rating": 4.4,
+    "reviewCount": 2103,
+    "pros": [
+      "Excellent squalane emollient",
+      "High review count validates efficacy",
+      "Clean, versatile formula"
+    ],
+    "con": "Largely formulaic composition; relies on brand prestige rather than innovative or advanced skincare technology.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

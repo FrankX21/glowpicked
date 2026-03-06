@@ -1,0 +1,36 @@
+{
+  "asin": "B0012VQEWY",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 21,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Petrolatum",
+    "Mineral Oil",
+    "Lanolin",
+    "Vitamin E"
+  ],
+  "verdict": "Clinique's safe, dermatologist-approved formula prioritizing barrier protection through occlusive ingredients. Reliable but formulaically conservative for the luxury tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0012VQEWY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clinique",
+  "price": "$20",
+  "_research": {
+    "name": "Moisture Rich Lip Balm",
+    "rating": 4.2,
+    "reviewCount": 2156,
+    "pros": [
+      "Hypoallergenic formulation",
+      "Clinique testing standards",
+      "Good moisturization"
+    ],
+    "con": "Very basic ingredient list with no active treatments; lacks innovation compared to competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

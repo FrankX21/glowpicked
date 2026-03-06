@@ -1,0 +1,35 @@
+{
+  "asin": "B07YP3TJLL",
+  "glowScore": 52,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 15,
+    "safetyProfile": 9,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Suction Technology",
+    "Vacuum Pressure",
+    "Pore Extraction Method"
+  ],
+  "verdict": "Mechanical suction-based blackhead removal with moderate safety profile. Can cause irritation if suction strength is not properly calibrated for skin sensitivity.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YP3TJLL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "RENPHO",
+  "price": "$21",
+  "_research": {
+    "name": "Professional Pore Cleaner Vacuum",
+    "rating": 4,
+    "reviewCount": 5600,
+    "pros": [
+      "Visible immediate results",
+      "Mechanical extraction",
+      "No harsh chemicals"
+    ],
+    "con": "Risk of broken capillaries and skin irritation if suction pressure too high.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

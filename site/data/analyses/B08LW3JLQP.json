@@ -1,0 +1,35 @@
+{
+  "asin": "B08LW3JLQP",
+  "glowScore": 66,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Copper Peptides",
+    "Hyaluronic Acid",
+    "Peptide Complex"
+  ],
+  "verdict": "Copper peptides offer legitimate collagen-stimulating benefits with good supporting hydration ingredients. The formulation is solid but not groundbreaking for the luxury positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LW3JLQP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neora",
+  "price": "$89",
+  "_research": {
+    "name": "Copper Peptide Advanced Renewal Serum",
+    "rating": 4.1,
+    "reviewCount": 850,
+    "pros": [
+      "Copper peptides clinically proven for renewal",
+      "Good hydration base",
+      "Suitable for sensitive skin"
+    ],
+    "con": "Limited innovative actives compared to competitors at this price point.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

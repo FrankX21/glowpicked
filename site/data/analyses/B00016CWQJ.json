@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWQJ",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 15,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "menthol",
+    "salicylic acid"
+  ],
+  "verdict": "Medline's medicated balm incorporates salicylic acid for exfoliating benefits alongside menthol soothing—professional healthcare brand backing ensures quality standards.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWQJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Medline",
+  "price": "$1",
+  "_research": {
+    "name": "Medline Lip Balm Medicated",
+    "rating": 4.5,
+    "reviewCount": 6100,
+    "pros": [
+      "Medicated formula",
+      "Salicylic acid exfoliation",
+      "Healthcare-grade",
+      "Reasonable price"
+    ],
+    "con": "Salicylic acid may over-exfoliate delicate lip skin if used excessively.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

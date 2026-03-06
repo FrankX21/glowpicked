@@ -1,0 +1,35 @@
+{
+  "asin": "B00K1VH8RM",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "shea butter",
+    "glycerin",
+    "vitamin E"
+  ],
+  "verdict": "Rich body lotion with shea butter and vitamin E providing nourishment for dry skin. Strong 4.6★ rating indicates excellent performance despite premium texture.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00K1VH8RM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Palmer's",
+  "price": "$7",
+  "_research": {
+    "name": "Palmer's Shea Butter Formula Daily Lotion",
+    "rating": 4.6,
+    "reviewCount": 8100,
+    "pros": [
+      "shea butter provides deep moisture",
+      "vitamin E offers antioxidant protection",
+      "well-reviewed at 8100 reviews"
+    ],
+    "con": "Thicker formula may feel greasy for combination skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

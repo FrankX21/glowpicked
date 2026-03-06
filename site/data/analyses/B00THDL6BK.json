@@ -1,0 +1,34 @@
+{
+  "asin": "B00THDL6BK",
+  "glowScore": 52,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 5,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel rotating head",
+    "No active ingredients"
+  ],
+  "verdict": "A mechanical hair removal device with no skincare ingredients—effectiveness depends on device precision and technique rather than formulation. Best for facial peach fuzz, though results vary significantly by hair type.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00THDL6BK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Finishing Touch",
+  "price": "$24",
+  "_research": {
+    "name": "Manual Facial Hair Removal Epilator",
+    "rating": 4.2,
+    "reviewCount": 9100,
+    "pros": [
+      "Reusable alternative to razors and wax",
+      "Painless mechanical removal",
+      "Budget-friendly long-term solution"
+    ],
+    "con": "Not ideal for coarse or dark hair; can cause temporary redness and doesn't address ingrown hair prevention.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

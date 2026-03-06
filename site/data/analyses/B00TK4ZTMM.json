@@ -1,0 +1,35 @@
+{
+  "asin": "B00TK4ZTMM",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Squalane",
+    "Peptides"
+  ],
+  "verdict": "Olay's stabilized retinol formula with squalane emollient ensures skin tolerance while targeting fine lines. Positioned between gentle and potent, making it accessible for retinol beginners.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TK4ZTMM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$7.99",
+  "_research": {
+    "name": "Neutrogena Rapid Wrinkle Repair Eye Cream",
+    "rating": 4.3,
+    "reviewCount": 9800,
+    "pros": [
+      "Stabilized retinol formulation",
+      "Squalane minimizes irritation",
+      "Brand reliability and accessibility"
+    ],
+    "con": "Retinol concentration likely lower than prescription-strength alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

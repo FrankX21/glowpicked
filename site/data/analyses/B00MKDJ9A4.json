@@ -1,0 +1,35 @@
+{
+  "asin": "B00MKDJ9A4",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octocrylene",
+    "Antioxidant Complex"
+  ],
+  "verdict": "SkinCeuticals Sport delivers professional-grade broad-spectrum UVA/UVB protection with advanced antioxidant complex for active users. High safety profile and dermatologist credibility justify luxury positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MKDJ9A4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "SkinCeuticals",
+  "price": "$75",
+  "_research": {
+    "name": "SkinCeuticals Sport SPF 50 UVA/UVB Protectant",
+    "rating": 4.3,
+    "reviewCount": 1567,
+    "pros": [
+      "Professional-grade formula",
+      "Sport-specific formulation",
+      "Antioxidant support"
+    ],
+    "con": "Higher price reflects brand prestige more than unique ingredient innovations.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

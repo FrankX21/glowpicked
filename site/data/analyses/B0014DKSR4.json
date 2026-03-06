@@ -1,0 +1,35 @@
+{
+  "asin": "B0014DKSR4",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "menthol",
+    "camphor"
+  ],
+  "verdict": "A medicated formula combining petrolatum with cooling agents for immediate relief of chapped lips. Good for those seeking active ingredients but less hydrating than pure moisturizing balms.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0014DKSR4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Blistex",
+  "price": "$3",
+  "_research": {
+    "name": "Blistex DCT Dynamic Duo Lip Balm",
+    "rating": 4.2,
+    "reviewCount": 1654,
+    "pros": [
+      "menthol provides cooling sensation",
+      "medicated approach targets discomfort",
+      "affordable price point"
+    ],
+    "con": "Menthol can be drying with repeated use and may irritate sensitive lips.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

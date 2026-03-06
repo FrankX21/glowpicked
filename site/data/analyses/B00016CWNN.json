@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWNN",
+  "glowScore": 63,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 14,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "menthol",
+    "camphor"
+  ],
+  "verdict": "ChapStick represents budget basics with minimal innovation—petrolatum-heavy formula and antiquated ingredient profile lack modern moisturizing science found in competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWNN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ChapStick",
+  "price": "$2",
+  "_research": {
+    "name": "ChapStick Classic Original",
+    "rating": 4.3,
+    "reviewCount": 5400,
+    "pros": [
+      "Ultra-affordable",
+      "Available everywhere",
+      "Portable stick format",
+      "Familiar brand"
+    ],
+    "con": "Outdated formula with minimal therapeutic botanicals or protective ingredients.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

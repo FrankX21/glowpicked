@@ -1,0 +1,35 @@
+{
+  "asin": "B00SBJGLA0",
+  "glowScore": 52,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 5,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Medical-grade silicone",
+    "Sonic vibration technology",
+    "Hypoallergenic coating"
+  ],
+  "verdict": "Silicone-based tool using sonic vibration for cleansing without topical ingredients. Safe for sensitive skin with reliable technology, though results depend on user frequency and technique.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SBJGLA0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "PMD Clean",
+  "price": "$19",
+  "_research": {
+    "name": "Soft Silicone Face Cleansing Pad",
+    "rating": 4.1,
+    "reviewCount": 7800,
+    "pros": [
+      "Hypoallergenic silicone construction",
+      "Gentle alternative to manual extraction",
+      "Removes makeup and impurities effectively"
+    ],
+    "con": "Requires daily charging; effectiveness plateaus if not used consistently.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

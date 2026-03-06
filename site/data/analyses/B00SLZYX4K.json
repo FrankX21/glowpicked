@@ -1,0 +1,35 @@
+{
+  "asin": "B00SLZYX4K",
+  "glowScore": 89,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "lanolin",
+    "panthenol"
+  ],
+  "verdict": "Premium budget option with petrolatum, lanolin, and panthenol (pro-vitamin B5) for superior moisture retention and skin repair. Highest-rated product with excellent clinical efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SLZYX4K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aquaphor",
+  "price": "$3",
+  "_research": {
+    "name": "Aquaphor Lip Repair Ointment Stick",
+    "rating": 4.6,
+    "reviewCount": 6812,
+    "pros": [
+      "panthenol aids lip barrier repair",
+      "lanolin provides deep conditioning",
+      "dermatologist recommended"
+    ],
+    "con": "Thicker ointment texture may feel heavy for some users preferring lighter balms.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

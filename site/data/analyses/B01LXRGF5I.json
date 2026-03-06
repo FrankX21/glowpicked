@@ -1,0 +1,35 @@
+{
+  "asin": "B01LXRGF5I",
+  "glowScore": 57,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 15,
+    "safetyProfile": 12,
+    "valueForMoney": 8
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Coconut Oil",
+    "Argan Oil",
+    "Silicones"
+  ],
+  "verdict": "A hair serum incorrectly listed in facial serum comparison—coconut oil is comedogenic for face and formula targets scalp/hair exclusively. Remove from consideration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXRGF5I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Pacifica",
+  "price": "$16",
+  "_research": {
+    "name": "Pacifica Coconut & Argan Smoothing Hair Serum",
+    "rating": 4.2,
+    "reviewCount": 1200,
+    "pros": [
+      "Effective for hair shine and smoothing",
+      "Natural oil base",
+      "Budget-friendly"
+    ],
+    "con": "Completely unsuitable for facial use; coconut oil comedogenic risk and formula designed for hair, not face.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00BGXWCJA",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 19,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sodium Lauryl Sulfate",
+    "Glycerin",
+    "Seaweed Extract"
+  ],
+  "verdict": "Aveeno Pure Renewal Body Wash is a functional cleanser with botanical extracts but relies on standard surfactants. It delivers adequate cleansing without significant skincare benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BGXWCJA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$6",
+  "_research": {
+    "name": "Aveeno Pure Renewal Body Wash",
+    "rating": 4.4,
+    "reviewCount": 6800,
+    "pros": [
+      "Natural seaweed and botanicals",
+      "Fragrance-free option",
+      "Gentle cleansing"
+    ],
+    "con": "SLS-based formula can be drying for sensitive or dry skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

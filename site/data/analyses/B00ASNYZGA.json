@@ -1,0 +1,36 @@
+{
+  "asin": "B00ASNYZGA",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Petrolatum",
+    "Mineral Oil",
+    "Glycerin"
+  ],
+  "verdict": "Clinique's Moisture Surge emphasizes hydration through hyaluronic acid but relies on conventional occlusive bases. While effective for dryness, the formula lacks the premium botanicals expected at this price point.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ASNYZGA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clinique",
+  "price": "$21",
+  "_research": {
+    "name": "Moisture Surge Lip",
+    "rating": 4.2,
+    "reviewCount": 1945,
+    "pros": [
+      "Strong hydration",
+      "Dermatologist-tested",
+      "Non-irritating"
+    ],
+    "con": "Basic formula with minimal luxury differentiation from drugstore alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

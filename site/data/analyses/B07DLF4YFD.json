@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLF4YFD",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptide Complex",
+    "Panthenol",
+    "Conditioning Polymers"
+  ],
+  "verdict": "Formulated specifically for fragile lash and brow hair, this serum uses peptides to strengthen and condition rather than thicken significantly. Results are modest and improvement may take 6-8 weeks of consistent use.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLF4YFD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$8.00",
+  "_research": {
+    "name": "Multi-Peptide Lash and Brow Serum",
+    "rating": 4.2,
+    "reviewCount": 5400,
+    "pros": [
+      "Specialized niche formula",
+      "Safe for delicate eye area",
+      "Reduces breakage effectively"
+    ],
+    "con": "Cannot deliver dramatic lash growth; results are subtle conditioning benefits only.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

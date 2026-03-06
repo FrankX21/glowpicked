@@ -1,0 +1,35 @@
+{
+  "asin": "B07CTM1XPQ",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Sodium Cocoyl Isethionate",
+    "Dimethicone"
+  ],
+  "verdict": "Top-rated cleanser with gentler surfactant system and solid moisturizing support. Exceptional customer satisfaction reflects reliable performance across skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CTM1XPQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$9",
+  "_research": {
+    "name": "Cetaphil Gentle Body Wash",
+    "rating": 4.5,
+    "reviewCount": 6200,
+    "pros": [
+      "Massive review validation",
+      "Mild surfactant blend",
+      "Creamy formula"
+    ],
+    "con": "Higher price point for body wash category limits budget-tier appeal.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

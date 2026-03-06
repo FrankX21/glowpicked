@@ -1,0 +1,35 @@
+{
+  "asin": "B07KPDX9Y8",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Niacinamide",
+    "Panthenol"
+  ],
+  "verdict": "The highest-rated toner (4.4★) with balanced hydration actives and niacinamide for pore refinement and barrier support. Exceptional value and efficacy for a hydration-focused step.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KPDX9Y8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Purito",
+  "price": "$16.99",
+  "_research": {
+    "name": "Purito Deep Sea Pure Water Cream",
+    "rating": 4.2,
+    "reviewCount": 5900,
+    "pros": [
+      "Optimal ingredient balance",
+      "Highest rating among toners",
+      "Multi-benefit hydration formula"
+    ],
+    "con": "Still requires active serums for visible anti-aging or treatment concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

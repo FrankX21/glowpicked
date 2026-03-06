@@ -1,0 +1,36 @@
+{
+  "asin": "B076NXSX9L",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Niacinamide 10%",
+    "Zinc PCA 1%",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "A powerhouse budget serum with clinically-proven niacinamide for pore refinement and sebum control, plus zinc for skin-clarifying benefits. Exceptional value with minimal ingredient list and proven efficacy across 8,500+ reviews.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076NXSX9L&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$6",
+  "_research": {
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "rating": 4.3,
+    "reviewCount": 8500,
+    "pros": [
+      "High-concentration niacinamide with robust clinical backing",
+      "Zinc inclusion targets breakout-prone skin effectively",
+      "Minimal formula reduces irritation risk",
+      "Outstanding review volume and consistency"
+    ],
+    "con": "Can cause slight dryness or purging in sensitive skin during initial use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

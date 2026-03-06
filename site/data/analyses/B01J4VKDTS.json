@@ -1,0 +1,35 @@
+{
+  "asin": "B01J4VKDTS",
+  "glowScore": 43,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 0,
+    "safetyProfile": 11,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel",
+    "Multiple Extraction Tips",
+    "No Chemical Additives"
+  ],
+  "verdict": "Multi-tool extraction kits provide variety for different comedone types but require significant skill to use safely. The stainless steel is durable, but improper use carries high scarring and infection risk.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01J4VKDTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Topelek",
+  "price": "$8",
+  "_research": {
+    "name": "Blackhead Extractor Tool Kit",
+    "rating": 4.1,
+    "reviewCount": 5800,
+    "pros": [
+      "Multiple extraction options",
+      "Stainless steel construction",
+      "Budget value for set"
+    ],
+    "con": "Requires professional expertise; high risk of permanent skin damage and scarring.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

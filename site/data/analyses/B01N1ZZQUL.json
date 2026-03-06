@@ -1,0 +1,35 @@
+{
+  "asin": "B01N1ZZQUL",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 23,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Collagen Peptides",
+    "Antioxidants"
+  ],
+  "verdict": "Seven Minerals' serum attempts to address retinol's limitations by including collagen peptides for structural support alongside retinol stimulation. However, the multi-mechanism approach dilutes ingredient concentrations, potentially reducing transformative results.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N1ZZQUL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Seven Minerals",
+  "price": "$11",
+  "_research": {
+    "name": "Retinol Collagen Serum",
+    "rating": 4.1,
+    "reviewCount": 7400,
+    "pros": [
+      "Hydrolyzed collagen peptides have better bioavailability than intact collagen",
+      "Multiple anti-aging mechanisms in single product",
+      "Strong review volume suggests satisfied users"
+    ],
+    "con": "Multi-ingredient approach likely compromises retinol concentration for claimed efficacy.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

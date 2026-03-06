@@ -1,0 +1,35 @@
+{
+  "asin": "B001V7SUBY",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Niacinamide (undisclosed %)",
+    "Zinc",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "An affordable niacinamide-zinc serum targeting sebum regulation and blemish control with solid customer validation. Undisclosed niacinamide percentage limits comparison to competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001V7SUBY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$14.99",
+  "_research": {
+    "name": "CeraVe PM Facial Moisturizing Lotion",
+    "rating": 4.4,
+    "reviewCount": 9200,
+    "pros": [
+      "Zinc-niacinamide synergy for acne-prone skin",
+      "Good value for dual-active formula",
+      "Strong customer satisfaction rating"
+    ],
+    "con": "Niacinamide concentration is unlabeled, making it unclear if it matches Paula's Choice's clinically-proven 10%.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

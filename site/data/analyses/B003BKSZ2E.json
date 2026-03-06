@@ -1,0 +1,35 @@
+{
+  "asin": "B003BKSZ2E",
+  "glowScore": 51,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 2,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Surgical-grade stainless steel",
+    "Silicone grip",
+    "Metal handle"
+  ],
+  "verdict": "Pure mechanical tool with no skincare ingredients; functions through physical scraping action on tongue. Safety is excellent with food-grade materials, though oral wellness is tangential to skincare.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003BKSZ2E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Orabrush",
+  "price": "$7",
+  "_research": {
+    "name": "Stainless Steel Tongue Scraper",
+    "rating": 4.2,
+    "reviewCount": 5900,
+    "pros": [
+      "Reduces oral bacteria and improve breath",
+      "Durable stainless steel",
+      "Complements skincare routine with holistic wellness"
+    ],
+    "con": "Oral hygiene tool, not a facial skincare product; limited relevance to skin health.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

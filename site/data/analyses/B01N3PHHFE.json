@@ -1,0 +1,35 @@
+{
+  "asin": "B01N3PHHFE",
+  "glowScore": 48,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 8,
+    "safetyProfile": 12,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Nano ionic mist technology",
+    "Stainless steel chamber",
+    "Mineral water compatibility"
+  ],
+  "verdict": "Steamer uses ionized water vapor to open pores without topical ingredients. Moderate safety concerns around prolonged heat exposure; effective as prep step but not standalone treatment.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3PHHFE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "NanoSteamer by PerfectSteam",
+  "price": "$26",
+  "_research": {
+    "name": "Facial Steamer Nano Ionic",
+    "rating": 4,
+    "reviewCount": 6200,
+    "pros": [
+      "Opens pores for deeper cleansing",
+      "Compatible with serums and masks",
+      "Nano ionic technology reduces bacteria"
+    ],
+    "con": "Can exacerbate rosacea and sensitive skin; prolonged use may cause temporary redness.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

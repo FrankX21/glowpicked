@@ -1,0 +1,35 @@
+{
+  "asin": "B01N3PIHZ3",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Water",
+    "Glycerin",
+    "Alcohol Denat."
+  ],
+  "verdict": "A facial mist focused on hydration and setting makeup rather than body care treatment. The lightweight formula refreshes skin but lacks substantive moisturizing or therapeutic ingredients for body application.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3PIHZ3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Tatcha",
+  "price": "$48",
+  "_research": {
+    "name": "Tatcha Luminous Dewy Skin Mist",
+    "rating": 4.4,
+    "reviewCount": 3421,
+    "pros": [
+      "Lightweight and refreshing",
+      "High review count reflects popularity",
+      "Portable spray format"
+    ],
+    "con": "Misclassified for body care category; primarily a facial setting spray without moisturizing body cream benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

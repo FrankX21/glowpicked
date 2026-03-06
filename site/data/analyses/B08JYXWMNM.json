@@ -1,0 +1,35 @@
+{
+  "asin": "B08JYXWMNM",
+  "glowScore": 66,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Panthenol",
+    "Allantoin"
+  ],
+  "verdict": "Accessible luxury with pure hydration focus and skin-soothing ingredients. Clean, dermatologist-approved formula delivers reliable results without unnecessary complexity.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08JYXWMNM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$22",
+  "_research": {
+    "name": "Hyaluronic Serum Advanced Repair",
+    "rating": 4.1,
+    "reviewCount": 2200,
+    "pros": [
+      "Hypoallergenic formulation",
+      "Dermatologist-approved",
+      "Exceptional value"
+    ],
+    "con": "Purely hydrating; lacks treatment actives for anti-aging or brightening concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

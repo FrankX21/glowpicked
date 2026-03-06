@@ -1,0 +1,35 @@
+{
+  "asin": "B00016JPGF",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 21,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "menthol",
+    "camphor"
+  ],
+  "verdict": "Classic medicated formula with camphor and menthol providing cooling relief and mild numbing sensation. Familiar formulation but relies on actives rather than nourishment.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016JPGF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Carmex",
+  "price": "$2",
+  "_research": {
+    "name": "Carmex Lip Balm Mint",
+    "rating": 4.2,
+    "reviewCount": 2156,
+    "pros": [
+      "strong cooling menthol-camphor blend",
+      "effective for chapped lips",
+      "iconic brand"
+    ],
+    "con": "Heavy reliance on cooling agents may provide temporary relief without long-term moisture improvement.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07JPHW8NF",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Peptides",
+    "Silk Proteins"
+  ],
+  "verdict": "Prestige beauty brand serum emphasizing hydration and skin smoothing through peptides and silk proteins. Delivers visible plumping and softness but lacks comprehensive anti-aging actives, pricing heavily reflects brand positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JPHW8NF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Charlotte Tilbury",
+  "price": "$95",
+  "_research": {
+    "name": "Charlotte Tilbury Magic Serum",
+    "rating": 4.2,
+    "reviewCount": 5600,
+    "pros": [
+      "Effective hydration delivery",
+      "Silky sensory experience",
+      "Visible plumping effect"
+    ],
+    "con": "Minimal anti-aging actives; price premium is primarily for brand name rather than innovation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B071XHNZPJ",
+  "glowScore": 90,
+  "breakdown": {
+    "reviewsSatisfaction": 35,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Panthenol (B5)",
+    "Ceramides",
+    "Centella Asiatica Extract"
+  ],
+  "verdict": "La Roche-Posay delivers pharmaceutical-grade formulation with panthenol and ceramides for barrier repair. The cicaplast technology targets compromised skin with clinical efficacy matching its 4.7★ rating.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071XHNZPJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Roche-Posay",
+  "price": "$32",
+  "_research": {
+    "name": "La Roche-Posay Cicaplast Balm B5 Body",
+    "rating": 4.7,
+    "reviewCount": 2156,
+    "pros": [
+      "Pharmaceutical-grade ceramides",
+      "Centella asiatica for recovery",
+      "Dermatologist-developed"
+    ],
+    "con": "Medicinal positioning limits luxury fragrance experience preferred by premium segment.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

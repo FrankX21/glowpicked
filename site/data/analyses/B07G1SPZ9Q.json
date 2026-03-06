@@ -1,0 +1,35 @@
+{
+  "asin": "B07G1SPZ9Q",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Glycerin",
+    "Hydrolyzed Jojoba Esters"
+  ],
+  "verdict": "A lightweight, humectant-heavy serum excellent for dehydration and dull skin with universal tolerability. Lacks active treatment ingredients for specific concerns.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G1SPZ9Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$6",
+  "_research": {
+    "name": "Neutrogena Hydro Boost Hydrating Serum",
+    "rating": 4.1,
+    "reviewCount": 2400,
+    "pros": [
+      "Multiple hydration layers with humectants and occlusives",
+      "Fragrance-free and hypoallergenic",
+      "Affordable entry-level serum"
+    ],
+    "con": "Pure hydration formula with no actives makes it unsuitable for treating acne, aging, or hyperpigmentation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00016YQTI",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Panthenol"
+  ],
+  "verdict": "Cetaphil Body Lotion provides gentle, fragrance-free hydration with a lightweight lotion base. The formula prioritizes safety and tolerance over advanced moisturizing technology.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016YQTI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$9",
+  "_research": {
+    "name": "Cetaphil Body Lotion",
+    "rating": 4.6,
+    "reviewCount": 8300,
+    "pros": [
+      "Hypoallergenic and fragrance-free",
+      "Non-comedogenic",
+      "Good for sensitive skin"
+    ],
+    "con": "Basic ingredient profile with limited barrier-repair actives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

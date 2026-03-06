@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWPC",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "beeswax",
+    "honey",
+    "menthol"
+  ],
+  "verdict": "Burt's Bees Medicated combines natural beeswax and honey with cooling menthol for active repair and comfort. Strong ingredient profile with clean formulation delivers visible results at reasonable cost.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWPC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Medicated Lip Balm",
+    "rating": 4.6,
+    "reviewCount": 4800,
+    "pros": [
+      "Honey is humectant and healing",
+      "Natural menthol soothes lips",
+      "Beeswax provides protective layer"
+    ],
+    "con": "Menthol may cause sensitivity in some users; slightly pricier than original version.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

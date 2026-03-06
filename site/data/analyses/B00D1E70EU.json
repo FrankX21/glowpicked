@@ -1,0 +1,35 @@
+{
+  "asin": "B00D1E70EU",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Medical-Grade Silicone",
+    "Sonic Vibration Technology",
+    "Bristle-Free Design"
+  ],
+  "verdict": "Hypoallergenic silicone construction ideal for sensitive skin without harsh bristles. Excellent safety profile with high review count (8200) demonstrating reliability.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00D1E70EU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clarisonic Mia",
+  "price": "$24",
+  "_research": {
+    "name": "Silicone Facial Cleanser Brush",
+    "rating": 4.3,
+    "reviewCount": 8200,
+    "pros": [
+      "Gentle on sensitive skin",
+      "Hypoallergenic silicone",
+      "Effective oil removal"
+    ],
+    "con": "Battery life may require frequent charging with daily use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

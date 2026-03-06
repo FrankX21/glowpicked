@@ -1,0 +1,35 @@
+{
+  "asin": "B07KQH2SHN",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Niacinamide",
+    "Panthenol"
+  ],
+  "verdict": "Premium formula specifically designed for eczema-prone skin with ceramides, niacinamide, and panthenol. Clinically effective combination addresses barrier dysfunction and inflammation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KQH2SHN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$14",
+  "_research": {
+    "name": "Cetaphil Pro Eczema Soothing Moisturizer",
+    "rating": 4.6,
+    "reviewCount": 3400,
+    "pros": [
+      "Niacinamide reduces inflammation",
+      "Ceramide-rich",
+      "Dermatologist-recommended"
+    ],
+    "con": "Higher price point moves beyond true budget positioning despite excellent efficacy.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

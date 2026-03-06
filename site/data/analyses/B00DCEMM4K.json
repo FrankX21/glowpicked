@@ -1,0 +1,35 @@
+{
+  "asin": "B00DCEMM4K",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 19,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Shea Butter",
+    "Glycerin",
+    "Stearic Acid"
+  ],
+  "verdict": "Natural shea butter delivers essential fatty acids and vitamins with good glycerin support. Lower safety score reflects potential fragrance sensitizers; formula is good but not exceptional for the price.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DCEMM4K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Palmer's",
+  "price": "$6",
+  "_research": {
+    "name": "Palmer's Shea Butter Body Lotion",
+    "rating": 4.3,
+    "reviewCount": 5123,
+    "pros": [
+      "Rich shea butter content",
+      "Vitamin E antioxidants",
+      "Pleasant natural aroma"
+    ],
+    "con": "Added fragrance and essential oils increase irritation risk for sensitive skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

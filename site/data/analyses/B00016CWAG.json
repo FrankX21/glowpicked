@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWAG",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Pomegranate Oil",
+    "Beeswax",
+    "Castor Oil"
+  ],
+  "verdict": "Natural formula combining antioxidant pomegranate with traditional lip balm actives. Clean, minimal synthetic content with proven moisturizing power.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWAG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Pomegranate Lip Balm",
+    "rating": 4.6,
+    "reviewCount": 7100,
+    "pros": [
+      "Antioxidant pomegranate",
+      "Natural beeswax",
+      "Hypoallergenic"
+    ],
+    "con": "Slightly pricier than basic Vaseline alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

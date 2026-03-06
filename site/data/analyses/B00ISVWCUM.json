@@ -1,0 +1,35 @@
+{
+  "asin": "B00ISVWCUM",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Platinum-Coated Rollers",
+    "Microcurrent Waves",
+    "Lymphatic Drainage Design"
+  ],
+  "verdict": "ReFa Carat Face Roller combines luxury aesthetic with microcurrent technology and precise roller design to encourage lymphatic drainage without chemical ingredients. The exceptional review count (5,234) indicates broad appeal and consistent results.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ISVWCUM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ReFa",
+  "price": "$180",
+  "_research": {
+    "name": "ReFa Carat Face Roller",
+    "rating": 4.3,
+    "reviewCount": 5234,
+    "pros": [
+      "Highest review volume demonstrates proven popularity",
+      "Elegant luxury design",
+      "Microcurrent + massage combination"
+    ],
+    "con": "Premium pricing for a device that delivers primarily aesthetic and lymphatic benefits rather than clinical skin transformation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

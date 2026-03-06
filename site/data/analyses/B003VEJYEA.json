@@ -1,0 +1,35 @@
+{
+  "asin": "B003VEJYEA",
+  "glowScore": 52,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 0,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Thermal heating element",
+    "Cooling function",
+    "Vibration massage mechanism"
+  ],
+  "verdict": "Temperature-based facial massager combining heat and cold therapy with vibrations for circulation. Completely safe ingredient profile; purely mechanical with no active compounds.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003VEJYEA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Rio Beauty",
+  "price": "$28",
+  "_research": {
+    "name": "Rio Beauty Hot And Cold Facial Massager",
+    "rating": 4.3,
+    "reviewCount": 5600,
+    "pros": [
+      "Dual temperature therapy boosts circulation",
+      "Reduces puffiness with cold function",
+      "Simple, safe operation"
+    ],
+    "con": "Purely mechanical benefits without synergy with skincare ingredients.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

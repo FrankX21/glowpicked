@@ -1,0 +1,35 @@
+{
+  "asin": "B000FQOZKY",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Cetyl Alcohol",
+    "Dimethicone"
+  ],
+  "verdict": "This is technically a cleanser, not a moisturizer, which limits its effectiveness as a standalone hydration product. The formula contains basic humectants and emollients but lacks advanced moisturizing actives like ceramides or hyaluronic acid that justify moisturizer positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FQOZKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$5",
+  "_research": {
+    "name": "Neutrogena Ultra Gentle Daily Cleanser Creamy Formula",
+    "rating": 4.5,
+    "reviewCount": 7300,
+    "pros": [
+      "Gentle formula suitable for sensitive skin",
+      "Affordable price point",
+      "Minimal fragrance and irritants"
+    ],
+    "con": "Marketed as a cleanser, not a moisturizer—using it alone won't provide adequate hydration for most skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

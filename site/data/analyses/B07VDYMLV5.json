@@ -1,0 +1,35 @@
+{
+  "asin": "B07VDYMLV5",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 28,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Miracle Broth™",
+    "Sea Kelp",
+    "Glycerin"
+  ],
+  "verdict": "La Mer's signature Miracle Broth provides potent marine-derived actives with proven efficacy in barrier repair and hydration. The formula is richly concentrated but relies heavily on one proprietary ingredient, limiting ingredient transparency.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VDYMLV5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Mer",
+  "price": "$165.00",
+  "_research": {
+    "name": "Concentrated Recovery Serum",
+    "rating": 4.3,
+    "reviewCount": 2100,
+    "pros": [
+      "Clinically proven marine complex",
+      "Excellent barrier repair benefits",
+      "Suitable for sensitive skin"
+    ],
+    "con": "Proprietary formula obscures full ingredient disclosure and justifies premium pricing.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

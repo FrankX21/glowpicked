@@ -1,0 +1,35 @@
+{
+  "asin": "B0030BNOD2",
+  "glowScore": 62,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 18,
+    "safetyProfile": 13,
+    "valueForMoney": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Petrolatum",
+    "Mineral Oil",
+    "Squalane"
+  ],
+  "verdict": "Crème de la Mer's SPF 15 prioritizes occlusive moisturizing over sun protection with its signature fermented seaweed extract. The low SPF makes this inadequate as a primary sunscreen despite premium positioning and heritage brand status.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0030BNOD2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Crème de la Mer",
+  "price": "$355",
+  "_research": {
+    "name": "Crème de la Mer Moisturing Cream SPF 15",
+    "rating": 4.2,
+    "reviewCount": 945,
+    "pros": [
+      "Legendary moisturizing formula",
+      "Rich texture for dry skin",
+      "Prestige brand heritage"
+    ],
+    "con": "SPF 15 is insufficient for daily UV protection and cannot replace proper sunscreen.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

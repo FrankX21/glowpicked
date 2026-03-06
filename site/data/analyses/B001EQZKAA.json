@@ -1,0 +1,35 @@
+{
+  "asin": "B001EQZKAA",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "beeswax",
+    "acai extract",
+    "vitamin E"
+  ],
+  "verdict": "Natural formula featuring acai berry antioxidants alongside beeswax and vitamin E. Strong ingredient profile combining protection with superfruit benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EQZKAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Acai Berry Lip Balm",
+    "rating": 4.3,
+    "reviewCount": 1923,
+    "pros": [
+      "acai antioxidant content",
+      "beeswax nourishment",
+      "vitamin E protection"
+    ],
+    "con": "Acai berry benefits are primarily antioxidant; minimal additional moisturizing vs. basic Burt's Bees.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

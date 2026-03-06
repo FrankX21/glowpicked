@@ -1,0 +1,35 @@
+{
+  "asin": "B000FQOZL4",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 8
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Salicylic Acid",
+    "Surfactants",
+    "Water"
+  ],
+  "verdict": "This is a cleanser, not a moisturizer, and should not be included in this category analysis. Incorrect product classification.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FQOZL4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$5",
+  "_research": {
+    "name": "Aveeno Clear Complexion Foaming Cleanser",
+    "rating": 4.4,
+    "reviewCount": 5400,
+    "pros": [
+      "Effective cleansing",
+      "Budget-friendly",
+      "Popular brand"
+    ],
+    "con": "Product category mismatch—cleanser formulation unsuitable for moisturizer comparison.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

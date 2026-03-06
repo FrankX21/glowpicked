@@ -1,0 +1,35 @@
+{
+  "asin": "B00F2JGKL2",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 19,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Seaweed Extract",
+    "Glycerin",
+    "Sodium Lauryl Sulfate"
+  ],
+  "verdict": "Natural seaweed extract provides light botanical benefits with reliable humectants. However, the inclusion of SLS raises concerns for sensitive skin despite the 'natural' positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F2JGKL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$7",
+  "_research": {
+    "name": "Aveeno Pure Renewal Body Wash",
+    "rating": 4.5,
+    "reviewCount": 6521,
+    "pros": [
+      "Antioxidant seaweed extract",
+      "Pleasant fragrance profile",
+      "Good lather for budget price"
+    ],
+    "con": "Contains sulfates which can be irritating and drying to compromised skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

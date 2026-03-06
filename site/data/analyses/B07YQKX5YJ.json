@@ -1,0 +1,35 @@
+{
+  "asin": "B07YQKX5YJ",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Platinum-Coated Stainless Steel",
+    "3D Wave Motion",
+    "Micro-Vibrations"
+  ],
+  "verdict": "ReFa's S Carat Roller is the category leader (4.5★, 5800 reviews) combining premium materials with proven microcirculation benefits; the platinum coating and wave motion justify luxury positioning. Pure craftsmanship excellence.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YQKX5YJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ReFa",
+  "price": "$189",
+  "_research": {
+    "name": "ReFa S Carat Facial Roller",
+    "rating": 4.5,
+    "reviewCount": 5800,
+    "pros": [
+      "Highest customer satisfaction rating",
+      "3D rolling motion mimics professional massage",
+      "Elegant Japanese design"
+    ],
+    "con": "Purely mechanical tool with modest clinical evidence; premium pricing based on brand heritage rather than innovation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

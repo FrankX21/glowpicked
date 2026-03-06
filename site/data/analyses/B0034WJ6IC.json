@@ -1,0 +1,35 @@
+{
+  "asin": "B0034WJ6IC",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 28,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptides",
+    "Hyaluronic Acid",
+    "Squalane"
+  ],
+  "verdict": "Premium formulation targeting periocular fragility with multi-peptide technology and hydrating polymers. Justifies luxury pricing through specialized eye-area targeting.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0034WJ6IC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Estée Lauder",
+  "price": "$68",
+  "_research": {
+    "name": "Advanced Night Repair Eye",
+    "rating": 4.4,
+    "reviewCount": 1300,
+    "pros": [
+      "Eye-area specific formulation",
+      "Multi-peptide complex",
+      "Rich hydration without heaviness"
+    ],
+    "con": "Premium price reflects branding as much as ingredient innovation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B01N6PH26R",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 26,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Retinol 2.5%",
+    "Squalane",
+    "Vitamin F"
+  ],
+  "verdict": "The Ordinary's retinol serum sets industry standard with transparent 2.5% retinol concentration and exceptional review validation. This is a benchmark anti-aging ingredient backed by strongest consumer data in this analysis.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N6PH26R&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$5.90",
+  "_research": {
+    "name": "Retinol 2.5% Advanced Restorative Serum",
+    "rating": 4.3,
+    "reviewCount": 8500,
+    "pros": [
+      "Transparent 2.5% retinol concentration",
+      "Massive review validation (8500)",
+      "Excellent price-to-efficacy ratio"
+    ],
+    "con": "Potency requires gradual introduction; not suitable for retinol-naive users without careful titration.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

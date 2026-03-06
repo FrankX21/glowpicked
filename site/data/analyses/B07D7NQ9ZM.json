@@ -1,0 +1,35 @@
+{
+  "asin": "B07D7NQ9ZM",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 16,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Kelp Seaweed Extract",
+    "Sea Lettuce",
+    "Alaria Esculenta"
+  ],
+  "verdict": "Osea's seaweed serum celebrates marine bioactives with minimal processing, delivering minerals and trace elements for skin vitality. The ingredient profile is wholesome but lacks the clinical evidence of synthetic actives, positioning it as a wellness product over therapeutic serum.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D7NQ9ZM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Osea",
+  "price": "$50",
+  "_research": {
+    "name": "Sea Kelp Seaweed Serum",
+    "rating": 4,
+    "reviewCount": 1400,
+    "pros": [
+      "Certified sustainable sourcing",
+      "Mineral-rich seaweed blend",
+      "Minimal irritation profile"
+    ],
+    "con": "Lacks clinical evidence for efficacy claims compared to targeted active ingredients.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

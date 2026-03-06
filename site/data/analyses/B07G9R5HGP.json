@@ -1,0 +1,35 @@
+{
+  "asin": "B07G9R5HGP",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 23,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Resveratrol 3%",
+    "Ferulic Acid 3%",
+    "Vitamin E"
+  ],
+  "verdict": "A powerful antioxidant serum using the synergistic resveratrol + ferulic acid combination for photoprotection and anti-aging. The Ordinary's transparency provides clear concentrations, though this combo offers subtle results requiring consistency.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G9R5HGP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cosrx",
+  "price": "$9.99",
+  "_research": {
+    "name": "COSRX Hydrium Watery Toner",
+    "rating": 4.3,
+    "reviewCount": 8200,
+    "pros": [
+      "Clinically-researched antioxidant duo",
+      "Transparent ingredient concentration",
+      "Stabilized formula"
+    ],
+    "con": "Results are gradual and protective rather than visibly transformative; requires consistent use and SPF.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

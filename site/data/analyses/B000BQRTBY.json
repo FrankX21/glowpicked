@@ -1,0 +1,35 @@
+{
+  "asin": "B000BQRTBY",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Salicylic Acid",
+    "Sodium Lauryl Sulfate",
+    "Glycerin"
+  ],
+  "verdict": "Effective acne-fighting body wash with salicylic acid, though formulated with harsher surfactants that may strip sensitive skin. Good for oily, breakout-prone body areas but requires moisturizer follow-up.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BQRTBY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$6",
+  "_research": {
+    "name": "Neutrogena Body Clear Body Wash",
+    "rating": 4.3,
+    "reviewCount": 3800,
+    "pros": [
+      "Proven acne-fighting active",
+      "Affordable",
+      "High review volume"
+    ],
+    "con": "Sulfate-based cleanser can be drying for sensitive skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

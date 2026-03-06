@@ -1,0 +1,35 @@
+{
+  "asin": "B00JI8TBIK",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sea Botanicals",
+    "Hyaluronic Acid",
+    "Niacinamide"
+  ],
+  "verdict": "A clean marine-based serum emphasizing natural sea extracts with hydration support from hyaluronic acid. Best suited for sensitive skin seeking gentle hydration rather than aggressive treatment.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JI8TBIK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$15.99",
+  "_research": {
+    "name": "Olay Total Effects 7-in-1 Eye Serum",
+    "rating": 4.2,
+    "reviewCount": 6700,
+    "pros": [
+      "Clean ingredient profile",
+      "Marine sustainability appeal",
+      "Gentle on sensitive skin"
+    ],
+    "con": "Sea foam actives lack strong clinical evidence compared to synthetic alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

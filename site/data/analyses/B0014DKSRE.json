@@ -1,0 +1,35 @@
+{
+  "asin": "B0014DKSRE",
+  "glowScore": 58,
+  "breakdown": {
+    "reviewsSatisfaction": 16,
+    "ingredientScience": 18,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "menthol",
+    "phenol"
+  ],
+  "verdict": "Medicated balm with phenol as antiseptic alongside menthol for treating troubled lips. Effective therapeutic formula but less suitable for preventative daily care.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0014DKSRE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Blistex",
+  "price": "$3",
+  "_research": {
+    "name": "Blistex Mint Medicated Lip Balm",
+    "rating": 4,
+    "reviewCount": 1234,
+    "pros": [
+      "phenol antiseptic properties",
+      "menthol numbing sensation",
+      "medicated focus"
+    ],
+    "con": "Phenol can be drying and potentially irritating; better for occasional use than daily application.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

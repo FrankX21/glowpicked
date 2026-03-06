@@ -1,0 +1,35 @@
+{
+  "asin": "B01N3PN8J8",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "Sodium Cocoyl Isethionate"
+  ],
+  "verdict": "Excellent cleanser combining ceramides, hyaluronic acid, and gentle surfactants for comprehensive skin support. CeraVe's proven formula delivers clinical-level care at accessible pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3PN8J8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$8",
+  "_research": {
+    "name": "CeraVe Body Wash for Normal to Dry Skin",
+    "rating": 4.5,
+    "reviewCount": 7100,
+    "pros": [
+      "Ceramide + hyaluronic acid combination",
+      "Gentle sulfate-free cleansing",
+      "Highest review count"
+    ],
+    "con": "Mid-range pricing still higher than budget basic alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

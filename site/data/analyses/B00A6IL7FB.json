@@ -1,0 +1,35 @@
+{
+  "asin": "B00A6IL7FB",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sunflower Oil",
+    "Jojoba Oil",
+    "Shea Butter"
+  ],
+  "verdict": "EOS Organic Lip Balm stands out with clean, plant-based ingredients including protective sunflower oil and conditioning jojoba oil, appealing to natural-minded consumers. The organic certification adds credibility, though minty sweetness prioritizes taste over pure efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A6IL7FB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "EOS",
+  "price": "$4",
+  "_research": {
+    "name": "EOS Organic Lip Balm Sweet Mint",
+    "rating": 4.2,
+    "reviewCount": 1567,
+    "pros": [
+      "Organic certified with clean ingredient list",
+      "Rich botanical oils for nourishment",
+      "Pleasant sweet mint flavor"
+    ],
+    "con": "Flavoring agents may encourage ingestion rather than prolonged lip contact for actual hydration.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

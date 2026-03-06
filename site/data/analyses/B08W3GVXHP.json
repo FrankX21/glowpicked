@@ -1,0 +1,36 @@
+{
+  "asin": "B08W3GVXHP",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "T-Sonic pulsation",
+    "AI skin detection",
+    "Medical-grade silicone"
+  ],
+  "verdict": "FOREO LUNA Mini 3 delivers intelligent facial cleansing in a compact, travel-friendly format with T-Sonic pulsation and AI-powered skin analysis. The highest review count reflects widespread satisfaction with this accessible luxury device that maintains FOREO's quality standards.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08W3GVXHP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$119",
+  "_research": {
+    "name": "FOREO LUNA Mini 3 Smart Facial Cleanser",
+    "rating": 4.4,
+    "reviewCount": 6789,
+    "pros": [
+      "Compact travel-friendly design",
+      "AI skin detection",
+      "Highest review volume (6789)",
+      "Excellent value for smart technology"
+    ],
+    "con": "Smaller size limits facial coverage efficiency compared to full-size LUNA 3 device.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

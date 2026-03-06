@@ -1,0 +1,35 @@
+{
+  "asin": "B07G8VVXXX",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Niacinamide",
+    "Panthenol"
+  ],
+  "verdict": "Formulated specifically for xerosis with gentle sulfate-free cleansing and skin-conditioning agents. Niacinamide supports barrier function, though the formula is relatively basic for its price point.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07G8VVXXX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$8",
+  "_research": {
+    "name": "Cetaphil Pro Dry Skin Body Wash",
+    "rating": 4.4,
+    "reviewCount": 4892,
+    "pros": [
+      "Sulfate-free gentle formula",
+      "Niacinamide for barrier support",
+      "Suitable for very dry, sensitive skin"
+    ],
+    "con": "Lacks exfoliating or treatment-level actives; primarily a gentle cleanser.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B000BQOL3C",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Almond Oil",
+    "Shea Butter",
+    "Beeswax"
+  ],
+  "verdict": "Crabtree & Evelyn's heritage formula combines traditional moisturizers (almond oil, shea butter) with natural occlusives for intensive hand care. Luxurious positioning justified by quality ingredients, though formulation is conventional.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BQOL3C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Crabtree & Evelyn",
+  "price": "$28",
+  "_research": {
+    "name": "Crabtree & Evelyn Ultra-Moisturising Hand Therapy",
+    "rating": 4.3,
+    "reviewCount": 1567,
+    "pros": [
+      "Premium natural ingredients",
+      "Rich, nourishing texture",
+      "Heritage brand authenticity"
+    ],
+    "con": "Primarily a hand therapy product; lacks broader body care applicability and contains common commodity ingredients.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

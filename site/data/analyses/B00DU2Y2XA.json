@@ -1,0 +1,35 @@
+{
+  "asin": "B00DU2Y2XA",
+  "glowScore": 59,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 1,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Natural konjac root",
+    "Charcoal-infused variant",
+    "Water-soluble fibers"
+  ],
+  "verdict": "Pure natural material with exceptional safety and minimal processing. High review count and strong rating confirm reliability as a gentle mechanical cleanser compatible with all skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DU2Y2XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Konjac Sponge Company",
+  "price": "$5",
+  "_research": {
+    "name": "Konjac Sponge Facial Cleansing",
+    "rating": 4.4,
+    "reviewCount": 6500,
+    "pros": [
+      "100% natural and biodegradable",
+      "Hypoallergenic and gentle",
+      "Excellent value with long product lifespan"
+    ],
+    "con": "Requires proper drying to prevent mold; shorter lifespan than synthetic alternatives (3-4 months).",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

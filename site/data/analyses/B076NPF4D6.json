@@ -1,0 +1,36 @@
+{
+  "asin": "B076NPF4D6",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid 2%",
+    "Panthenol (B5)",
+    "Hydration Matrix"
+  ],
+  "verdict": "An elegant hydration serum combining dual-molecular weight hyaluronic acid with panthenol for deep moisture penetration and skin barrier support. Clean formulation with excellent safety profile justifies its top rating.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076NPF4D6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$7",
+  "_research": {
+    "name": "The Ordinary Hyaluronic Acid 2% + B5",
+    "rating": 4.4,
+    "reviewCount": 7200,
+    "pros": [
+      "Dual HA molecular weights for multi-layer hydration",
+      "Panthenol strengthens skin barrier",
+      "Lightweight, non-sticky texture",
+      "High review rating (4.4★) with strong user satisfaction"
+    ],
+    "con": "Requires layering with occlusives in very dry climates for maximum benefit.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

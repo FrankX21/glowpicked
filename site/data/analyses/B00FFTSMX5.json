@@ -1,0 +1,35 @@
+{
+  "asin": "B00FFTSMX5",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Dimethicone",
+    "Glycerin",
+    "Allantoin"
+  ],
+  "verdict": "Well-rounded healing lotion with allantoin for skin soothing and repair. Balanced formula addresses dry, irritated skin without common irritants.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FFTSMX5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Gold Bond",
+  "price": "$6",
+  "_research": {
+    "name": "Gold Bond Ultimate Lotion Advanced Healing",
+    "rating": 4.4,
+    "reviewCount": 3100,
+    "pros": [
+      "Healing-focused ingredients",
+      "Good texture",
+      "Strong ratings"
+    ],
+    "con": "Lacks humectants like urea that would enhance penetration for severely dry areas.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

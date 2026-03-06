@@ -1,0 +1,35 @@
+{
+  "asin": "B08H8LJ2FK",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 25,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Hyaluronic Acid",
+    "Plant Oils"
+  ],
+  "verdict": "Caudalie's night moisturizer merges retinol with generous hydrating agents and botanical extracts, creating a nourishing formula ideal for mature or compromised barriers. Premium positioning justifies higher cost, though active concentration likely modest.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08H8LJ2FK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Caudalie",
+  "price": "$28",
+  "_research": {
+    "name": "Retinol Night Moisturizer",
+    "rating": 4.2,
+    "reviewCount": 5800,
+    "pros": [
+      "Luxury brand quality control",
+      "Intensive moisturization reduces irritation",
+      "Botanical extracts provide phytochemical benefits"
+    ],
+    "con": "Premium brand tax reduces value proposition relative to The Ordinary or Timeless.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

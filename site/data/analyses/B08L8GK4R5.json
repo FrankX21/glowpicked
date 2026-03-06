@@ -1,0 +1,35 @@
+{
+  "asin": "B08L8GK4R5",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Oat Extract",
+    "Glycerin"
+  ],
+  "verdict": "Aveeno's night cream leverages oat extract's soothing properties alongside retinol for anti-aging with enhanced comfort and barrier support. Ideal for sensitive or reactive skin seeking gentler anti-aging.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L8GK4R5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$18",
+  "_research": {
+    "name": "Retinol Renewal Night Cream",
+    "rating": 4.1,
+    "reviewCount": 5700,
+    "pros": [
+      "Oat extract soothes irritation",
+      "Gentle enough for sensitive skin",
+      "Familiar brand trusted by dermatologists"
+    ],
+    "con": "Oat extract may not provide sufficient active support for advanced anti-aging needs.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

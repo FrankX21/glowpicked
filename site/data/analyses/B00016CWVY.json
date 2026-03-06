@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWVY",
+  "glowScore": 90,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "beeswax",
+    "coconut oil",
+    "vitamin E"
+  ],
+  "verdict": "Burt's Bees delivers clean, natural ingredients with excellent moisturizing properties from beeswax and plant oils. This is a reliable choice for sensitive lips seeking minimal ingredient exposure.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWVY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Beeswax Lip Balm",
+    "rating": 4.7,
+    "reviewCount": 8500,
+    "pros": [
+      "100% natural formula",
+      "Hypoallergenic",
+      "Long-lasting moisture",
+      "Minimal ingredient list"
+    ],
+    "con": "No SPF protection limits sun defense capability.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

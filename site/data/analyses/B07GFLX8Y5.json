@@ -1,0 +1,36 @@
+{
+  "asin": "B07GFLX8Y5",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Ceramides",
+    "Peptides",
+    "Hyaluronic Acid",
+    "Vitamin E"
+  ],
+  "verdict": "Advanced formula combining barrier-repair ceramides with peptides for enhanced lip conditioning. Strong ingredient profile justifies premium positioning with visible repair benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GFLX8Y5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehls",
+  "price": "$28",
+  "_research": {
+    "name": "Advanced Lip Repair",
+    "rating": 4.5,
+    "reviewCount": 892,
+    "pros": [
+      "Ceramide-peptide complex",
+      "Hyaluronic acid for hydration",
+      "Highest rated Kiehl's option"
+    ],
+    "con": "Price premium is significant compared to basic SPF balms without proportional sun protection.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

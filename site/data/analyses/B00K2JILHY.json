@@ -1,0 +1,35 @@
+{
+  "asin": "B00K2JILHY",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Peptides",
+    "Niacinamide"
+  ],
+  "verdict": "Strong anti-aging formulation with retinol and peptides for visible results. Excellent for mature skin seeking texture and firmness improvement at budget pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00K2JILHY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$20",
+  "_research": {
+    "name": "Olay Regenerist Micro-Sculpting Cream",
+    "rating": 4.4,
+    "reviewCount": 7100,
+    "pros": [
+      "Advanced retinol technology",
+      "Peptide-rich formula",
+      "Fast-absorbing texture"
+    ],
+    "con": "May cause irritation in retinol-sensitive individuals during initial use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

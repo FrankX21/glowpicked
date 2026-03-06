@@ -1,0 +1,35 @@
+{
+  "asin": "B07GSWXPZM",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Retinol",
+    "Hyaluronic Acid",
+    "Peptides"
+  ],
+  "verdict": "Olay's retinol serum balances accessibility with efficacy through stabilized retinol and supporting hydrators in a gentle formulation suitable for sensitivity-prone users. The value positioning is strong, though retinol concentration is undisclosed and likely lower than clinical alternatives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GSWXPZM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay Regenerist",
+  "price": "$29",
+  "_research": {
+    "name": "Retinol Night Serum",
+    "rating": 4.2,
+    "reviewCount": 3600,
+    "pros": [
+      "Gentle retinol derivative",
+      "Hyaluronic acid support",
+      "Accessible luxury pricing"
+    ],
+    "con": "Undisclosed retinol percentage suggests lower concentration than premium formulations.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

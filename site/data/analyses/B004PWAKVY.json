@@ -1,0 +1,35 @@
+{
+  "asin": "B004PWAKVY",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red Light Wavelength (660nm)",
+    "Near-Infrared (880nm)",
+    "LED Light Emitting Diodes"
+  ],
+  "verdict": "LightStim for Wrinkles delivers targeted red and near-infrared light therapy specifically formulated to stimulate collagen production and reduce fine lines. The single-focus application (wrinkles) makes it more specialized than multi-purpose LED devices.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004PWAKVY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "LightStim",
+  "price": "$149",
+  "_research": {
+    "name": "LightStim for Wrinkles LED Therapy Device",
+    "rating": 4.1,
+    "reviewCount": 2891,
+    "pros": [
+      "Specialized wrinkle-targeting wavelengths",
+      "Clinically-backed light frequencies",
+      "Established brand in LED therapy"
+    ],
+    "con": "Narrower application scope compared to multi-wavelength masks limits versatility for diverse skin concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

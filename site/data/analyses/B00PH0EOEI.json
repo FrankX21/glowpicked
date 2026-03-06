@@ -1,0 +1,35 @@
+{
+  "asin": "B00PH0EOEI",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Retinol",
+    "Peptides",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "A prestige-accessible option with solid peptide and retinol content that delivers measurable results for fine lines. Performance is reliable but formulation lacks the sophistication of true luxury serums in this price bracket.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PH0EOEI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$28",
+  "_research": {
+    "name": "Olay Regenerist Micro-Sculpting Cream",
+    "rating": 4.3,
+    "reviewCount": 8500,
+    "pros": [
+      "Proven peptide complex",
+      "Lightweight texture",
+      "Broad consumer base validation"
+    ],
+    "con": "Lower concentration of active ingredients compared to premium competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

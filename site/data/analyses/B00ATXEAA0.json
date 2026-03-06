@@ -1,0 +1,35 @@
+{
+  "asin": "B00ATXEAA0",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Shea Butter",
+    "Almond Oil",
+    "Jasmine Extract"
+  ],
+  "verdict": "Jo Malone's fragrance-forward body cream balances aesthetic appeal with functional moisturizers. Shea butter and almond oil provide hydration while signature scents enhance sensory experience, typical of the brand's luxury positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ATXEAA0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Jo Malone",
+  "price": "$68",
+  "_research": {
+    "name": "Jo Malone Body Cream Assorted",
+    "rating": 4.4,
+    "reviewCount": 2847,
+    "pros": [
+      "Signature Jo Malone fragrances",
+      "Rich shea butter content",
+      "Excellent review volume"
+    ],
+    "con": "Formulation prioritizes fragrance over therapeutic ingredients; higher cost driven by scent rather than skincare innovation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

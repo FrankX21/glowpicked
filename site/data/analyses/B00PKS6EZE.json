@@ -1,0 +1,35 @@
+{
+  "asin": "B00PKS6EZE",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Panthenol",
+    "Glycerin"
+  ],
+  "verdict": "Dermatologist-developed ultra-hydrating formula with triple hydration approach. Excellent for sensitive and compromised skin barriers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PKS6EZE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$12",
+  "_research": {
+    "name": "Cetaphil Daily Advance Ultra Hydrating Lotion",
+    "rating": 4.5,
+    "reviewCount": 5100,
+    "pros": [
+      "Triple hydration system",
+      "Panthenol skin-soothing",
+      "Hypoallergenic"
+    ],
+    "con": "Higher price point within budget category despite strong ingredient profile.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

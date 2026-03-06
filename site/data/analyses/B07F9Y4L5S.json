@@ -1,0 +1,35 @@
+{
+  "asin": "B07F9Y4L5S",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Ceramides"
+  ],
+  "verdict": "Excellent formulation featuring ceramides and glycerin for hydration without stripping. Gentle enough for sensitive skin while delivering substantial moisture.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07F9Y4L5S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$9",
+  "_research": {
+    "name": "Cetaphil Rich Hydrating Body Wash",
+    "rating": 4.5,
+    "reviewCount": 4100,
+    "pros": [
+      "Ceramide-rich for barrier repair",
+      "Hypoallergenic",
+      "Creamy lather"
+    ],
+    "con": "Premium pricing compared to basic body washes limits true budget positioning.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

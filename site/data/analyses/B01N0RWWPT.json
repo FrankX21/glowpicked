@@ -1,0 +1,35 @@
+{
+  "asin": "B01N0RWWPT",
+  "glowScore": 50,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 0,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sonic oscillation",
+    "Olay CleansingActuator technology",
+    "Soft silicone bristles"
+  ],
+  "verdict": "Olay's sonic brush system delivering reliable cleansing technology at budget price. Safe for daily use with no chemical ingredients; proven brand backing increases confidence.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N0RWWPT&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$60",
+  "_research": {
+    "name": "Olay Pro X Advanced Cleansing Brush System",
+    "rating": 4.2,
+    "reviewCount": 7600,
+    "pros": [
+      "Trusted Olay brand reputation",
+      "Effective oscillation pattern",
+      "Excellent value"
+    ],
+    "con": "Standard sonic technology without differentiating advanced features.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

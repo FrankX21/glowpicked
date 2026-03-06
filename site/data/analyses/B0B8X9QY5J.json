@@ -1,0 +1,35 @@
+{
+  "asin": "B0B8X9QY5J",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "T-Sonic Pulsations (8000Hz)",
+    "Silicone Bristles",
+    "Gentle Cleansing"
+  ],
+  "verdict": "FOREO Luna 4 is a premium cleansing brush using sonic technology to remove impurities without harsh abrasion; the 6200 reviews (4.4★) reflect market-leading performance. Excellent foundation for skincare ingredient penetration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B8X9QY5J&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$199",
+  "_research": {
+    "name": "FOREO Luna 4 Facial Cleansing Brush",
+    "rating": 4.4,
+    "reviewCount": 6200,
+    "pros": [
+      "Superior gentle cleansing action",
+      "Waterproof and durable silicone",
+      "Multiple intensity settings for skin types"
+    ],
+    "con": "Premium price for a cleansing tool; doesn't actively treat skin beyond removing barriers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

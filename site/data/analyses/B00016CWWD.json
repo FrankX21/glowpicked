@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWWD",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 18,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Acrylates Copolymer",
+    "Isododecane",
+    "Dimethicone"
+  ],
+  "verdict": "A long-wear formula prioritizing adherence over nourishment. Contains film-forming polymers effective for color payoff but lacking hydrating actives for lip health.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWWD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Maybelline",
+  "price": "$8",
+  "_research": {
+    "name": "Maybelline SuperStay Matte Liquid Lipstick",
+    "rating": 4.4,
+    "reviewCount": 7600,
+    "pros": [
+      "Excellent wear time",
+      "Rich color selection",
+      "Smudge-resistant finish"
+    ],
+    "con": "Lacks moisturizing ingredients; may feel drying with extended wear.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

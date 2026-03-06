@@ -1,0 +1,35 @@
+{
+  "asin": "B08GKCYX3K",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic acid",
+    "Peptides",
+    "HydraFacial proprietary serums"
+  ],
+  "verdict": "Professional hydradermabrasion system paired with specialized serums containing hydrating and peptide-based ingredients. Combines mechanical exfoliation with potent active ingredients for clinical results.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08GKCYX3K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Dr. Dennis Gross",
+  "price": "$349",
+  "_research": {
+    "name": "Dr. Dennis Gross HydraFacial MD System",
+    "rating": 4.4,
+    "reviewCount": 5400,
+    "pros": [
+      "Combines multiple modalities: exfoliation, extraction, infusion",
+      "Professional-grade efficacy with home-use convenience",
+      "High rating validates clinical effectiveness"
+    ],
+    "con": "Expensive consumable costs for specialty serums significantly increase total cost of ownership.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

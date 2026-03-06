@@ -1,0 +1,35 @@
+{
+  "asin": "B07BBNGSXJ",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Nano-current Technology",
+    "Bioelectric Stimulation",
+    "Microcurrent Frequencies"
+  ],
+  "verdict": "Nanotech microcurrent offers innovative bioelectric stimulation for lifting and toning, though long-term efficacy data is less robust than light therapy. Excellent for immediate lifting effects but results are temporary.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BBNGSXJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ZIIP",
+  "price": "$495",
+  "_research": {
+    "name": "ZIIP Nanotech Beauty Device",
+    "rating": 4.2,
+    "reviewCount": 1567,
+    "pros": [
+      "Immediate visible lifting results",
+      "Celebrity-endorsed technology",
+      "Non-invasive with no downtime"
+    ],
+    "con": "Results fade quickly after device use; requires consistent daily application for sustained benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

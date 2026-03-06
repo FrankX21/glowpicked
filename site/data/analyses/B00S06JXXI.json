@@ -1,0 +1,35 @@
+{
+  "asin": "B00S06JXXI",
+  "glowScore": 47,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 0,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sonic vibration technology",
+    "Dual-mode operation",
+    "Soft silicone bristles"
+  ],
+  "verdict": "Non-chemical cleansing tool using sonic vibrations for gentle exfoliation. Safe for all skin types and waterproof; complements any skincare regimen without ingredient concerns.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00S06JXXI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vanity Planet",
+  "price": "$20",
+  "_research": {
+    "name": "Vanity Planet Sonicsmooth Wet and Dry Brush",
+    "rating": 4.1,
+    "reviewCount": 6500,
+    "pros": [
+      "Wet and dry versatility",
+      "Gentle sonic action",
+      "Affordable entry point for tool users"
+    ],
+    "con": "Bristles may wear down with extended use requiring periodic replacement.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

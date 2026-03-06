@@ -1,0 +1,35 @@
+{
+  "asin": "B00IXPDQ3C",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Uvinul A Plus",
+    "Tinosorb S",
+    "Glycerin"
+  ],
+  "verdict": "Shiseido combines advanced UV filters with a lightweight formulation suitable for urban pollution protection. The inclusion of glycerin provides hydration while maintaining a clean aesthetic.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IXPDQ3C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Shiseido",
+  "price": "$68",
+  "_research": {
+    "name": "Shiseido Urban Environment SPF 50+ Sunscreen",
+    "rating": 4.3,
+    "reviewCount": 892,
+    "pros": [
+      "Advanced broad-spectrum filters",
+      "Lightweight texture",
+      "Urban environment protection"
+    ],
+    "con": "Limited antioxidant boosters compared to competitors at this price point.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

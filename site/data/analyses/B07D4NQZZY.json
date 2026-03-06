@@ -1,0 +1,36 @@
+{
+  "asin": "B07D4NQZZY",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Titanium Dioxide",
+    "Zinc Oxide",
+    "Tocopherol",
+    "Thermalwater"
+  ],
+  "verdict": "Dermatologically-focused SPF 50 formula with La Roche-Posay's Thermal Spring Water and mineral sunscreen. Strong sun protection prioritized over conditioning benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D4NQZZY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Roche-Posay",
+  "price": "$15",
+  "_research": {
+    "name": "Lip Care SPF 50",
+    "rating": 4.3,
+    "reviewCount": 1289,
+    "pros": [
+      "Highest SPF (50) in category",
+      "Mineral sunscreen",
+      "Thermal water antioxidants"
+    ],
+    "con": "Heavy focus on SPF leaves formula mineral-rich but less elegant; texture may feel chalky.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

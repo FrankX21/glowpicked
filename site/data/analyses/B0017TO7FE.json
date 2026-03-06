@@ -1,0 +1,36 @@
+{
+  "asin": "B0017TO7FE",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octinoxate",
+    "Petrolatum",
+    "Lanolin"
+  ],
+  "verdict": "Clinique's Recovery Balm prioritizes sun protection with dual UV filters, making it practical for daily use. However, the formula relies heavily on occlusive agents rather than nourishing botanicals, limiting its luxury appeal.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0017TO7FE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clinique",
+  "price": "$19",
+  "_research": {
+    "name": "Lip Recovery Balm SPF 15",
+    "rating": 4.1,
+    "reviewCount": 1834,
+    "pros": [
+      "SPF 15 protection",
+      "Hypoallergenic formula",
+      "Long-wearing"
+    ],
+    "con": "Lacks premium hydrating ingredients like peptides or botanical extracts.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

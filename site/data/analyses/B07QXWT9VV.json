@@ -1,0 +1,35 @@
+{
+  "asin": "B07QXWT9VV",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Caffeine",
+    "Haloxyl",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Kiehl's eye serum combines targeted caffeine and proprietary Haloxyl technology to address under-eye concerns with dermatologist approval. The refined formula justifies luxury pricing through specialized ingredients, though at modest premium over drugstore alternatives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QXWT9VV&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$65",
+  "_research": {
+    "name": "Advanced Repair Eye Serum",
+    "rating": 4.4,
+    "reviewCount": 2100,
+    "pros": [
+      "Specialized eye-area technology",
+      "Dermatologist-tested",
+      "Reduces puffiness and fine lines"
+    ],
+    "con": "Premium pricing reflects brand heritage more than ingredient innovation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

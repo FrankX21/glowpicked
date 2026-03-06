@@ -1,0 +1,35 @@
+{
+  "asin": "B07NQNNLSL",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 23,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Squalane",
+    "Glycerin"
+  ],
+  "verdict": "An accessible retinol night treatment with stabilizing squalane base for gentle introduction to vitamin A derivatives. Undisclosed retinol concentration raises questions about actual strength.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NQNNLSL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$26",
+  "_research": {
+    "name": "Olay Regenerist Retinol24 Night Moisturizer",
+    "rating": 4.1,
+    "reviewCount": 1950,
+    "pros": [
+      "Retinol in nourishing squalane base",
+      "Night-use format allows barrier recovery",
+      "Suitable for retinol beginners"
+    ],
+    "con": "Retinol concentration is unlabeled, making it impossible to assess potency compared to competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

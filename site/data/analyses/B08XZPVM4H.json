@@ -1,0 +1,35 @@
+{
+  "asin": "B08XZPVM4H",
+  "glowScore": 56,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 17,
+    "safetyProfile": 11,
+    "valueForMoney": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octinoxate",
+    "Glycerin"
+  ],
+  "verdict": "Glossier's Invisible Shield prioritizes aesthetic appeal and skin-like finish over comprehensive sun protection. The low SPF 35 and minimalist ingredient list reflect brand philosophy but underdeliver on actual UV defense.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08XZPVM4H&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Glossier",
+  "price": "$32",
+  "_research": {
+    "name": "Glossier Invisible Shield SPF 35",
+    "rating": 4.1,
+    "reviewCount": 1198,
+    "pros": [
+      "Invisible, natural finish",
+      "Cosmetically elegant formula",
+      "Glossier brand loyalty appeal"
+    ],
+    "con": "SPF 35 combined with minimal active ingredients provides inadequate broad-spectrum protection.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

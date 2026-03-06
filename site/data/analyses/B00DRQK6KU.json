@@ -1,0 +1,35 @@
+{
+  "asin": "B00DRQK6KU",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Squalane",
+    "Peptides"
+  ],
+  "verdict": "Timeless delivers a balanced retinol serum with peptides for additional anti-aging support and squalane for barrier protection. This formulation hits the sweet spot between efficacy and safety for budget-conscious consumers seeking proven ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DRQK6KU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Timeless",
+  "price": "$12",
+  "_research": {
+    "name": "Retinol Advanced Serum",
+    "rating": 4.1,
+    "reviewCount": 7600,
+    "pros": [
+      "Peptides add complementary anti-aging mechanism",
+      "Squalane provides non-occlusive hydration",
+      "Strong review count indicates consistent performance"
+    ],
+    "con": "Peptide concentration likely subtherapeutic due to budget positioning.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

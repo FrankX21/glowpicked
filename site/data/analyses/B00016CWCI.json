@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWCI",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Iron Oxides",
+    "Mica",
+    "Dimethicone"
+  ],
+  "verdict": "Universally-flattering color with buildable coverage and light conditioning from silicones. Balanced formula for both color and basic lip care.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWCI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Maybelline",
+  "price": "$6",
+  "_research": {
+    "name": "Maybelline New York Color Sensational Made for All Lipstick",
+    "rating": 4.5,
+    "reviewCount": 8900,
+    "pros": [
+      "Works on all skin tones",
+      "Buildable coverage",
+      "Silicone conditioning"
+    ],
+    "con": "Not specifically formulated for intensive lip nourishment.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

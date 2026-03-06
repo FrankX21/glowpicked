@@ -1,0 +1,35 @@
+{
+  "asin": "B01EHSTQZY",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Vitamin C",
+    "Kakadu Plum",
+    "Ferulic Acid"
+  ],
+  "verdict": "Modern prestige serum with 15% L-ascorbic acid and kakadu plum extract delivering antioxidant and brightening benefits. Clean formulation aligns with brand philosophy but pricing is elevated relative to similar antioxidant serums on market.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01EHSTQZY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Drunk Elephant",
+  "price": "$80",
+  "_research": {
+    "name": "Drunk Elephant C-Firma Fresh Serum",
+    "rating": 4.3,
+    "reviewCount": 6500,
+    "pros": [
+      "High vitamin C concentration",
+      "Kakadu plum antioxidants",
+      "Clean beauty positioning"
+    ],
+    "con": "Premium pricing reflects brand premium more than ingredient innovation versus competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

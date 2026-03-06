@@ -1,0 +1,35 @@
+{
+  "asin": "B00GQXD16M",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Cetyl Alcohol"
+  ],
+  "verdict": "Cetaphil's body wash prioritizes cleansing without stripping, using gentle emollients and glycerin for hydration during cleanse. Formulaically sound but lacks exfoliating or active treatment ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GQXD16M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$8",
+  "_research": {
+    "name": "Cetaphil Rich Body Wash",
+    "rating": 4.4,
+    "reviewCount": 5800,
+    "pros": [
+      "Non-stripping cleanser",
+      "Gentle for sensitive skin",
+      "Fragrance options available"
+    ],
+    "con": "As a cleanser, it provides minimal treatment benefits compared to targeted body care products.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

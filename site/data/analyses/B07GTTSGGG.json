@@ -1,0 +1,35 @@
+{
+  "asin": "B07GTTSGGG",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 26,
+    "ingredientScience": 23,
+    "safetyProfile": 13,
+    "valueForMoney": 10
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "T-Sonic pulsations",
+    "silicone touchpoints",
+    "smart device technology"
+  ],
+  "verdict": "FOREO's premium device uses unique T-Sonic pulsations and silicone touchpoints instead of bristles, reducing irritation while maximizing cleansing. Record-high review count (18,500) validates market-leading performance, though premium pricing exceeds budget category.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GTTSGGG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$99",
+  "_research": {
+    "name": "FOREO Luna Mini 2 Compact Cleansing Device",
+    "rating": 4.3,
+    "reviewCount": 18500,
+    "pros": [
+      "Innovative non-bristle design",
+      "Gentlest option for sensitive skin",
+      "Smart app connectivity"
+    ],
+    "con": "Luxury pricing significantly exceeds budget tier; replacement heads add ongoing costs.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

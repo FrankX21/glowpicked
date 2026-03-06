@@ -1,0 +1,35 @@
+{
+  "asin": "B00AZNMMA6",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Colloidal Oatmeal",
+    "Glycerin",
+    "Dimethicone"
+  ],
+  "verdict": "Calming wash combining oatmeal's anti-inflammatory properties with glycerin hydration. Appropriate for sensitive and irritated skin with minimal irritant risk.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AZNMMA6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$8",
+  "_research": {
+    "name": "Eucerin Skin Calming Body Wash",
+    "rating": 4.3,
+    "reviewCount": 1950,
+    "pros": [
+      "Soothing oatmeal complex",
+      "Fragrance-free option",
+      "Gentle surfactants"
+    ],
+    "con": "Smaller review base makes validation harder compared to flagship Eucerin products.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWVC",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 28,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "cane sugar",
+    "shea butter",
+    "rose hip oil"
+  ],
+  "verdict": "Fresh Sugar delivers premium botanical ingredients with gentle exfoliation from cane sugar particles, but luxury branding commands premium pricing that exceeds budget tier expectations.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWVC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Fresh",
+  "price": "$25",
+  "_research": {
+    "name": "Fresh Sugar Lip Treatment",
+    "rating": 4.6,
+    "reviewCount": 9400,
+    "pros": [
+      "Gentle exfoliation",
+      "Premium botanicals",
+      "Luxe brand heritage",
+      "Rose hip benefits"
+    ],
+    "con": "Price point significantly exceeds budget category despite formula quality.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWEK",
+  "glowScore": 92,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Lanolin",
+    "Vitamin E"
+  ],
+  "verdict": "Gold-standard occlusive with proven safety record across decades. Simple, effective barrier-repair formula—excellent ingredient-to-price ratio.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWEK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vaseline",
+  "price": "$2",
+  "_research": {
+    "name": "Vaseline Lip Therapy Original",
+    "rating": 4.7,
+    "reviewCount": 11500,
+    "pros": [
+      "Clinical-grade occlusive",
+      "Hypoallergenic",
+      "Best value leader"
+    ],
+    "con": "Very basic formula; lacks contemporary hydrating actives like hyaluronic acid.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

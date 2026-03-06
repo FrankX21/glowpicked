@@ -1,0 +1,35 @@
+{
+  "asin": "B00DMKSH9C",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Urea",
+    "Lactic Acid",
+    "Glycerin"
+  ],
+  "verdict": "Gold Bond's bumpy-skin formula smartly uses urea and lactic acid for gentle chemical exfoliation paired with glycerin hydration, addressing keratosis pilaris and texture issues with proven actives. Excellent targeted efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DMKSH9C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Gold Bond",
+  "price": "$9",
+  "_research": {
+    "name": "Gold Bond Rough and Bumpy Skin Relief",
+    "rating": 4.6,
+    "reviewCount": 9300,
+    "pros": [
+      "Urea + lactic acid targets bumpy texture",
+      "Gentle exfoliation approach",
+      "Strong 9,300+ review count"
+    ],
+    "con": "Lactic acid may irritate very sensitive skin; requires patch testing for reactive individuals.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07Y2XV91D",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Cetyl Alcohol",
+    "Dimethicone"
+  ],
+  "verdict": "Rich night lotion with good humectant-emollient balance suitable for dry skin. Higher price point offsets ingredient quality for budget tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Y2XV91D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$14",
+  "_research": {
+    "name": "Cetaphil Rich Hydrating Night Lotion",
+    "rating": 4.5,
+    "reviewCount": 1800,
+    "pros": [
+      "Richer texture for nighttime use",
+      "Gentle formula",
+      "Long review history suggests reliability"
+    ],
+    "con": "Price-to-ingredient ratio less favorable than CeraVe alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

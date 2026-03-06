@@ -1,0 +1,35 @@
+{
+  "asin": "B01MQV8SSI",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Peptides",
+    "Caffeine"
+  ],
+  "verdict": "Baebody's eye cream uniquely combines retinol with caffeine for depuffing and peptides for fine line reduction, addressing multiple eye-area concerns simultaneously. The specialized format and highest rating suggest strong real-world performance despite undisclosed retinol strength.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MQV8SSI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Baebody",
+  "price": "$13",
+  "_research": {
+    "name": "Retinol Eye Cream",
+    "rating": 4.3,
+    "reviewCount": 8700,
+    "pros": [
+      "Caffeine addresses under-eye puffiness",
+      "Targeted eye-area formulation",
+      "Highest customer rating among all products"
+    ],
+    "con": "Eye-specific pricing limits cost-effectiveness for full-face application.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

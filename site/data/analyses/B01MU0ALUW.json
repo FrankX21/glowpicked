@@ -1,0 +1,35 @@
+{
+  "asin": "B01MU0ALUW",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Vitamin C",
+    "Glycerin"
+  ],
+  "verdict": "A solid hydration and brightening combo that delivers dual benefits for the budget-conscious. The vitamin C provides antioxidant protection while hyaluronic acid ensures moisture retention, though concentration levels are likely moderate.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MU0ALUW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Yeouth",
+  "price": "$14.99",
+  "_research": {
+    "name": "Niacinamide & Zinc Serum Concentrate",
+    "rating": 4.2,
+    "reviewCount": 5400,
+    "pros": [
+      "Dual-action hydration and brightening",
+      "Stable vitamin C formulation",
+      "Budget-friendly price point"
+    ],
+    "con": "Vitamin C stability and actual concentration not transparent on typical product listings.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

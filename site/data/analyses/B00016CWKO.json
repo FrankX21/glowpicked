@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWKO",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "glycerin",
+    "petrolatum",
+    "avobenzone SPF 15"
+  ],
+  "verdict": "Neutrogena adds crucial SPF 15 protection with avobenzone, making this ideal for daily UV defense. The formula is lightweight and dermatologist-approved but lacks premium moisturizing botanicals.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWKO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$3",
+  "_research": {
+    "name": "Neutrogena Lip Moisturizer SPF 15",
+    "rating": 4.5,
+    "reviewCount": 6200,
+    "pros": [
+      "SPF 15 protection",
+      "Dermatologist-approved",
+      "Non-comedogenic",
+      "Budget-friendly"
+    ],
+    "con": "Lower ingredient quality compared to premium competitors at similar price points.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

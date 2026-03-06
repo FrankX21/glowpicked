@@ -1,0 +1,35 @@
+{
+  "asin": "B08YRFHBSP",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octocrylene",
+    "Iron Oxides"
+  ],
+  "verdict": "Colorescience's mineral-hybrid formula with iron oxides provides additional visible light and blue light protection. The shield technology adds innovation though SPF 50 is moderate for this price tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08YRFHBSP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Colorescience",
+  "price": "$68",
+  "_research": {
+    "name": "Colorescience Sunforgettable Total Protection Face Shield SPF 50",
+    "rating": 4.3,
+    "reviewCount": 1289,
+    "pros": [
+      "Blue light protection",
+      "Hybrid mineral formula",
+      "Innovative technology"
+    ],
+    "con": "Premium pricing for moderate SPF; mineral content may leave slight cast on some skin tones.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00A6IL7C4",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 17,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Beeswax",
+    "Jojoba Oil",
+    "Menthol"
+  ],
+  "verdict": "EOS Lemon Mint adds menthol to the standard EOS formula for cooling sensation, though this may limit appeal for sensitive lips. Basic formula with less sophistication than competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A6IL7C4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "EOS",
+  "price": "$2",
+  "_research": {
+    "name": "EOS Lip Balm Lemon Mint",
+    "rating": 4.2,
+    "reviewCount": 2891,
+    "pros": [
+      "Refreshing mint sensation",
+      "Natural waxes",
+      "Budget-friendly"
+    ],
+    "con": "Menthol can irritate rather than soothe irritated lips.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

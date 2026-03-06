@@ -1,0 +1,35 @@
+{
+  "asin": "B074ZPMH7D",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Glycerin",
+    "Panthenol"
+  ],
+  "verdict": "Water-based gel with hyaluronic acid providing lightweight hydration without occlusive feel. Excellent for oily-to-combination skin seeking budget hydration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074ZPMH7D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$9",
+  "_research": {
+    "name": "Neutrogena Hydro Boost Water Gel",
+    "rating": 4.5,
+    "reviewCount": 6200,
+    "pros": [
+      "Hyaluronic acid for moisture binding",
+      "Lightweight water-gel texture",
+      "Fast absorption without residue"
+    ],
+    "con": "No ceramides or niacinamide for comprehensive barrier support.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

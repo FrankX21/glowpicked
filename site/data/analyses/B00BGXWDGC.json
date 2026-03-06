@@ -1,0 +1,35 @@
+{
+  "asin": "B00BGXWDGC",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 17,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Panthenol"
+  ],
+  "verdict": "Eucerin Advanced Cleansing Body Wash is a basic cleanser that prioritizes gentleness over ingredient sophistication. It effectively cleanses but offers minimal skincare benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BGXWDGC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$8",
+  "_research": {
+    "name": "Eucerin Advanced Cleansing Body Wash",
+    "rating": 4.3,
+    "reviewCount": 5200,
+    "pros": [
+      "Gentle sulfate formula",
+      "Panthenol for conditioning",
+      "Non-irritating"
+    ],
+    "con": "Minimal skincare actives; purely functional as a body wash.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

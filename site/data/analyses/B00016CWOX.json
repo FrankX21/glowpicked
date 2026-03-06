@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWOX",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 17,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "lanolin",
+    "vitamin E"
+  ],
+  "verdict": "Vaseline's lanolin addition provides superior emollient properties over pure petrolatum formulas, and the rosy tint adds aesthetic value. Solid mid-range performer with good safety credentials.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWOX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vaseline",
+  "price": "$2",
+  "_research": {
+    "name": "Vaseline Lip Therapy Rosy Lips",
+    "rating": 4.6,
+    "reviewCount": 8200,
+    "pros": [
+      "Lanolin enrichment",
+      "Good value",
+      "Tinted variant appeal",
+      "Fragrance-free option"
+    ],
+    "con": "Still relies primarily on petrolatum rather than modern nourishing botanicals.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

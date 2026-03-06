@@ -1,0 +1,35 @@
+{
+  "asin": "B08BTXPLF8",
+  "glowScore": 49,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 0,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel",
+    "Extraction Loops",
+    "No Active Ingredients"
+  ],
+  "verdict": "Manual extraction tools are purely mechanical and require skilled application to avoid skin damage. The stainless steel is hypoallergenic, but misuse can cause scarring and infection.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08BTXPLF8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ONLYOILY",
+  "price": "$9",
+  "_research": {
+    "name": "Stainless Steel Blackhead Remover Set",
+    "rating": 4.2,
+    "reviewCount": 5500,
+    "pros": [
+      "No chemical contact",
+      "Stainless steel durability",
+      "Precise extraction control"
+    ],
+    "con": "Requires professional technique; high risk of scarring and infection if misused.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

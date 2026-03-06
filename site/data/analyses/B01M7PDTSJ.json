@@ -1,0 +1,35 @@
+{
+  "asin": "B01M7PDTSJ",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 22,
+    "safetyProfile": 13,
+    "valueForMoney": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Peptides",
+    "Hyaluronic Acid",
+    "Silicones"
+  ],
+  "verdict": "Hybrid serum-primer with performance enhancers that blur the category. Effective for makeup wear but adds silicones that may not suit all skin types seeking pure serums.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M7PDTSJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Estée Lauder",
+  "price": "$48",
+  "_research": {
+    "name": "Double Wear Stay-in-Place Serum",
+    "rating": 4.3,
+    "reviewCount": 950,
+    "pros": [
+      "Long-wear technology",
+      "Smoothing silicones",
+      "Makeup compatibility"
+    ],
+    "con": "Silicone content reduces it to a treatment-primer hybrid rather than pure skincare.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

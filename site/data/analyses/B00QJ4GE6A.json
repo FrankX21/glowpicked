@@ -1,0 +1,35 @@
+{
+  "asin": "B00QJ4GE6A",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Niacinamide 10%",
+    "Glycerin",
+    "Squalane"
+  ],
+  "verdict": "A concentrated niacinamide booster from a respected research brand, delivering strong anti-inflammatory and sebum-regulating benefits. Clean formula maximizes active efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QJ4GE6A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Paula's Choice",
+  "price": "$28",
+  "_research": {
+    "name": "Paula's Choice 10% Niacinamide Booster",
+    "rating": 4.4,
+    "reviewCount": 2200,
+    "pros": [
+      "High niacinamide concentration (10%)",
+      "Research-backed brand with transparent formulations",
+      "Versatile for all skin types including sensitive"
+    ],
+    "con": "Premium pricing for budget-tier category limits accessibility for price-conscious consumers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

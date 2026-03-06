@@ -1,0 +1,35 @@
+{
+  "asin": "B001ECQQ1A",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 21,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Stearic Acid"
+  ],
+  "verdict": "Cetaphil's gentle cleanser prioritizes safety with minimal surfactants and added glycerin for hydration. While excellent for sensitive skin, the lack of cleansing actives limits effectiveness compared to CeraVe's hydrating cleanser.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ECQQ1A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$9",
+  "_research": {
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "rating": 4.7,
+    "reviewCount": 10892,
+    "pros": [
+      "Ultra-gentle formula ideal for barrier-compromised skin",
+      "Fragrance and sulfate-free composition",
+      "Hypoallergenic and dermatologist-recommended"
+    ],
+    "con": "Less effective cleansing performance than modern formulas; feels more like a cleansing milk than cleanser.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

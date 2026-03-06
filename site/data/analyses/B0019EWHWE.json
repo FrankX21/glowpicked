@@ -1,0 +1,35 @@
+{
+  "asin": "B0019EWHWE",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Retinol",
+    "Glycerin",
+    "Niacinamide"
+  ],
+  "verdict": "Olay delivers impressive anti-aging science with retinol and niacinamide at accessible luxury pricing. The formula demonstrates clinical efficacy supported by extensive customer validation through 8934 reviews.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0019EWHWE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$29.99",
+  "_research": {
+    "name": "Olay Regenerist Advanced Anti-Aging Micro-Sculpting Cream",
+    "rating": 4.5,
+    "reviewCount": 8934,
+    "pros": [
+      "Proven retinol for fine lines",
+      "High niacinamide concentration",
+      "Exceptional review volume validates performance"
+    ],
+    "con": "Mass-market positioning may deter luxury purists seeking exclusive heritage brands.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNJ4V8",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 32,
+    "ingredientScience": 28,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Orchid Extract",
+    "Shea Butter",
+    "Squalane"
+  ],
+  "verdict": "Guerlain's formula combines rare orchid extracts with nourishing butters and modern hydrators, delivering luxurious sensory experience with solid skincare credentials. A premium choice for indulgent body care with meaningful ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNJ4V8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Guerlain",
+  "price": "$145",
+  "_research": {
+    "name": "Guerlain Orchidée Impériale Body Cream",
+    "rating": 4.6,
+    "reviewCount": 534,
+    "pros": [
+      "Exotic orchid actives with proven antioxidant benefits",
+      "Rich emollient base with skin-conditioning oils",
+      "Elegant, non-greasy texture"
+    ],
+    "con": "Higher price point may not justify ingredient quality over comparable luxury alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

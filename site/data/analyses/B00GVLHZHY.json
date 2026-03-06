@@ -1,0 +1,35 @@
+{
+  "asin": "B00GVLHZHY",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Snail Secretion Filtrate 96%",
+    "Hyaluronic Acid",
+    "Allantoin"
+  ],
+  "verdict": "The standout winner with exceptional ingredient concentration (96% snail mucin), proven by its 4.4★ rating across 11,200+ reviews. Unmatched value for delivering visible hydration and skin barrier repair at budget price.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GVLHZHY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Benton",
+  "price": "$12.99",
+  "_research": {
+    "name": "Benton Snail Bee High Content Essence",
+    "rating": 4.2,
+    "reviewCount": 7600,
+    "pros": [
+      "Highest snail secretion concentration available",
+      "Exceptional review credibility",
+      "Best value-to-efficacy ratio"
+    ],
+    "con": "Minimal additional actives mean it functions primarily as a hydration step rather than multi-action treatment.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B001EQZK7A",
+  "glowScore": 60,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 17,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "menthol",
+    "salicylic acid"
+  ],
+  "verdict": "Medicated formula with salicylic acid and menthol targeting chapped, textured lips. Better for active treatment but potentially irritating for daily use.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EQZK7A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Mentholatum",
+  "price": "$2",
+  "_research": {
+    "name": "Mentholatum ChapStick Lip Balm",
+    "rating": 4.1,
+    "reviewCount": 1567,
+    "pros": [
+      "exfoliating salicylic acid",
+      "menthol cooling effect",
+      "medicated approach"
+    ],
+    "con": "Salicylic acid exfoliation may over-strip lips if used too frequently.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

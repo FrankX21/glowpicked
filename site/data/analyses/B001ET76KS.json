@@ -1,0 +1,35 @@
+{
+  "asin": "B001ET76KS",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "Glycerin"
+  ],
+  "verdict": "Premium budget formula with advanced ceramide complex and multi-weight hyaluronic acid. Exceptional repair and hydration for compromised barriers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ET76KS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$8",
+  "_research": {
+    "name": "Eucerin Hydrating Lotion Advanced Repair",
+    "rating": 4.5,
+    "reviewCount": 6900,
+    "pros": [
+      "Advanced ceramide blend",
+      "Multi-weight HA hydration",
+      "Clinically-tested efficacy"
+    ],
+    "con": "Richer texture may require adjustment period for those preferring lightweight formulas.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

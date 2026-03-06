@@ -1,0 +1,35 @@
+{
+  "asin": "B00006JPHC",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "camphor",
+    "menthol"
+  ],
+  "verdict": "Carmex Medicated Tube format delivers the same effective camphor-menthol medicated formula as the original with improved dispensing. Excellent value for those seeking targeted healing ingredients at budget pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00006JPHC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Carmex",
+  "price": "$2",
+  "_research": {
+    "name": "Carmex Medicated Lip Balm Tube",
+    "rating": 4.5,
+    "reviewCount": 6800,
+    "pros": [
+      "Dual-action camphor and menthol",
+      "Hygienic tube format",
+      "Strong healing profile"
+    ],
+    "con": "Cooling sensations may be too intense for sensitive lips.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

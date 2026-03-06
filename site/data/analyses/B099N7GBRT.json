@@ -1,0 +1,35 @@
+{
+  "asin": "B099N7GBRT",
+  "glowScore": 63,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 16,
+    "safetyProfile": 13,
+    "valueForMoney": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Ionic technology",
+    "FlexStyle design",
+    "Adjustable heat settings"
+  ],
+  "verdict": "The Shark FlexStyle is a multi-use hair styling system featuring ionic technology and flexible design for various styling options. Like the Dyson, this is a hair tool outside the skincare category.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099N7GBRT&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Shark",
+  "price": "$499",
+  "_research": {
+    "name": "Shark FlexStyle Air Styling System",
+    "rating": 4.3,
+    "reviewCount": 6234,
+    "pros": [
+      "Versatile styling capability",
+      "Ionic frizz reduction",
+      "Affordable luxury positioning"
+    ],
+    "con": "Miscategorized product; not applicable for skincare ingredient analysis.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

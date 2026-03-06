@@ -1,0 +1,35 @@
+{
+  "asin": "B08K8XVXZX",
+  "glowScore": 58,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 0,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel",
+    "Natural Stone",
+    "No Chemical Components"
+  ],
+  "verdict": "This dual-tool approach combines stainless steel scraping with stone massage, offering purely mechanical benefits without any chemical formulations. Excellent value for manual skincare tools with strong user satisfaction.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08K8XVXZX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "UpLift",
+  "price": "$7",
+  "_research": {
+    "name": "Gua Sha Scraping Tool - Stainless Steel",
+    "rating": 4.4,
+    "reviewCount": 9300,
+    "pros": [
+      "Two tools in one",
+      "Safe stainless steel construction",
+      "Highest rated in manual tools category"
+    ],
+    "con": "Entirely mechanical; no active skincare ingredients for targeted treatment.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

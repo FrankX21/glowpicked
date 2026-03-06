@@ -1,0 +1,35 @@
+{
+  "asin": "B00A6IL7EA",
+  "glowScore": 66,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "jojoba oil",
+    "shea butter",
+    "pomegranate extract"
+  ],
+  "verdict": "Natural oil formula with pomegranate antioxidants, jojoba and shea butter for nourishing hydration. Good ingredient diversity with antioxidant benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A6IL7EA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "EOS",
+  "price": "$2",
+  "_research": {
+    "name": "EOS Lip Balm Pomegranate Raspberry",
+    "rating": 4.1,
+    "reviewCount": 2678,
+    "pros": [
+      "pomegranate antioxidants",
+      "plant-based emollients",
+      "lightweight feel"
+    ],
+    "con": "Pomegranate extract primarily antioxidant; moisture performance relies on base oils rather than potent actives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

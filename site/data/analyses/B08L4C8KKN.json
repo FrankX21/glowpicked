@@ -1,0 +1,35 @@
+{
+  "asin": "B08L4C8KKN",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Percussive massage technology",
+    "Therabody algorithm",
+    "Stainless steel construction"
+  ],
+  "verdict": "Theraface Pro applies Therabody's proven percussive massage technology specifically for facial application, enhancing blood circulation and lymphatic drainage for reduced puffiness and improved glow. Professional-grade results backed by Therabody's clinical expertise.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L4C8KKN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Therabody",
+  "price": "$200",
+  "_research": {
+    "name": "Theraface Pro Facial Massage Device",
+    "rating": 4.4,
+    "reviewCount": 3421,
+    "pros": [
+      "Therabody's clinically-tested percussion technology",
+      "Reduces facial puffiness",
+      "Professional salon-quality results"
+    ],
+    "con": "Steeper learning curve for proper facial massage technique compared to simpler cleansing devices.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

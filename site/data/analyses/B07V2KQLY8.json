@@ -1,0 +1,35 @@
+{
+  "asin": "B07V2KQLY8",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 17,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Thermal Cooling Technology",
+    "Stainless Steel",
+    "Temperature Retention"
+  ],
+  "verdict": "Cryotherapy-based tool reducing puffiness through cold temperature and gentle rolling action. Safe, non-invasive with good review rating (5600).",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07V2KQLY8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "SEGMINISMART",
+  "price": "$12",
+  "_research": {
+    "name": "Facial Ice Roller for Puffy Eyes",
+    "rating": 4.1,
+    "reviewCount": 5600,
+    "pros": [
+      "Reduces morning puffiness",
+      "Improves circulation",
+      "Soothing cold sensation"
+    ],
+    "con": "Requires freezing between uses and cooling effect diminishes over time.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

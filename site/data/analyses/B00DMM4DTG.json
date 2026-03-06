@@ -1,0 +1,35 @@
+{
+  "asin": "B00DMM4DTG",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Talc",
+    "Dimethicone",
+    "Stearic Acid"
+  ],
+  "verdict": "This friction-reducing stick uses silicones and talc for targeted anti-chafing performance rather than traditional moisturization. It excels functionally but lacks hydrating ingredients, making it a specialized product rather than a general moisturizer.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DMM4DTG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Gold Bond",
+  "price": "$6",
+  "_research": {
+    "name": "Gold Bond Friction Defense Stick",
+    "rating": 4.7,
+    "reviewCount": 7100,
+    "pros": [
+      "Specialized anti-chafing formula",
+      "Long-lasting protection",
+      "Portable stick format for on-the-go use"
+    ],
+    "con": "Talc content raises concerns for some consumers; minimal hydrating or nourishing ingredients.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

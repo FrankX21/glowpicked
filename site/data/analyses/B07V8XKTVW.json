@@ -1,0 +1,35 @@
+{
+  "asin": "B07V8XKTVW",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "660nm Red Light",
+    "LED Technology",
+    "Multi-wavelength spectrum"
+  ],
+  "verdict": "Professional-grade red light therapy mask with clinically-backed wavelengths for collagen stimulation and skin rejuvenation. Delivers consistent results across extensive user base with excellent safety profile.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07V8XKTVW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Nurlighting",
+  "price": "$159",
+  "_research": {
+    "name": "Nurlighting LED Mask Red Light Therapy",
+    "rating": 4.2,
+    "reviewCount": 6100,
+    "pros": [
+      "Optimal red light wavelength (660nm) for skin penetration",
+      "Large treatment area covers full face",
+      "High review count validates efficacy"
+    ],
+    "con": "Limited to single light spectrum compared to multi-wavelength competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

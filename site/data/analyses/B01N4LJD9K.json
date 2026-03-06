@@ -1,0 +1,35 @@
+{
+  "asin": "B01N4LJD9K",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 21,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Rose Extract",
+    "Precious Oils",
+    "Peptides"
+  ],
+  "verdict": "Sisley's rare, small-batch serum emphasizes precious botanicals and oils with peptides for luxury anti-aging. Exceptional ingredient quality and purity but extremely limited availability and smallest review base suggests niche appeal.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N4LJD9K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Sisley",
+  "price": "$240.00",
+  "_research": {
+    "name": "Creme Precieuse Serum",
+    "rating": 4.2,
+    "reviewCount": 650,
+    "pros": [
+      "Rare precious oil blend",
+      "High botanical purity",
+      "Peptide support"
+    ],
+    "con": "Limited availability and smallest review pool make efficacy harder to validate.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

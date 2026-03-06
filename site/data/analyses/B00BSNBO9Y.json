@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNBO9Y",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 27,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Vitamin C (L-Ascorbic Acid)",
+    "Ferulic Acid",
+    "Vitamin E"
+  ],
+  "verdict": "Timeless delivers a potent 20% L-ascorbic acid formulation with synergistic ferulic and vitamin E, matching medical-grade efficacy at a fraction of luxury costs. The pH stability and antioxidant trio are exceptional, though packaging may compromise shelf-life.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNBO9Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Timeless Skin Care",
+  "price": "$13",
+  "_research": {
+    "name": "Vitamin C Serum 20% + Ferulic Acid",
+    "rating": 4.2,
+    "reviewCount": 5200,
+    "pros": [
+      "Medical-grade L-ascorbic acid concentration",
+      "Complete antioxidant synergy",
+      "Outstanding value"
+    ],
+    "con": "Standard packaging may allow oxidation, reducing formula stability over time.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

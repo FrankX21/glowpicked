@@ -1,0 +1,35 @@
+{
+  "asin": "B08BWMV7GG",
+  "glowScore": 66,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 21,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Microcurrent Technology",
+    "Smart Facial Recognition",
+    "App-Connected Guidance"
+  ],
+  "verdict": "Theraface Pro combines Therabody's microcurrent expertise with app-guided facial mapping to ensure proper electrode placement and consistent results. Integration of smart technology enhances user experience and efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08BWMV7GG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Therabody",
+  "price": "$299",
+  "_research": {
+    "name": "Theraface Pro Microcurrent Facial Device",
+    "rating": 4.1,
+    "reviewCount": 1834,
+    "pros": [
+      "App integration for guided treatments",
+      "From trusted Therabody brand",
+      "Intelligent sensor technology"
+    ],
+    "con": "App dependency may frustrate users preferring device autonomy without smartphone connectivity.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

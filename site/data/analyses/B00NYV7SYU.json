@@ -1,0 +1,35 @@
+{
+  "asin": "B00NYV7SYU",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "glycerin",
+    "niacinamide",
+    "zinc oxide SPF 50"
+  ],
+  "verdict": "High-quality facial moisturizer with niacinamide and strong SPF protection for budget tier. Ideal for daily facial use combining hydration and sun defense.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NYV7SYU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$14",
+  "_research": {
+    "name": "Cetaphil Daily Facial Moisturizer SPF 50",
+    "rating": 4.5,
+    "reviewCount": 7500,
+    "pros": [
+      "niacinamide reduces inflammation and pores",
+      "zinc oxide provides mineral SPF 50",
+      "fragrance-free suitable for sensitive skin"
+    ],
+    "con": "Facial-specific formula is pricier per ounce than body lotions.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

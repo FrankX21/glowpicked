@@ -1,0 +1,35 @@
+{
+  "asin": "B000BQOWMK",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Plant-Derived Oils",
+    "Vitamin E",
+    "Squalane"
+  ],
+  "verdict": "L'Occitane's signature almond oil formulation delivers luxurious sensory experience with stable plant oils and vitamin E antioxidants. The composition is well-balanced for body application, though the formula represents refined tradition rather than innovation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BQOWMK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "L'Occitane",
+  "price": "$44",
+  "_research": {
+    "name": "L'Occitane Almond Supple Skin Oil",
+    "rating": 4.4,
+    "reviewCount": 3421,
+    "pros": [
+      "Signature almond oil provenance",
+      "Antioxidant vitamin E included",
+      "Excellent review consistency"
+    ],
+    "con": "Premium pricing reflects brand heritage more than ingredient sophistication; formulation is relatively straightforward.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

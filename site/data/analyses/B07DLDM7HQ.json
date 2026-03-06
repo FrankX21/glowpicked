@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLDM7HQ",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Vitamin C 30%",
+    "Squalane",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "High-concentration Vitamin C with optimal stabilization in squalane base for brightening and protection. Excellent value for potent antioxidant serum despite The Ordinary's clinical positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLDM7HQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$12.00",
+  "_research": {
+    "name": "Squalane + Vitamin C 30% Advanced Brightening Serum",
+    "rating": 4.1,
+    "reviewCount": 6800,
+    "pros": [
+      "High 30% Vitamin C concentration",
+      "Stable squalane formulation",
+      "Antioxidant + antiwrinkle dual action"
+    ],
+    "con": "High concentration increases irritation risk for sensitive skin; requires gradual introduction.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

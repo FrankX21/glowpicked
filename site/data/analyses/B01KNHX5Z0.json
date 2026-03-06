@@ -1,0 +1,35 @@
+{
+  "asin": "B01KNHX5Z0",
+  "glowScore": 55,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 0,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless steel needles",
+    "0.5mm needle length",
+    "Derma roller mechanism"
+  ],
+  "verdict": "Physical microneedling device with no active ingredients; creates micro-channels to boost collagen production. Excellent budget option with strong ratings, though requires proper sanitization.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KNHX5Z0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Geek Chef",
+  "price": "$12",
+  "_research": {
+    "name": "Geek Chef Derma Roller Microneedling 0.5mm",
+    "rating": 4.4,
+    "reviewCount": 7100,
+    "pros": [
+      "Affordable microneedling solution",
+      "Proven 0.5mm depth for home use",
+      "High customer satisfaction"
+    ],
+    "con": "Requires meticulous cleaning between uses to prevent bacterial contamination.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

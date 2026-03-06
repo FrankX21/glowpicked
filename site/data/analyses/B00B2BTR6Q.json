@@ -1,0 +1,35 @@
+{
+  "asin": "B00B2BTR6Q",
+  "glowScore": 91,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "panthenol",
+    "glycerin",
+    "cetyl alcohol"
+  ],
+  "verdict": "Best-in-class gentle cleanser with panthenol and glycerin maintaining skin barrier during cleansing. Highest lotion rating (4.7★) with 11500 reviews proves reliability.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B2BTR6Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$11",
+  "_research": {
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "rating": 4.7,
+    "reviewCount": 11500,
+    "pros": [
+      "panthenol soothes while cleansing",
+      "maintains natural skin pH",
+      "fragrance-free and hypoallergenic"
+    ],
+    "con": "Cleanser product requires additional moisturizer purchase increasing total routine cost.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

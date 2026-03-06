@@ -1,0 +1,35 @@
+{
+  "asin": "B001AKQL8W",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Cyclopentasiloxane",
+    "Squalane",
+    "Argan Oil"
+  ],
+  "verdict": "Despite category miscategorization as body care, this hair oil spray excels with silicone polymers for shine without weight. Outstanding review volume (3421) confirms efficacy, though it's not suitable for body application.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001AKQL8W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Bumble and bumble",
+  "price": "$32",
+  "_research": {
+    "name": "Bumble and bumble Hairdresser's Invisible Oil Spray",
+    "rating": 4.6,
+    "reviewCount": 3421,
+    "pros": [
+      "Exceptional shine without greasiness",
+      "Lightweight silicone technology",
+      "Massive customer validation"
+    ],
+    "con": "Product category mismatch—this is a hair treatment, not body care.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00SRRN7XE",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Yeast Extract",
+    "Ceramides",
+    "Retinol Complex"
+  ],
+  "verdict": "Elizabeth Arden combines fermented yeast with retinol and ceramides for comprehensive cellular support and barrier strengthening. Well-rounded formula though retinol concentration is unclear, potentially limiting efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SRRN7XE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Elizabeth Arden",
+  "price": "$95.00",
+  "_research": {
+    "name": "Cellular Power Infusion Serum",
+    "rating": 4.2,
+    "reviewCount": 3100,
+    "pros": [
+      "Fermented yeast technology",
+      "Ceramide barrier support",
+      "Multi-action approach"
+    ],
+    "con": "Retinol concentration not specified, suggesting potentially low active levels.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

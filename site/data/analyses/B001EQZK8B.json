@@ -1,0 +1,35 @@
+{
+  "asin": "B001EQZK8B",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 19,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "glycerin",
+    "panthenol"
+  ],
+  "verdict": "Balanced formula with petrolatum, glycerin humectant, and panthenol for moisture retention and barrier repair. Solid German formulation with good ingredient synergy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001EQZK8B&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Nivea",
+  "price": "$2",
+  "_research": {
+    "name": "Nivea Lip Care Essential Care",
+    "rating": 4.2,
+    "reviewCount": 2345,
+    "pros": [
+      "glycerin humectant addition",
+      "panthenol repair benefits",
+      "reliable brand"
+    ],
+    "con": "Less distinctive ingredient profile compared to natural competitor brands at similar price.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

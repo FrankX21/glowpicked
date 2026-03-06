@@ -1,0 +1,27 @@
+{
+  "asin": "B01MTLYJNQ",
+  "glowScore": 20,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 0,
+    "safetyProfile": 0,
+    "valueForMoney": 0
+  },
+  "tier": "budget",
+  "topIngredients": [],
+  "verdict": "",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MTLYJNQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$5.90",
+  "_research": {
+    "name": "The Ordinary Resveratrol 3% + Ferulic Acid 3%",
+    "rating": 4.1,
+    "reviewCount": 5400,
+    "pros": [],
+    "con": "",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

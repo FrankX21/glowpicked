@@ -1,0 +1,35 @@
+{
+  "asin": "B01MFEBAGZ",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Alpha Arbutin 2%",
+    "Hyaluronic Acid",
+    "Sodium Hyaluronate"
+  ],
+  "verdict": "A brightening serum with clinically proven alpha arbutin at optimal 2% concentration for hyperpigmentation and uneven tone. Layerable formula with exceptional tolerability.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MFEBAGZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$5.90",
+  "_research": {
+    "name": "The Ordinary Alpha Arbutin 2% + HA",
+    "rating": 4.1,
+    "reviewCount": 7100,
+    "pros": [
+      "Alpha arbutin at evidence-based 2% concentration",
+      "Dual hyaluronic acid system for hydration",
+      "Non-irritating depigmenting alternative to hydroquinone"
+    ],
+    "con": "Results are gradual (8+ weeks) and modest compared to prescription-strength brighteners.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

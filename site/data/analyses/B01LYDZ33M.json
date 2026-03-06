@@ -1,0 +1,35 @@
+{
+  "asin": "B01LYDZ33M",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "T-Sonic pulsation",
+    "Medical-grade silicone",
+    "Gentle oscillation technology"
+  ],
+  "verdict": "FOREO LUNA 2 delivers reliable sonic cleansing with T-Sonic technology across multiple facial zones using medical-grade silicone. While excellent for foundational cleansing, the original LUNA lacks the advanced smart features present in newer LUNA 3.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LYDZ33M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$149",
+  "_research": {
+    "name": "FOREO LUNA 2 Sonic Facial Cleansing Brush",
+    "rating": 4.3,
+    "reviewCount": 4156,
+    "pros": [
+      "Proven sonic cleansing",
+      "Hygienic silicone construction",
+      "Affordable FOREO option"
+    ],
+    "con": "Lacks AI skin detection and smart app connectivity available in LUNA 3 successor model.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

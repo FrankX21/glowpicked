@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWQ0",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "beeswax",
+    "pomegranate extract",
+    "vitamin E"
+  ],
+  "verdict": "Burt's Bees Pomegranate combines beeswax with antioxidant pomegranate extract and vitamin E for added skincare benefits. Strong natural formulation with functional botanicals justifies slightly higher cost within budget tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWQ0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Pomegranate Lip Balm",
+    "rating": 4.6,
+    "reviewCount": 4200,
+    "pros": [
+      "Pomegranate adds antioxidant power",
+      "Vitamin E protects against oxidative stress",
+      "Natural beeswax barrier"
+    ],
+    "con": "Pomegranate extract may irritate extremely sensitive lips.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

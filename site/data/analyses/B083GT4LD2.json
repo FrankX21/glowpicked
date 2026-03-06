@@ -1,0 +1,35 @@
+{
+  "asin": "B083GT4LD2",
+  "glowScore": 61,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 21,
+    "safetyProfile": 11,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Glycerin",
+    "Ethanol"
+  ],
+  "verdict": "LANBENA's serum prioritizes retinol delivery with alcohol base but lacks supporting ingredients, making it potentially irritating and drying. Better suited for experienced users with robust skin barriers on a strict budget.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B083GT4LD2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "LANBENA",
+  "price": "$11",
+  "_research": {
+    "name": "Retinol Anti-Wrinkle Serum",
+    "rating": 4,
+    "reviewCount": 6100,
+    "pros": [
+      "High alcohol content aids penetration",
+      "Budget-friendly pricing",
+      "Minimal filler ingredients"
+    ],
+    "con": "Alcohol-heavy formula risks irritation and dehydration in most skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B01GTQZORE",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octocrylene",
+    "Vitamin C"
+  ],
+  "verdict": "Drunk Elephant combines antioxidant serum benefits with practical SPF 30 protection in a lightweight serum format. The stabilized vitamin C adds anti-aging value but SPF is moderate.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GTQZORE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Drunk Elephant",
+  "price": "$65",
+  "_research": {
+    "name": "Drunk Elephant C-Firma Fresh Antioxidant Serum SPF 30",
+    "rating": 4.1,
+    "reviewCount": 2108,
+    "pros": [
+      "Antioxidant-rich formula",
+      "Lightweight serum texture",
+      "Clean Beauty certified"
+    ],
+    "con": "SPF 30 insufficient for extended sun exposure without reapplication.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

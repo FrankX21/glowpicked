@@ -1,0 +1,35 @@
+{
+  "asin": "B00DGXM5R2",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Niacinamide",
+    "Peptides"
+  ],
+  "verdict": "Olay combines retinol with niacinamide and peptides for multi-action anti-aging benefits, delivering clinical results at an accessible price point. Suitable for mature skin seeking comprehensive treatment.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DGXM5R2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$17",
+  "_research": {
+    "name": "Advanced Retinol Night Moisturizer",
+    "rating": 4.2,
+    "reviewCount": 6200,
+    "pros": [
+      "Peptides enhance skin firmness",
+      "Niacinamide reduces irritation",
+      "Established brand reliability"
+    ],
+    "con": "Proprietary blend obscures exact retinol concentration and supporting ingredient ratios.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

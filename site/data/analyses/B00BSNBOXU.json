@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNBOXU",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Aloe Vera",
+    "Glycerin"
+  ],
+  "verdict": "Lightweight gel-cream hybrid with robust hydration from hyaluronic acid and soothing aloe. Excellent for combination and dehydrated skin.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNBOXU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$7",
+  "_research": {
+    "name": "Neutrogena Hydro Boost Hydrating Gel-Cream",
+    "rating": 4.5,
+    "reviewCount": 5600,
+    "pros": [
+      "Gel-cream texture popular",
+      "Hyaluronic acid hydration",
+      "Fast absorption"
+    ],
+    "con": "May require additional occlusive step for very dry skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B0869JGDQN",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Platinum-Coated Stainless Steel",
+    "Micro-Vibrations",
+    "3D Wave Motion"
+  ],
+  "verdict": "This roller relies on mechanical micro-vibrations and platinum coating rather than active ingredients; efficacy comes from microcirculation stimulation. The luxury positioning is justified by craftsmanship rather than ingredient innovation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0869JGDQN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ReFa",
+  "price": "$130",
+  "_research": {
+    "name": "ReFa S Carat Face Roller",
+    "rating": 4.4,
+    "reviewCount": 1523,
+    "pros": [
+      "Improves facial blood flow",
+      "Reduces puffiness effectively",
+      "Durable Japanese engineering"
+    ],
+    "con": "No active skincare compounds—purely mechanical device with limited clinical evidence for wrinkle reduction.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

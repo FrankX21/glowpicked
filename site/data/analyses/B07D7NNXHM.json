@@ -1,0 +1,35 @@
+{
+  "asin": "B07D7NNXHM",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Rose Hip Seed Oil",
+    "Wakame Extract",
+    "Sea Buckthorn"
+  ],
+  "verdict": "Osea's botanical blend emphasizes marine and plant-based actives with rich omega oils and polysaccharides for nourishment. While ingredient quality is premium, the multi-oil base suits mature or dry skin but lacks the targeted efficacy of synthetic actives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D7NNXHM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Osea",
+  "price": "$48",
+  "_research": {
+    "name": "Rose Hip Seed Plus Wakame",
+    "rating": 4.1,
+    "reviewCount": 1600,
+    "pros": [
+      "High-quality botanical oils",
+      "Sustainable marine ingredients",
+      "Antioxidant-rich formula"
+    ],
+    "con": "Botanical complexity provides general nourishment rather than targeted clinical benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07Z8P3R9L",
+  "glowScore": 93,
+  "breakdown": {
+    "reviewsSatisfaction": 35,
+    "ingredientScience": 29,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Ectoin",
+    "Phytoene"
+  ],
+  "verdict": "Augustinus Bader The Rich Body Cream represents pinnacle luxury formulation with clinically-developed actives, biotech-derived ingredients, and optimal texture engineering. The highest rating reflects genuine skincare advancement validated by dermatological principles.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Z8P3R9L&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Augustinus Bader",
+  "price": "$85",
+  "_research": {
+    "name": "Augustinus Bader The Rich Body Cream",
+    "rating": 4.7,
+    "reviewCount": 892,
+    "pros": [
+      "Biotech-derived premium actives",
+      "Highest overall customer rating",
+      "Clinically substantiated ingredient efficacy"
+    ],
+    "con": "Exceptional pricing reflects luxury positioning and research investment alongside ingredient costs.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

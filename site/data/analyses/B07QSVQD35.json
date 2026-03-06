@@ -1,0 +1,35 @@
+{
+  "asin": "B07QSVQD35",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 29,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Peptides",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Inkey List's advanced serum combines retinol with multiple peptides and hyaluronic acid for comprehensive wrinkle reduction and firmness enhancement. Premium formulation at budget pricing with excellent user satisfaction.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QSVQD35&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Inkey List",
+  "price": "$20",
+  "_research": {
+    "name": "Retinol Serum Advanced",
+    "rating": 4.3,
+    "reviewCount": 7800,
+    "pros": [
+      "Multiple peptide types boost collagen",
+      "Advanced hydrating complex",
+      "Highest ingredient quality score"
+    ],
+    "con": "Complex formula with more potential irritants; requires careful introduction for sensitive skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "retinol-anti-aging"
+  }
+}

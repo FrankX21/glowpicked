@@ -1,0 +1,35 @@
+{
+  "asin": "B01N3OWBVL",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 19,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "sonic vibration",
+    "oscillating head",
+    "silicone bristles"
+  ],
+  "verdict": "PMD's sonic device offers effective cleansing through oscillation with silicone bristles that are gentler than nylon alternatives. Good review volume (5800) indicates reliable mid-range performance in crowded cleansing market.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3OWBVL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "PMD",
+  "price": "$99",
+  "_research": {
+    "name": "PMD Clean Pro Sonic Facial Cleansing Device",
+    "rating": 4.1,
+    "reviewCount": 5800,
+    "pros": [
+      "Gentle silicone bristles reduce irritation",
+      "Effective cleansing action",
+      "Good brand reputation"
+    ],
+    "con": "Less differentiated than competitors; no unique ingredient or technology advantage.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

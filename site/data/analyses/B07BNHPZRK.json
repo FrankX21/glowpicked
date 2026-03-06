@@ -1,0 +1,35 @@
+{
+  "asin": "B07BNHPZRK",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 21,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Glycerin",
+    "Niacinamide"
+  ],
+  "verdict": "Dry-skin-specific lotion with solid ceramide base and supporting niacinamide. Formula is effective but overlaps significantly with standard CeraVe offerings without clear differentiation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BNHPZRK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$9",
+  "_research": {
+    "name": "Cetaphil Pro Dry Skin Body Lotion",
+    "rating": 4.5,
+    "reviewCount": 3200,
+    "pros": [
+      "Ceramide complex for xerosis",
+      "Niacinamide inclusion",
+      "Dermatologist tested"
+    ],
+    "con": "Limited innovation compared to other CeraVe formulations; incremental rather than unique.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

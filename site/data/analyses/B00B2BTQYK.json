@@ -1,0 +1,35 @@
+{
+  "asin": "B00B2BTQYK",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "glycerin",
+    "petrolatum",
+    "dimethicone"
+  ],
+  "verdict": "Solid budget moisturizer with glycerin and occlusives for hydration maintenance. Safe and effective but uses silicone derivatives that may feel heavy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B2BTQYK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Lubriderm",
+  "price": "$8",
+  "_research": {
+    "name": "Lubriderm Advanced Moisture Lotion",
+    "rating": 4.4,
+    "reviewCount": 6700,
+    "pros": [
+      "glycerin provides humectant hydration",
+      "petrolatum creates protective barrier",
+      "affordable and widely available"
+    ],
+    "con": "Dimethicone-heavy formula may leave a silicone residue on skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

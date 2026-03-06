@@ -1,0 +1,35 @@
+{
+  "asin": "B076NG8GK6",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol 0.5%",
+    "Squalane",
+    "Tocopherol"
+  ],
+  "verdict": "A moderate-strength retinol formulation in a stable squalane vehicle, effective for those past the retinol introduction phase. Higher concentration demands careful introduction to minimize irritation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076NG8GK6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$8",
+  "_research": {
+    "name": "The Ordinary Retinol 0.5% in Squalane",
+    "rating": 4.2,
+    "reviewCount": 7400,
+    "pros": [
+      "0.5% concentration offers noticeable anti-aging benefits",
+      "Squalane provides occlusion and skin-identical lipid support",
+      "Tocopherol prevents oxidation"
+    ],
+    "con": "Stronger concentration increases irritation risk and requires careful titration for sensitive skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B003OEJ1PU",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Retinol",
+    "Caffeine",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Retinol-based serum with caffeine support targeting expression lines and skin firmness. Formulation is gentle enough for most skin types but retinol concentration is moderate, making it better suited for beginners than advanced users.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003OEJ1PU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$65",
+  "_research": {
+    "name": "Kiehl's Powerful-Strength Line-Reducing Concentrate",
+    "rating": 4.3,
+    "reviewCount": 6800,
+    "pros": [
+      "Gentle retinol strength",
+      "Added caffeine benefits",
+      "Good for sensitive skin"
+    ],
+    "con": "Retinol concentration is relatively low compared to specialized retinol serums.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

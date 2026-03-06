@@ -1,0 +1,36 @@
+{
+  "asin": "B0792QKL3V",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Vitamin C 23%",
+    "Hyaluronic Acid Spheres 2%",
+    "Silica"
+  ],
+  "verdict": "An aggressive vitamin C suspension delivering high-dose antioxidant power with encapsulated HA for brightening and anti-aging. Potent but requires careful introduction due to irritation potential.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0792QKL3V&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$9",
+  "_research": {
+    "name": "The Ordinary Vitamin C Suspension 23% + HA Spheres 2%",
+    "rating": 4.1,
+    "reviewCount": 6300,
+    "pros": [
+      "High-concentration stabilized vitamin C (23%)",
+      "Encapsulated HA minimizes irritation",
+      "Strong antioxidant and brightening potential",
+      "Proven effectiveness across 6,300 reviews"
+    ],
+    "con": "Suspension texture is gritty and can cause irritation; requires patch testing and gradual integration.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

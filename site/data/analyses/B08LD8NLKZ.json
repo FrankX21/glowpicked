@@ -1,0 +1,36 @@
+{
+  "asin": "B08LD8NLKZ",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Ceramides",
+    "Dimethicone"
+  ],
+  "verdict": "A night-specific hydrating serum with ceramides and dimethicone for occlusive barrier support during sleep. Moderate formula quality with limited active concentration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LD8NLKZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$12",
+  "_research": {
+    "name": "Cetaphil Rich Hydrating Night Serum",
+    "rating": 4.1,
+    "reviewCount": 1800,
+    "pros": [
+      "Night-targeted formula reduces transepidermal water loss",
+      "Ceramide + HA combination",
+      "Gentle enough for sensitive skin",
+      "Good for compromised barriers"
+    ],
+    "con": "Dimethicone-heavy formula may feel occlusive for oily skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

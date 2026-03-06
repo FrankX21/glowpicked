@@ -1,0 +1,35 @@
+{
+  "asin": "B01MTUCAHY",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Bifidus Ferment Lysate",
+    "Hyaluronic Acid",
+    "Water-Soluble Vitamins"
+  ],
+  "verdict": "The highest-rated product features a probiotic ferment technology that supports skin's natural microbiome and repair processes. Excellent safety profile with clinically substantiated anti-aging claims backed by extensive consumer validation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MTUCAHY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Lancôme",
+  "price": "$76.00",
+  "_research": {
+    "name": "Advanced Genifique Youth Activating",
+    "rating": 4.4,
+    "reviewCount": 6800,
+    "pros": [
+      "Probiotic ferment technology",
+      "Most reviews and highest rating",
+      "Proven youth-activating results"
+    ],
+    "con": "Complex fermentation process may cause sensitivities in acne-prone skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

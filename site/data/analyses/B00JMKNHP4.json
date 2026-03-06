@@ -1,0 +1,35 @@
+{
+  "asin": "B00JMKNHP4",
+  "glowScore": 90,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 29,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Vitamin C",
+    "Vitamin E",
+    "Ferulic Acid"
+  ],
+  "verdict": "Gold-standard antioxidant serum with stabilized L-ascorbic acid, vitamin E, and ferulic acid delivering clinically-proven photoprotection and brightening. High price justified by ingredient potency and consistent clinical validation across thousands of reviews.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JMKNHP4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "SkinCeuticals",
+  "price": "$169",
+  "_research": {
+    "name": "SkinCeuticals C E Ferulic Serum",
+    "rating": 4.6,
+    "reviewCount": 9200,
+    "pros": [
+      "Gold standard antioxidant",
+      "Clinically proven efficacy",
+      "Stabilized vitamin C"
+    ],
+    "con": "Very expensive; requires careful storage to maintain potency; slight oxidation over time is normal.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

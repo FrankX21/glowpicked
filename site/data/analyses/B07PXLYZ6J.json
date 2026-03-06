@@ -1,0 +1,35 @@
+{
+  "asin": "B07PXLYZ6J",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Glycerin",
+    "Niacinamide"
+  ],
+  "verdict": "CeraVe's textured skin formula smartly combines three skin-barrier powerhouses: ceramides for repair, glycerin for hydration, and niacinamide for inflammation support. One of the most science-backed budget options here.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07PXLYZ6J&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$17",
+  "_research": {
+    "name": "CeraVe Rough and Bumpy Skin Lotion",
+    "rating": 4.4,
+    "reviewCount": 7800,
+    "pros": [
+      "Triple barrier support (ceramides + niacinamide + glycerin)",
+      "Dermatologist-developed",
+      "Excellent for rough/bumpy texture"
+    ],
+    "con": "Slightly thicker texture may not suit all preferences despite efficacy.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

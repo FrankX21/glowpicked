@@ -1,0 +1,35 @@
+{
+  "asin": "B000GF9ZMY",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Glycerin",
+    "Zinc Oxide"
+  ],
+  "verdict": "Gold Bond's lotion is a straightforward moisturizer with zinc oxide providing mild skin-soothing benefits. The formulation is functional but lacks the advanced ingredients that justify premium pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000GF9ZMY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Gold Bond",
+  "price": "$7",
+  "_research": {
+    "name": "Gold Bond Ultimate Healing Lotion",
+    "rating": 4.4,
+    "reviewCount": 12156,
+    "pros": [
+      "Budget-friendly with good review volume",
+      "Zinc oxide aids skin barrier healing",
+      "Suitable for sensitive skin"
+    ],
+    "con": "Outdated formula composition with minimal active ingredients beyond basic humectants.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

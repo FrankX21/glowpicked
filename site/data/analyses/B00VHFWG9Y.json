@@ -1,0 +1,36 @@
+{
+  "asin": "B00VHFWG9Y",
+  "glowScore": 79,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Sea Buckthorn Oil",
+    "Shea Butter",
+    "Vitamin E",
+    "Squalane"
+  ],
+  "verdict": "Luxurious botanical-forward formula combining antioxidant-rich oils with broad-spectrum SPF 30. Fresh's approach emphasizes natural nourishment without compromising sun protection.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VHFWG9Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Fresh",
+  "price": "$35",
+  "_research": {
+    "name": "Nourishing Lip Balm SPF 30",
+    "rating": 4.4,
+    "reviewCount": 1847,
+    "pros": [
+      "Sea buckthorn antioxidants",
+      "Natural oil blend",
+      "Strong SPF protection"
+    ],
+    "con": "Botanical fragrance may trigger sensitivity; premium pricing reflects brand name over proprietary actives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

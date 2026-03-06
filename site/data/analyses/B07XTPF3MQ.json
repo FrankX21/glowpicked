@@ -1,0 +1,35 @@
+{
+  "asin": "B07XTPF3MQ",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 19,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel Roller",
+    "Contoured Design",
+    "Muscle Release Technology"
+  ],
+  "verdict": "Specialized roller addressing neck and jawline with ergonomic contouring for lymphatic drainage. Excellent safety and high review satisfaction (7900 reviews).",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XTPF3MQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aileer",
+  "price": "$12",
+  "_research": {
+    "name": "Neck and Jawline Massager Roller",
+    "rating": 4.3,
+    "reviewCount": 7900,
+    "pros": [
+      "Targets problem areas directly",
+      "Reduces neck tension",
+      "Improves jawline definition"
+    ],
+    "con": "Requires consistent use over weeks to see contouring results.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

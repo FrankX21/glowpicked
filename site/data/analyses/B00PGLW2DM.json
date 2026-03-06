@@ -1,0 +1,35 @@
+{
+  "asin": "B00PGLW2DM",
+  "glowScore": 43,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 0,
+    "safetyProfile": 11,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel",
+    "Microneedle Technology",
+    "0.5mm Needle Depth"
+  ],
+  "verdict": "Dermarollers are mechanical tools without skincare ingredients; the 0.5mm depth is suitable for beginners but requires proper sterilization and technique to avoid injury. This tool demands careful handling and may cause temporary irritation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PGLW2DM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "ZGTS",
+  "price": "$12",
+  "_research": {
+    "name": "Dermaroller Microneedle Roller 0.5mm",
+    "rating": 4.1,
+    "reviewCount": 5200,
+    "pros": [
+      "Beginner-friendly needle size",
+      "Affordable entry to microneedling",
+      "Stainless steel is durable"
+    ],
+    "con": "Significant infection risk if not properly sterilized; requires professional knowledge for safe use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

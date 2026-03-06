@@ -1,0 +1,35 @@
+{
+  "asin": "B07NMRW44L",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 21,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Stainless Steel Construction",
+    "Spoon-Shaped Design",
+    "Mechanical Extraction"
+  ],
+  "verdict": "Precision-designed blackhead remover with excellent mechanical efficacy and strong consumer satisfaction (9200 reviews, 4.4★). Safe when used with proper technique.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NMRW44L&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Heal Essence",
+  "price": "$9",
+  "_research": {
+    "name": "Spoon-Shaped Blackhead Remover Tool",
+    "rating": 4.4,
+    "reviewCount": 9200,
+    "pros": [
+      "Precision extraction capability",
+      "Highly rated by users",
+      "Durable stainless steel"
+    ],
+    "con": "Requires careful technique to avoid skin trauma and scarring.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

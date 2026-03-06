@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWQ6",
+  "glowScore": 91,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "beeswax",
+    "honey",
+    "vitamin E"
+  ],
+  "verdict": "Burt's Bees Honey is among the highest-rated products featuring beeswax and honey's natural humectant and healing properties. Exceptional ingredient synergy and clean formulation make this a top budget recommendation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWQ6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Honey Lip Balm",
+    "rating": 4.7,
+    "reviewCount": 3900,
+    "pros": [
+      "Honey is natural humectant and healer",
+      "Beeswax provides protection",
+      "Vitamin E boosts antioxidants"
+    ],
+    "con": "Limited review sample size (fewer user data points than alternatives).",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B0036IU5YO",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Cetyl Alcohol",
+    "Petrolatum"
+  ],
+  "verdict": "Balanced daily moisturizer with glycerin humectant and occlusive protection. Gentle Cetaphil formulation works across skin types with solid ingredient synergy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0036IU5YO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$10",
+  "_research": {
+    "name": "Cetaphil Daily Facial Moisturizer",
+    "rating": 4.5,
+    "reviewCount": 5800,
+    "pros": [
+      "Well-balanced hydration-occlusion ratio",
+      "Hypoallergenic and fragrance-free",
+      "Affordable with proven track record"
+    ],
+    "con": "Lacks advanced ingredients like ceramides or niacinamide at this price.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

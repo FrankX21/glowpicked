@@ -1,0 +1,35 @@
+{
+  "asin": "B00LMUY3GW",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 19,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "lanolin",
+    "camphor"
+  ],
+  "verdict": "Chapstick Original is a classic medicated balm with camphor and menthol for sensation, though ingredient quality is basic. Best for those seeking familiar, reliable lip care rather than advanced formulation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMUY3GW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Chapstick",
+  "price": "$2",
+  "_research": {
+    "name": "Chapstick Original Lip Balm",
+    "rating": 4.3,
+    "reviewCount": 5600,
+    "pros": [
+      "Iconic trusted brand",
+      "Camphor provides active soothing",
+      "Portable stick format"
+    ],
+    "con": "Higher synthetic content and fragrance load; outdated formula compared to modern alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

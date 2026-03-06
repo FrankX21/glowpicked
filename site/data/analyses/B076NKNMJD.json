@@ -1,0 +1,35 @@
+{
+  "asin": "B076NKNMJD",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Squalane 100%",
+    "Emollients"
+  ],
+  "verdict": "A pure plant-derived squalane occlusive with exceptional biocompatibility and exceptional ratings (4.3★, 9,200 reviews). Ultimate budget oil for all skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076NKNMJD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$8",
+  "_research": {
+    "name": "The Ordinary Squalane",
+    "rating": 4.3,
+    "reviewCount": 9200,
+    "pros": [
+      "Plant-derived squalane mimics skin lipids perfectly",
+      "Non-comedogenic and hypoallergenic",
+      "Highest review volume (9,200)",
+      "Excellent value as occlusive layer"
+    ],
+    "con": "Oil-only formula; must be layered over hydrating serums to prevent dehydration.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

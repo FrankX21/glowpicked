@@ -1,0 +1,35 @@
+{
+  "asin": "B0092QRSGA",
+  "glowScore": 95,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 29,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides (1, 3, 6-II)",
+    "Hyaluronic Acid",
+    "Glycerin"
+  ],
+  "verdict": "CeraVe's hydrating cleanser is arguably the best budget facial cleanser available, combining effective cleansing with barrier-protective ceramides and hyaluronic acid. This represents exceptional value in the cleansing category.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0092QRSGA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$10",
+  "_research": {
+    "name": "CeraVe Hydrating Facial Cleanser",
+    "rating": 4.7,
+    "reviewCount": 13567,
+    "pros": [
+      "Ceramide complex protects barrier during cleansing",
+      "Hyaluronic acid prevents post-cleanse tightness",
+      "Non-foaming yet effectively removes makeup and impurities"
+    ],
+    "con": "May require double-cleansing for stubborn makeup or sunscreen.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

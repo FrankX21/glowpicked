@@ -1,0 +1,35 @@
+{
+  "asin": "B00PEE5X3O",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 15
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Glycerin",
+    "Water"
+  ],
+  "verdict": "Accessible hydration serum delivering solid performance through dual hyaluronic acid system at budget price point. While not luxury tier, it represents exceptional value and proves expensive formulations are not always necessary for functional benefit.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PEE5X3O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$12",
+  "_research": {
+    "name": "Neutrogena Hydro Boost Hydrating Serum",
+    "rating": 4.1,
+    "reviewCount": 6200,
+    "pros": [
+      "Exceptional value",
+      "Lightweight hydration",
+      "Clean ingredient list"
+    ],
+    "con": "Below luxury tier; minimal anti-aging actives; basic formulation.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B001B5ZCGI",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Ginseng Extract",
+    "Caffeine",
+    "Ginger Root Extract"
+  ],
+  "verdict": "Origins GinZing combines energizing botanicals with solid moisturizing bases, offering a functional approach to body care. The caffeine and ginseng provide mild stimulating benefits, though the formula relies heavily on glycerin for hydration rather than premium emollients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001B5ZCGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Origins",
+  "price": "$38",
+  "_research": {
+    "name": "Origins GinZing Body Lotion",
+    "rating": 4.2,
+    "reviewCount": 891,
+    "pros": [
+      "Energizing botanical blend",
+      "Good for dull, tired-looking skin",
+      "Affordable luxury price point"
+    ],
+    "con": "Caffeine content may be irritating for sensitive skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

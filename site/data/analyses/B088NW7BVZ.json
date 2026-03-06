@@ -1,0 +1,35 @@
+{
+  "asin": "B088NW7BVZ",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 29,
+    "ingredientScience": 29,
+    "safetyProfile": 15,
+    "valueForMoney": 8
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Plant Extracts",
+    "Peptides",
+    "Essential Oils"
+  ],
+  "verdict": "Sisley's flagship with sophisticated botanical complex and rare plant extracts creating synergistic anti-aging effects. Excellent formulation but reflective of luxury heritage brand positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B088NW7BVZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Sisley",
+  "price": "$210",
+  "_research": {
+    "name": "Le Serum Supremum",
+    "rating": 4.5,
+    "reviewCount": 580,
+    "pros": [
+      "Rare botanical ingredients",
+      "Sophisticated multi-action approach",
+      "Highest reviewed product"
+    ],
+    "con": "Premium price ($350+) is driven primarily by brand prestige rather than efficacy advantage.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

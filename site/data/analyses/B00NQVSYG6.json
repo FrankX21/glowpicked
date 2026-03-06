@@ -1,0 +1,35 @@
+{
+  "asin": "B00NQVSYG6",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Jojoba Oil",
+    "Camellia Oil",
+    "Vitamin E"
+  ],
+  "verdict": "This dry oil spray delivers lightweight, fast-absorbing oils suitable for body hydration without greasy residue. However, the formula relies heavily on silicones and fragrance, which may limit appeal for minimalist skincare seekers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NQVSYG6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$8",
+  "_research": {
+    "name": "Aveeno Pure Renewal Dry Body Oil Spray",
+    "rating": 4.4,
+    "reviewCount": 2500,
+    "pros": [
+      "Non-greasy spray application with quick absorption",
+      "Blend of nourishing plant oils including jojoba",
+      "Pleasant fragrance appeals to mass market"
+    ],
+    "con": "High silicone content and synthetic fragrance reduce suitability for sensitive or naturalist-focused consumers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

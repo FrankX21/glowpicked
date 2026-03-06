@@ -1,0 +1,35 @@
+{
+  "asin": "B08CHLKYKZ",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 25,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Placenta Extract",
+    "Collagen Peptides",
+    "Ceramides"
+  ],
+  "verdict": "This serum combines bio-placental proteins with collagen for intensive anti-aging, though the placenta source raises ethical considerations for some consumers. Potent formula delivers visible firmness but at premium pricing for conventional actives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08CHLKYKZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Shiseido",
+  "price": "$120.00",
+  "_research": {
+    "name": "Bio-Placenta Serum Anti-Aging",
+    "rating": 4.3,
+    "reviewCount": 1800,
+    "pros": [
+      "Collagen peptide complex",
+      "Visible firming results",
+      "Ceramide support"
+    ],
+    "con": "Placenta sourcing raises sustainability and ethical concerns for conscious consumers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B0793B7B3F",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Retinol 2.5%",
+    "Hyaluronic Acid",
+    "Squalane"
+  ],
+  "verdict": "Powerhouse retinoid serum at accessible price with optimal 2.5% concentration for efficacy without excessive irritation. Exceptional value with clinical results backed by massive user base.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0793B7B3F&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$9.99",
+  "_research": {
+    "name": "Retinol 2.5% Advanced Resurfacing Serum",
+    "rating": 4.3,
+    "reviewCount": 8500,
+    "pros": [
+      "Optimal retinol concentration",
+      "Extensive 8500+ review validation",
+      "Unbeatable price-to-performance"
+    ],
+    "con": "Retinol can cause irritation and requires careful introduction; not for retinoid novices.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

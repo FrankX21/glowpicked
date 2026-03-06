@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWSX",
+  "glowScore": 90,
+  "breakdown": {
+    "reviewsSatisfaction": 36,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "organic shea butter",
+    "vitamin E",
+    "SPF 25"
+  ],
+  "verdict": "Jack Black combines robust SPF 25 protection with premium organic botanicals and highest review count—this is the best value for sun protection and nourishment in the budget tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWSX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Jack Black",
+  "price": "$5",
+  "_research": {
+    "name": "Jack Black Intense Therapy Lip Balm SPF 25",
+    "rating": 4.7,
+    "reviewCount": 11200,
+    "pros": [
+      "SPF 25 protection",
+      "Organic ingredients",
+      "Most reviewed product",
+      "Premium formula"
+    ],
+    "con": "Slightly higher price point than basic alternatives limits true budget accessibility.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

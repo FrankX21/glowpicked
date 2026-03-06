@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLDGHZF",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 21,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Matrixyl Synthe'6",
+    "Hyaluronic Acid",
+    "Squalane"
+  ],
+  "verdict": "Peptide-based alternative to retinoids using advanced Matrixyl technology for collagen stimulation. Strong value proposition with gentler profile than retinoids.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLDGHZF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$6.70",
+  "_research": {
+    "name": "Matrixyl Synthe'6 Serum",
+    "rating": 4.2,
+    "reviewCount": 5200,
+    "pros": [
+      "Alternative to retinoids",
+      "Clinically-studied peptide",
+      "Gentle on sensitive skin"
+    ],
+    "con": "Results develop slower than retinoids; better for maintenance than intensive treatment.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

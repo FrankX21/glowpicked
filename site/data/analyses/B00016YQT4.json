@@ -1,0 +1,35 @@
+{
+  "asin": "B00016YQT4",
+  "glowScore": 77,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 21,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Petrolatum",
+    "Dimethicone"
+  ],
+  "verdict": "Gold Bond's Healing Lotion combines occlusive and humectant ingredients for dry skin repair. It's a reliable budget option but lacks the ceramide innovation found in premium alternatives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016YQT4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Gold Bond",
+  "price": "$10",
+  "_research": {
+    "name": "Gold Bond Ultimate Healing Lotion",
+    "rating": 4.4,
+    "reviewCount": 7100,
+    "pros": [
+      "Petrolatum for occlusive barrier",
+      "Glycerin for hydration",
+      "Affordable and effective"
+    ],
+    "con": "Petrolatum-heavy formula may feel greasy on some skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

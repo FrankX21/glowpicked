@@ -1,0 +1,35 @@
+{
+  "asin": "B003Z1DI52",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "glycerin",
+    "colloidal oatmeal",
+    "glycerin"
+  ],
+  "verdict": "Nourishing body-specific lotion with soothing colloidal oatmeal for dry skin. Good ingredient profile though lower review count suggests less market penetration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003Z1DI52&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$8",
+  "_research": {
+    "name": "Aveeno Body Lotion Positively Nourishing",
+    "rating": 4.5,
+    "reviewCount": 5600,
+    "pros": [
+      "colloidal oatmeal soothes irritation",
+      "specifically formulated for body",
+      "aveeno's natural ingredient heritage"
+    ],
+    "con": "Smaller review base (5600) provides less consumer validation than competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

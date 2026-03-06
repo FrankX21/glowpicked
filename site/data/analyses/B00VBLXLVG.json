@@ -1,0 +1,35 @@
+{
+  "asin": "B00VBLXLVG",
+  "glowScore": 46,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 4,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ionic vibration technology",
+    "Silicone brush head",
+    "Water-resistant coating"
+  ],
+  "verdict": "Technology-driven tool using vibration and ionic charge rather than ingredients to unclog pores. Moderate review count and rating suggest effective but not exceptional results compared to manual extraction.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VBLXLVG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Panasonic Facial",
+  "price": "$28",
+  "_research": {
+    "name": "Vibrating Pore Cleansing Device",
+    "rating": 4,
+    "reviewCount": 6700,
+    "pros": [
+      "Ionic technology reduces bacteria",
+      "Waterproof for shower use",
+      "Gentle vibration minimizes skin trauma"
+    ],
+    "con": "Battery-dependent device; vibration effectiveness diminishes over time with extended use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

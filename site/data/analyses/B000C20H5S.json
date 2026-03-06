@@ -1,0 +1,35 @@
+{
+  "asin": "B000C20H5S",
+  "glowScore": 89,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Miracle Broth",
+    "Hyaluronic Acid",
+    "Ceramides"
+  ],
+  "verdict": "Crème de la Mer Body Moisturizing Cream delivers la Mer's signature fermentation technology in a richer cream format with reinforced barrier-support ingredients. The massive customer base validates this as the definitive luxury body moisturizer despite its heritage formula approach.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000C20H5S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Mer",
+  "price": "$95",
+  "_research": {
+    "name": "Crème de la Mer Body Moisturizing Cream",
+    "rating": 4.6,
+    "reviewCount": 3156,
+    "pros": [
+      "Proprietary Miracle Broth",
+      "Ceramide-enriched barrier support",
+      "Highest absolute customer volume and reliability"
+    ],
+    "con": "Formulation hasn't substantially evolved from original 1940s composition, raising questions about ingredient innovation versus heritage premium pricing.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

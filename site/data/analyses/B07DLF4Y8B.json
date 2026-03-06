@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLF4Y8B",
+  "glowScore": 72,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 26,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Snail Secretion Filtrate",
+    "LHA (Lipo-Hydroxy Acid)",
+    "Hydration Blend"
+  ],
+  "verdict": "This hybrid exfoliant combines fermented snail filtrate's humectant and repair properties with LHA's gentler exfoliation profile. The dual-action approach makes it suitable for sensitive skin seeking both clarification and hydration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLF4Y8B&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$6.40",
+  "_research": {
+    "name": "Advanced Snail Ferment Filtrate + LHA",
+    "rating": 4.1,
+    "reviewCount": 6100,
+    "pros": [
+      "Gentle chemical exfoliation with LHA",
+      "Fermented ingredients enhance bioavailability",
+      "Hydrating despite exfoliating action"
+    ],
+    "con": "LHA is milder than BHA/AHA, limiting effectiveness for severe congestion.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

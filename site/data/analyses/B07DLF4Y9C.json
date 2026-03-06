@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLF4Y9C",
+  "glowScore": 67,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Copper Peptide (GHK-Cu)",
+    "Peptides",
+    "Hydration Complex"
+  ],
+  "verdict": "GHK-Cu is a clinically-studied copper peptide known for collagen synthesis and skin renewal. This serum delivers the active at an effective concentration with minimal supporting ingredients, making it straightforward but somewhat basic in formulation depth.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLF4Y9C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$7.80",
+  "_research": {
+    "name": "Copper Peptide GHK-Cu Serum",
+    "rating": 4,
+    "reviewCount": 5900,
+    "pros": [
+      "Proven collagen-boosting peptide",
+      "Minimal irritants for sensitive skin",
+      "Affordable luxury positioning"
+    ],
+    "con": "Limited supporting ingredients reduce multi-benefit potential compared to comprehensive serums.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

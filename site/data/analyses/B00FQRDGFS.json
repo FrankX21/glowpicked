@@ -1,0 +1,35 @@
+{
+  "asin": "B00FQRDGFS",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 21,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Allantoin"
+  ],
+  "verdict": "Cetaphil provides accessible clinical efficacy with allantoin and proven humectants. The formula justifies luxury positioning through extensive validation (4287 reviews) rather than exotic ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQRDGFS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Cetaphil",
+  "price": "$18.99",
+  "_research": {
+    "name": "Cetaphil Pro Dry Skin Body Moisturizer",
+    "rating": 4.5,
+    "reviewCount": 4287,
+    "pros": [
+      "Exceptional review count and consistency",
+      "Dermatologist-recommended",
+      "Excellent value within luxury tier"
+    ],
+    "con": "Functional ingredient profile lacks prestige botanical or fragrance elements.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

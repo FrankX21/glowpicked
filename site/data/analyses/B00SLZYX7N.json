@@ -1,0 +1,35 @@
+{
+  "asin": "B00SLZYX7N",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Lanolin",
+    "Aloe Vera"
+  ],
+  "verdict": "Vaseline Lip Therapy Rosy Lips is the standout in this lineup with a balanced blend of occlusive petrolatum, nourishing lanolin, and soothing aloe vera. It delivers reliable moisture without irritating actives, backed by strong review volume.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SLZYX7N&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vaseline",
+  "price": "$2",
+  "_research": {
+    "name": "Vaseline Lip Therapy Rosy Lips",
+    "rating": 4.3,
+    "reviewCount": 2891,
+    "pros": [
+      "Best ingredient balance for daily use",
+      "Highest review count and rating (4.3★)",
+      "Gentle, non-medicated formula"
+    ],
+    "con": "Rose pigment is cosmetic only and doesn't provide additional skincare benefits.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

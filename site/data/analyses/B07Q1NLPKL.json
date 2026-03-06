@@ -1,0 +1,35 @@
+{
+  "asin": "B07Q1NLPKL",
+  "glowScore": 57,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 6,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Microfiber textile",
+    "Silicone base",
+    "Non-slip coating"
+  ],
+  "verdict": "This tool contains no active skincare ingredients, functioning purely as a cleaning surface. Material safety is high with antimicrobial microfiber that reduces bacterial growth.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Q1NLPKL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Sunland",
+  "price": "$8",
+  "_research": {
+    "name": "Soft Makeup Brush Cleaner Mat",
+    "rating": 4.2,
+    "reviewCount": 7400,
+    "pros": [
+      "Extends brush lifespan and prevents bacterial buildup",
+      "Gentle on delicate fibers",
+      "Budget-friendly with high durability"
+    ],
+    "con": "Only cleans brushes; doesn't address product formulation or skincare efficacy.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

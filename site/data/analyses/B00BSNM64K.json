@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNM64K",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 32,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Magnolia Extract",
+    "Tuberose Fragrance",
+    "Jojoba Oil"
+  ],
+  "verdict": "Diptyque prioritizes olfactory luxury with floral magnolia and tuberose notes alongside jojoba oil nourishment. The prestige positioning emphasizes fragrance artistry and sensory experience.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNM64K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Diptyque",
+  "price": "$75",
+  "_research": {
+    "name": "Diptyque Do Son Body Lotion",
+    "rating": 4.6,
+    "reviewCount": 892,
+    "pros": [
+      "Luxury fragrance composition",
+      "Jojoba oil hydration",
+      "Premium brand heritage"
+    ],
+    "con": "Fragrance-forward approach may overshadow skincare actives for results-focused consumers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

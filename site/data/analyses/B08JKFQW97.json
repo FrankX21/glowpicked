@@ -1,0 +1,35 @@
+{
+  "asin": "B08JKFQW97",
+  "glowScore": 54,
+  "breakdown": {
+    "reviewsSatisfaction": 19,
+    "ingredientScience": 15,
+    "safetyProfile": 12,
+    "valueForMoney": 8
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Ionic Drying Technology",
+    "Tourmaline Coating",
+    "Speed-Drying Motor"
+  ],
+  "verdict": "Olaplex Hair Perfecting Ionic Power Dryer is a hair care tool, not a facial skincare device, making it incongruent with this skincare analysis. The ionic technology supports hair health but offers no facial skin benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08JKFQW97&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olaplex",
+  "price": "$499",
+  "_research": {
+    "name": "Olaplex Hair Perfecting Ionic Power Dryer",
+    "rating": 4.1,
+    "reviewCount": 1678,
+    "pros": [
+      "Ionic technology reduces frizz",
+      "Fast drying capability",
+      "Professional salon-grade"
+    ],
+    "con": "Completely irrelevant to facial skincare analysis and should not appear on skincare tools comparison list.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

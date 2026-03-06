@@ -1,0 +1,35 @@
+{
+  "asin": "B0759CDVZP",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Thermal Spring Water",
+    "Glycerin",
+    "Niacinamide"
+  ],
+  "verdict": "Lightweight moisturizer featuring La Roche-Posay's prebiotic thermal water with niacinamide. Effective for sensitive skin but less substantive than ceramide-based formulas.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0759CDVZP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Roche-Posay",
+  "price": "$16",
+  "_research": {
+    "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
+    "rating": 4.5,
+    "reviewCount": 3400,
+    "pros": [
+      "Prebiotic thermal water supports skin microbiome",
+      "Niacinamide reduces inflammation and sensitivity",
+      "Clean formula suitable for reactive skin"
+    ],
+    "con": "Thermal water is mostly water filler; core hydrating ingredients are less concentration-dense than competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

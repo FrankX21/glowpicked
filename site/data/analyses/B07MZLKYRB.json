@@ -1,0 +1,35 @@
+{
+  "asin": "B07MZLKYRB",
+  "glowScore": 62,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 18,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Blue Light LED (415nm)",
+    "T-Sonic Pulsation",
+    "Silicone Contact Surface"
+  ],
+  "verdict": "The FOREO ESPADA delivers clinical-grade blue light (415nm) specifically calibrated for acne-causing bacteria eradication without ingredients. This is a specialized tool best suited for active breakout management rather than comprehensive anti-aging.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07MZLKYRB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$179",
+  "_research": {
+    "name": "FOREO ESPADA Acne-Clearing Blue Light Device",
+    "rating": 4.1,
+    "reviewCount": 5800,
+    "pros": [
+      "Blue light wavelength (415nm) precisely targets P. acnes bacteria",
+      "Hypoallergenic silicone design safe for sensitive skin",
+      "Waterproof and durable construction"
+    ],
+    "con": "Limited efficacy for non-acne concerns and fewer overall applications compared to multi-purpose devices, reducing versatility.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

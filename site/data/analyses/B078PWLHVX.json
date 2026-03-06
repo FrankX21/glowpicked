@@ -1,0 +1,35 @@
+{
+  "asin": "B078PWLHVX",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Niacinamide",
+    "Peptides"
+  ],
+  "verdict": "A fragrance-free, hydrating moisturizer with niacinamide for tone evening, though active concentrations are undisclosed. Solid base formula without standout actives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078PWLHVX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$19",
+  "_research": {
+    "name": "Olay Luminous Tone Perfecting Moisturizer",
+    "rating": 4.2,
+    "reviewCount": 1600,
+    "pros": [
+      "Lightweight for combination skin",
+      "Niacinamide supports skin barrier",
+      "Affordable drugstore option"
+    ],
+    "con": "No disclosed active concentrations and minimal innovative ingredients for a treatment product.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

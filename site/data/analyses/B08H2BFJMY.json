@@ -1,0 +1,35 @@
+{
+  "asin": "B08H2BFJMY",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Retinol",
+    "Peptides",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Specialized night formula combining retinol with peptides for overnight renewal. Strong anti-aging benefits but requires evening-only application.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08H2BFJMY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Olay",
+  "price": "$22",
+  "_research": {
+    "name": "Olay Regenerist Retinol24 Night Moisturizer",
+    "rating": 4.3,
+    "reviewCount": 5200,
+    "pros": [
+      "Night-time retinol focus",
+      "Peptide support",
+      "Intensive formula"
+    ],
+    "con": "Retinol requires gradual introduction and is not suitable for daytime use.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

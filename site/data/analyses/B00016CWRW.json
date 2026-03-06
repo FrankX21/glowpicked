@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWRW",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 22,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "plant-derived collagen",
+    "vegan waxes",
+    "organic oils"
+  ],
+  "verdict": "Pacifica appeals to conscious consumers with vegan collagen and organic positioning, but plant-derived collagen offers limited penetrative benefits compared to animal-derived sources.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWRW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Pacifica",
+  "price": "$8",
+  "_research": {
+    "name": "Pacifica Vegan Collagen Lip Gloss",
+    "rating": 4.3,
+    "reviewCount": 5700,
+    "pros": [
+      "Vegan formula",
+      "Organic certified",
+      "Cruelty-free",
+      "Clean ingredient list"
+    ],
+    "con": "Plant collagen provides mainly film-forming texture rather than true moisturizing action.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

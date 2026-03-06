@@ -1,0 +1,35 @@
+{
+  "asin": "B00OJVVNVS",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Snail Secretion Filtrate",
+    "Hyaluronic Acid",
+    "Panthenol"
+  ],
+  "verdict": "COSRX's snail mucin formula delivers exceptional hydration and skin-barrier repair with highest customer rating (4.4★) and massive validation (9200 reviews). This K-beauty leader sets gold standard for essence-serums with proven regenerative ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OJVVNVS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "COSRX",
+  "price": "$16.99",
+  "_research": {
+    "name": "Advanced Snail Repair Essence",
+    "rating": 4.4,
+    "reviewCount": 9200,
+    "pros": [
+      "Highest rating in category",
+      "Snail secretion proven for barrier repair",
+      "Exceptional review volume validates efficacy"
+    ],
+    "con": "Snail secretion may concern ethical/vegan consumers; protein content unsuitable for certain allergies.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

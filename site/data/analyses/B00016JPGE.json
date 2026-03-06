@@ -1,0 +1,35 @@
+{
+  "asin": "B00016JPGE",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Petrolatum",
+    "Lanolin",
+    "Camphor"
+  ],
+  "verdict": "Carmex Strawberry utilizes petrolatum and lanolin for barrier support with camphor for cooling sensation. Formula is competent though camphor may dry lips with overuse.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016JPGE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Carmex",
+  "price": "$2",
+  "_research": {
+    "name": "Carmex Lip Balm Strawberry",
+    "rating": 4.3,
+    "reviewCount": 2847,
+    "pros": [
+      "Lanolin richness",
+      "Pleasant strawberry flavor",
+      "Affordable price"
+    ],
+    "con": "Camphor can cause drying and irritation on sensitive lips.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

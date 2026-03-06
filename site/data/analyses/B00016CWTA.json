@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWTA",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 23,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "lanolin",
+    "beeswax",
+    "vitamin E"
+  ],
+  "verdict": "Lanolips focuses on lanolin's proven occlusive and emollient properties with supporting beeswax—ideal for severe dryness, though lanolin may trigger reactions in sensitive individuals.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWTA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Lanolips",
+  "price": "$2",
+  "_research": {
+    "name": "Lanolips Plus Lanolin Lip Balm",
+    "rating": 4.5,
+    "reviewCount": 5500,
+    "pros": [
+      "Lanolin-rich formula",
+      "Natural ingredients",
+      "Intensive moisture",
+      "Fragrance-free"
+    ],
+    "con": "Lanolin can cause contact dermatitis in approximately 5-10% of users.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

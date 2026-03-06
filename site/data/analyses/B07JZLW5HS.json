@@ -1,0 +1,35 @@
+{
+  "asin": "B07JZLW5HS",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 20,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Snail Secretion Filtrate",
+    "Hyaluronic Acid",
+    "Trehalose"
+  ],
+  "verdict": "An excellent budget snail mucin option with strong humectant properties and barrier-supporting ingredients. The high review count reflects reliable efficacy for hydration and soothing compromised skin.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JZLW5HS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Pacifica",
+  "price": "$24.99",
+  "_research": {
+    "name": "Pacifica Sea Foam Complete Face Serum",
+    "rating": 4.1,
+    "reviewCount": 5200,
+    "pros": [
+      "High snail secretion concentration",
+      "Soothing and hydrating",
+      "Proven popularity with high review volume"
+    ],
+    "con": "Gel-cream texture may be too heavy for oily or acne-prone skin types.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "asin": "B08W3L6P7Y",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "T-Sonic pulsation",
+    "Smart AI skin detection",
+    "Medical-grade silicone"
+  ],
+  "verdict": "FOREO LUNA 3 combines T-Sonic pulsation with intelligent skin analysis, adapting cleansing intensity in real-time via app connectivity. This device delivers exceptional versatility with multiple facial zones and proven dermatologist-endorsed results.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08W3L6P7Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$199",
+  "_research": {
+    "name": "FOREO LUNA 3 Smart Facial Cleansing Device",
+    "rating": 4.4,
+    "reviewCount": 5234,
+    "pros": [
+      "AI-powered personalized cleansing",
+      "8 facial zones coverage",
+      "Hygienic silicone design",
+      "Excellent user satisfaction"
+    ],
+    "con": "Premium price point reflects the advanced technology and smart features included.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

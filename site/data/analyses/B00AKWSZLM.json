@@ -1,0 +1,35 @@
+{
+  "asin": "B00AKWSZLM",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Petrolatum",
+    "Dimethicone"
+  ],
+  "verdict": "Eucerin's repair cream prioritizes barrier function with a glycerin-petrolatum base that seals in moisture effectively. The formula is reliable but relatively basic compared to ceramide-enriched alternatives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AKWSZLM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$10",
+  "_research": {
+    "name": "Eucerin Advanced Repair Cream",
+    "rating": 4.5,
+    "reviewCount": 6847,
+    "pros": [
+      "Petrolatum provides superior occlusion for dry skin",
+      "Fragrance-free and hypoallergenic",
+      "Clinically tested for eczema-prone skin"
+    ],
+    "con": "Missing advanced hydrating ingredients like hyaluronic acid or peptides.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

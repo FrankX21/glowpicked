@@ -1,0 +1,36 @@
+{
+  "asin": "B00365H1ES",
+  "glowScore": 70,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Ceramides",
+    "Hyaluronic Acid",
+    "Niacinamide"
+  ],
+  "verdict": "A moisturizing lotion rather than serum with ceramide-HA base and SPF 15 for daytime use. Mis-categorized in serum comparison; functions as barrier-supportive AM moisturizer.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00365H1ES&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$15",
+  "_research": {
+    "name": "CeraVe Facial Moisturizing Lotion AM",
+    "rating": 4.3,
+    "reviewCount": 4500,
+    "pros": [
+      "Ceramide + HA + niacinamide triple support",
+      "SPF 15 integrated",
+      "Lightweight formula",
+      "Dermatologist-recommended"
+    ],
+    "con": "SPF 15 insufficient for adequate daily protection; AM lotion rather than actives-driven serum.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

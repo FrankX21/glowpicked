@@ -1,0 +1,35 @@
+{
+  "asin": "B0014DKSUY",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Beeswax",
+    "Shea Butter",
+    "Vitamin E"
+  ],
+  "verdict": "Burt's Bees Ultra Moisturizing includes premium shea butter alongside beeswax for enhanced nourishment and repair. Natural ingredient profile delivers superior hydration justifying slightly higher positioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0014DKSUY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Ultra Moisturizing Lip Balm",
+    "rating": 4.4,
+    "reviewCount": 3156,
+    "pros": [
+      "Shea butter richness",
+      "100% natural",
+      "Deep moisturization"
+    ],
+    "con": "Shea butter aroma not suitable for those preferring neutral scents.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

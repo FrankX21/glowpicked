@@ -1,0 +1,35 @@
+{
+  "asin": "B01LXQY5WJ",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Glycerin",
+    "Dimethicone",
+    "Petrolatum"
+  ],
+  "verdict": "A solid masculine formula with effective humectants and occlusives. The ingredient profile is straightforward and functional rather than innovative, suitable for daily men's grooming without unnecessary complexity.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXQY5WJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$42",
+  "_research": {
+    "name": "Kiehl's Ultimate Man Body Lotion",
+    "rating": 4.4,
+    "reviewCount": 956,
+    "pros": [
+      "Excellent glycerin content for hydration",
+      "Lightweight for male skin preferences",
+      "Dermatologist-tested formula"
+    ],
+    "con": "Lacks cutting-edge actives or botanical extracts compared to premium tier competitors.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

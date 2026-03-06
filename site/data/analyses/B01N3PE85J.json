@@ -1,0 +1,35 @@
+{
+  "asin": "B01N3PE85J",
+  "glowScore": 64,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 18,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Sonic oscillation technology",
+    "Silicone brush head",
+    "Battery-powered motor"
+  ],
+  "verdict": "Clarisonic Mia Smart uses 300 micro-vibrations per second to remove impurities and dead skin cells from facial pores. While effective for cleansing, it lacks the advanced smart features and broader skin benefits compared to newer competing technologies.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3PE85J&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clarisonic",
+  "price": "$199",
+  "_research": {
+    "name": "Clarisonic Mia Smart Sonic Facial Cleansing Brush",
+    "rating": 4.2,
+    "reviewCount": 3156,
+    "pros": [
+      "Proven sonic cleansing efficacy",
+      "Multiple brush head options",
+      "Waterproof design"
+    ],
+    "con": "Outdated compared to competitor innovations in smart connectivity and multi-function capabilities.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

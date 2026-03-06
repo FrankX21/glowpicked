@@ -1,0 +1,35 @@
+{
+  "asin": "B00YJHJ5OU",
+  "glowScore": 71,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 23,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Diamond Tip Microdermabrasion",
+    "Adjustable Vacuum Suction",
+    "Stainless Steel Housing"
+  ],
+  "verdict": "NuDerma Professional Microdermabrasion System combines diamond abrasion with variable suction in clinical-grade housing for professional-quality home treatments. The high review count (4,234) demonstrates consistent efficacy and reliability.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00YJHJ5OU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "NuDerma",
+  "price": "$89",
+  "_research": {
+    "name": "NuDerma Professional Microdermabrasion System",
+    "rating": 4.2,
+    "reviewCount": 4234,
+    "pros": [
+      "High review volume confirms reliability",
+      "Professional-grade materials",
+      "Adjustable treatment intensity"
+    ],
+    "con": "Professional-grade pricing without additional benefits beyond standard microdermabrasion devices.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

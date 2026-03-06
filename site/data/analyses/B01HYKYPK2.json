@@ -1,0 +1,35 @@
+{
+  "asin": "B01HYKYPK2",
+  "glowScore": 49,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 0,
+    "safetyProfile": 13,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Sonic Vibration Technology",
+    "Waterproof Design",
+    "No Active Ingredients"
+  ],
+  "verdict": "This waterproof sonic cleanser provides mechanical cleansing through vibration without chemical components. The waterproof feature adds convenience, but effectiveness depends entirely on accompanying cleanser.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HYKYPK2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Vanity Planet",
+  "price": "$20",
+  "_research": {
+    "name": "Electric Facial Cleanser Waterproof",
+    "rating": 4.2,
+    "reviewCount": 6900,
+    "pros": [
+      "Waterproof for shower use",
+      "Gentle vibration technology",
+      "No chemical irritants"
+    ],
+    "con": "No active skincare ingredients; requires quality cleanser product for true efficacy.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00ARPT1IK",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 29,
+    "ingredientScience": 18,
+    "safetyProfile": 14,
+    "valueForMoney": 8
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Keratin",
+    "Ionic technology",
+    "Ceramic bristles"
+  ],
+  "verdict": "Hair styling tool, not skincare; contains keratin for hair conditioning but irrelevant for facial skincare analysis. Misclassified product for GlowPicked skincare focus.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ARPT1IK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Revlon",
+  "price": "$27",
+  "_research": {
+    "name": "Revlon RVSP3513 One-Step Volumizer Original",
+    "rating": 4.4,
+    "reviewCount": 42000,
+    "pros": [
+      "High review count indicates popularity",
+      "Multi-functional hair styling",
+      "Durable construction"
+    ],
+    "con": "Completely unrelated to facial skincare; should not be included in skincare tool analysis.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

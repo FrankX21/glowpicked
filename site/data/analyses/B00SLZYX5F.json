@@ -1,0 +1,35 @@
+{
+  "asin": "B00SLZYX5F",
+  "glowScore": 57,
+  "breakdown": {
+    "reviewsSatisfaction": 17,
+    "ingredientScience": 16,
+    "safetyProfile": 13,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "menthol",
+    "camphor"
+  ],
+  "verdict": "Basic medicated formula mirroring classic ChapStick with minimal added benefits. Serviceable but lacks advanced moisturizing or repairing ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SLZYX5F&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Chapstick",
+  "price": "$2",
+  "_research": {
+    "name": "Chapstick Medicated Lip Balm Original",
+    "rating": 4,
+    "reviewCount": 2234,
+    "pros": [
+      "familiar formula",
+      "medicated relief",
+      "budget-friendly"
+    ],
+    "con": "Very basic ingredient list offers little differentiation and minimal nourishment beyond occlusion.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

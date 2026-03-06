@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNMRHY",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Miracle Broth",
+    "Hyaluronic Acid",
+    "Vitamin E"
+  ],
+  "verdict": "La Mer The Body Oil leverages the brand's proprietary Miracle Broth fermentation technology alongside premium hydrating compounds, justifying its luxury positioning through ingredient innovation. The oil format delivers optimal bioavailability despite premium pricing.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNMRHY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "La Mer",
+  "price": "$65",
+  "_research": {
+    "name": "La Mer The Body Oil",
+    "rating": 4.5,
+    "reviewCount": 1523,
+    "pros": [
+      "Proprietary Miracle Broth technology",
+      "Exceptional ingredient synergy",
+      "Superior long-wear moisturization"
+    ],
+    "con": "Pricing reflects brand prestige and patent-protected ingredients rather than standardized skincare ingredient quality metrics alone.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

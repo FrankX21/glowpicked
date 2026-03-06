@@ -1,0 +1,35 @@
+{
+  "asin": "B0043MDYWE",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 21,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Zinc Oxide",
+    "Titanium Dioxide",
+    "Glycerin"
+  ],
+  "verdict": "Mineral sunscreen moisturizer hybrid with physical blockers and light hydration. Good for sun protection but less moisturizing than dedicated hydrating products.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0043MDYWE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$8",
+  "_research": {
+    "name": "Neutrogena Ultra Sheer Daily Moisturizer SPF 30",
+    "rating": 4.4,
+    "reviewCount": 5300,
+    "pros": [
+      "Physical sunscreen blocks UVA/UVB safely",
+      "SPF 30 protection with no chemical actives",
+      "Lightweight formula suitable for daily use"
+    ],
+    "con": "Physical blockers can leave white cast; less hydrating than specialized moisturizers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

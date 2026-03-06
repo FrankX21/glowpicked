@@ -1,0 +1,35 @@
+{
+  "asin": "B001ECQQ9Q",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 23,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octocrylene",
+    "Niacinamide"
+  ],
+  "verdict": "Clinique's formula includes niacinamide for skin-soothing benefits alongside reliable broad-spectrum SPF 50 protection. The lotion texture suits combination skin well with minimal comedogenic risk.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001ECQQ9Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clinique",
+  "price": "$48",
+  "_research": {
+    "name": "Clinique Even Better UV SPF 50 Perfecting Lotion",
+    "rating": 4.3,
+    "reviewCount": 1034,
+    "pros": [
+      "Niacinamide addition",
+      "Non-comedogenic",
+      "Reliable protection"
+    ],
+    "con": "Mid-tier luxury pricing without significant innovation over drugstore alternatives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

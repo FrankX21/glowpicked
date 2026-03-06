@@ -1,0 +1,35 @@
+{
+  "asin": "B000052YPA",
+  "glowScore": 69,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Coal Tar",
+    "Salicylic Acid",
+    "Menthol"
+  ],
+  "verdict": "Medicated shampoo with coal tar and salicylic acid for scalp conditions, not optimal for general body care. Therapeutic category limits versatility despite proven efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000052YPA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$7",
+  "_research": {
+    "name": "Neutrogena T/Gel Therapeutic Shampoo Original",
+    "rating": 4.2,
+    "reviewCount": 5400,
+    "pros": [
+      "Coal tar proven for psoriasis/seborrheic dermatitis",
+      "Strong clinical validation",
+      "Affordable"
+    ],
+    "con": "Specialized scalp treatment; coal tar has regulatory scrutiny and unpleasant odor.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

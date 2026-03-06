@@ -1,0 +1,35 @@
+{
+  "asin": "B00AKWZI7E",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Sonic Oscillation (300Hz)",
+    "Silicone Bristles",
+    "Patented Cleansing Action"
+  ],
+  "verdict": "Clarisonic's 9200 reviews (4.2★) represent longest market tenure and brand trust; the oscillating brush is proven to enhance ingredient penetration. However, the brand was discontinued in 2021, raising longevity concerns.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AKWZI7E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Clarisonic",
+  "price": "$149",
+  "_research": {
+    "name": "Clarisonic Mia 2 Facial Cleansing Brush",
+    "rating": 4.2,
+    "reviewCount": 9200,
+    "pros": [
+      "Clinically-proven cleansing efficacy",
+      "Massive user base and reviews",
+      "Compatible with multiple brush heads"
+    ],
+    "con": "Discontinued product means no warranty support or replacement parts available long-term.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

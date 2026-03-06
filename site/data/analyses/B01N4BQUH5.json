@@ -1,0 +1,35 @@
+{
+  "asin": "B01N4BQUH5",
+  "glowScore": 77,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Avobenzone/Octinoxate",
+    "Cetyl Alcohol"
+  ],
+  "verdict": "Daily moisturizer with integrated SPF 30 sun protection for convenience. Good for those seeking combined hydration-protection but SPF may reduce ingredient space.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N4BQUH5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$8",
+  "_research": {
+    "name": "Aveeno Ultra-Lightweight Daily Moisturizer SPF 30",
+    "rating": 4.4,
+    "reviewCount": 4900,
+    "pros": [
+      "Built-in broad-spectrum SPF 30",
+      "Lightweight for daily wear",
+      "Glycerin hydration base"
+    ],
+    "con": "SPF inclusion limits moisturizing ingredient concentration compared to non-sunscreen formulas.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

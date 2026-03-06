@@ -1,0 +1,35 @@
+{
+  "asin": "B00PSNQTC6",
+  "glowScore": 74,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Vitamin E",
+    "Ferulic Acid",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "This is a well-formulated antioxidant serum with the proven Vitamin E + Ferulic combination that enhances photoprotection. Excellent stability and efficacy at a reasonable luxury price.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PSNQTC6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Mad Hippie",
+  "price": "$38",
+  "_research": {
+    "name": "Vitamin E Ferulic Serum",
+    "rating": 4.2,
+    "reviewCount": 2100,
+    "pros": [
+      "Clinically studied Vitamin E + Ferulic synergy",
+      "Potent antioxidant protection",
+      "Natural/clean ingredient profile"
+    ],
+    "con": "Not ideal as standalone treatment; requires pairing with sunscreen for full benefit.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B00E65WKXM",
+  "glowScore": 50,
+  "breakdown": {
+    "reviewsSatisfaction": 23,
+    "ingredientScience": 0,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Microcurrent technology",
+    "Red LED light",
+    "Wireless design"
+  ],
+  "verdict": "Device-based tool with no chemical ingredients; uses microcurrent stimulation to tone facial muscles. Safe, clinically-backed technology with excellent user satisfaction.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E65WKXM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "NuFace",
+  "price": "$199",
+  "_research": {
+    "name": "Nuface Mini Facial Toning Device",
+    "rating": 4.2,
+    "reviewCount": 9200,
+    "pros": [
+      "Microcurrent technology proven for lifting",
+      "Portable and wireless",
+      "High review count validates efficacy"
+    ],
+    "con": "Requires consistent use and proper technique for visible results.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

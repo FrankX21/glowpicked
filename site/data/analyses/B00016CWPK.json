@@ -1,0 +1,36 @@
+{
+  "asin": "B00016CWPK",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 19,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "jojoba oil",
+    "beeswax",
+    "shea butter"
+  ],
+  "verdict": "Burt's Bees volumizing gloss adds botanical ingredients with light shimmer appeal, but volume claims are largely cosmetic rather than formula-based benefits.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWPK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$6",
+  "_research": {
+    "name": "Burt's Bees Very Volumizing Lip Gloss",
+    "rating": 4.4,
+    "reviewCount": 5800,
+    "pros": [
+      "Natural ingredients",
+      "Subtle color",
+      "Light gloss finish",
+      "Burt's Bees heritage"
+    ],
+    "con": "Volumizing claims rely more on optical effect than actual lip-plumping actives.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

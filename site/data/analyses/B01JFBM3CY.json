@@ -1,0 +1,35 @@
+{
+  "asin": "B01JFBM3CY",
+  "glowScore": 68,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 18,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "T-Sonic Oscillation",
+    "Sensitive Mode Bristles",
+    "Waterproof Silicone Design"
+  ],
+  "verdict": "FOREO Luna 2 is the proven predecessor technology offering the same T-Sonic oscillation benefits as Luna 3 with slightly fewer features, reflected in its massive review count (6,789). Excellent value proposition within FOREO's ecosystem.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JFBM3CY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "FOREO",
+  "price": "$149",
+  "_research": {
+    "name": "FOREO Luna 2 Facial Cleansing Brush",
+    "rating": 4.2,
+    "reviewCount": 6789,
+    "pros": [
+      "Largest review volume on list",
+      "Budget-friendlier than Luna 3",
+      "Proven track record"
+    ],
+    "con": "Older technology model with fewer smart features compared to newer Luna 3 iteration.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

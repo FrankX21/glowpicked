@@ -1,0 +1,35 @@
+{
+  "asin": "B00ZCYVMFQ",
+  "glowScore": 66,
+  "breakdown": {
+    "reviewsSatisfaction": 16,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Red Light (630nm)",
+    "Near-Infrared (850nm)",
+    "LED Phototherapy"
+  ],
+  "verdict": "Silk'n's light therapy uses clinically-studied wavelengths to stimulate collagen production, though results require consistent 12+ week use. The technology is sound but not ingredient-based innovation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZCYVMFQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Silk'n",
+  "price": "$199",
+  "_research": {
+    "name": "Silk'n FaceFX Anti-Aging Light Therapy",
+    "rating": 4,
+    "reviewCount": 1389,
+    "pros": [
+      "Clinically-backed red light wavelengths",
+      "Stimulates collagen synthesis",
+      "Cordless and travel-friendly"
+    ],
+    "con": "Results are slow (3+ months) and modest compared to topical actives like retinol.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

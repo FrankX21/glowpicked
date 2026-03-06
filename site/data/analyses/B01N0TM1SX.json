@@ -1,0 +1,35 @@
+{
+  "asin": "B01N0TM1SX",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Tinosorb S",
+    "Avobenzone",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Isdin's Eryfotona combines innovative photostable Tinosorb S with hyaluronic acid and antioxidants for dermatologist-caliber sun care. The sophisticated filter chemistry and clinical positioning justify luxury classification despite moderate review volume.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N0TM1SX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Isdin",
+  "price": "$48",
+  "_research": {
+    "name": "Isdin Eryfotona Actinica Daily Protective Cream SPF 50",
+    "rating": 4.3,
+    "reviewCount": 876,
+    "pros": [
+      "Advanced photostable UV filters",
+      "Dermatological credentials",
+      "Antioxidant-rich formula"
+    ],
+    "con": "Limited market penetration and fewer consumer reviews may indicate lower availability/affordability in some regions.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

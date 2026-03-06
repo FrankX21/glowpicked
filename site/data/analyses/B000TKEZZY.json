@@ -1,0 +1,35 @@
+{
+  "asin": "B000TKEZZY",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 21,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Avobenzone",
+    "Octocrylene",
+    "Dimethicone"
+  ],
+  "verdict": "Neutrogena Ultra Sheer delivers exceptional value with high SPF 100+, dry-touch technology, and over 5,200 verified reviews. Despite being non-luxury, the ingredient profile is solid for sun protection.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000TKEZZY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$8",
+  "_research": {
+    "name": "Neutrogena Ultra Sheer Dry-Touch SPF 100+",
+    "rating": 4.5,
+    "reviewCount": 5234,
+    "pros": [
+      "Exceptional review volume",
+      "True dry-touch formula",
+      "Outstanding value"
+    ],
+    "con": "Not a true luxury brand offering; lacks prestige ingredients or premium positioning.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "sunscreen"
+  }
+}

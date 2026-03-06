@@ -1,0 +1,35 @@
+{
+  "asin": "B00LMUV8H6",
+  "glowScore": 76,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 21,
+    "safetyProfile": 14,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "lanolin",
+    "glycerin"
+  ],
+  "verdict": "Nivea Lip Care offers glycerin and lanolin for moisturizing power within a trusted beauty brand framework. Solid formulation with moderate ingredient quality though it lacks standout active ingredients.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMUV8H6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Nivea",
+  "price": "$2",
+  "_research": {
+    "name": "Nivea Lip Care Original",
+    "rating": 4.4,
+    "reviewCount": 4600,
+    "pros": [
+      "Glycerin provides humectant moisture",
+      "Lanolin adds emollient feel",
+      "Nivea brand trust factor"
+    ],
+    "con": "Generic formulation without distinctive benefit ingredients; average rating reflects middle-of-pack performance.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

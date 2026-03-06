@@ -1,0 +1,35 @@
+{
+  "asin": "B00016CWQS",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 30,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Beeswax",
+    "Candelilla Wax",
+    "Peppermint Oil"
+  ],
+  "verdict": "Burt's Bees Mint excels with natural waxes, botanical oils, and minimal synthetic additives making it excellent for eco-conscious consumers. High rating justifies its popularity among budget-conscious buyers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016CWQS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Burt's Bees",
+  "price": "$3",
+  "_research": {
+    "name": "Burt's Bees Mint Lip Balm",
+    "rating": 4.5,
+    "reviewCount": 3500,
+    "pros": [
+      "100% natural ingredients",
+      "Effective moisturization",
+      "Highest rated in category"
+    ],
+    "con": "Peppermint oil may tingle excessively for sensitive users.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

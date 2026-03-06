@@ -1,0 +1,35 @@
+{
+  "asin": "B00B2BTR4I",
+  "glowScore": 87,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 26,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "sodium lauryl sulfate-free",
+    "ceramides",
+    "glycerin"
+  ],
+  "verdict": "Superior cleanser formula with ceramides for post-cleanse hydration and massive validation (13000 reviews). Best cleansing option combining gentleness and efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B2BTR4I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$13",
+  "_research": {
+    "name": "CeraVe Foaming Facial Cleanser",
+    "rating": 4.6,
+    "reviewCount": 13000,
+    "pros": [
+      "foaming action removes impurities effectively",
+      "ceramides prevent over-stripping",
+      "highest review count validates performance"
+    ],
+    "con": "Cleanser rather than moisturizer; requires separate moisturizing product.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

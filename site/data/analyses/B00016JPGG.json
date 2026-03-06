@@ -1,0 +1,35 @@
+{
+  "asin": "B00016JPGG",
+  "glowScore": 81,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 25,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "petrolatum",
+    "lanolin",
+    "panthenol"
+  ],
+  "verdict": "Enhanced Carmex formula with superior ingredient profile including panthenol and lanolin alongside petrolatum. Excellent therapeutic formula balancing relief with conditioning.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00016JPGG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Carmex",
+  "price": "$3",
+  "_research": {
+    "name": "Carmex Ultra Moisturizing Lip Balm",
+    "rating": 4.4,
+    "reviewCount": 1876,
+    "pros": [
+      "panthenol plus lanolin combination",
+      "enhanced moisturizing",
+      "strong rating justification"
+    ],
+    "con": "Slightly thicker texture may feel occlusive for those preferring lightweight daily balms.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

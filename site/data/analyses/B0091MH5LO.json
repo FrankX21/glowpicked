@@ -1,0 +1,35 @@
+{
+  "asin": "B0091MH5LO",
+  "glowScore": 89,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Niacinamide",
+    "Glycerin"
+  ],
+  "verdict": "CeraVe's AM moisturizer combines hydration with SPF 30 and niacinamide, making it exceptional value for a multi-function daytime product. The formula balances protection, hydration, and skin-barrier support effectively.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0091MH5LO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "CeraVe",
+  "price": "$15",
+  "_research": {
+    "name": "CeraVe AM Facial Moisturizing Lotion SPF 30",
+    "rating": 4.6,
+    "reviewCount": 9876,
+    "pros": [
+      "Broad-spectrum SPF 30 with hydrating moisturizer base",
+      "Niacinamide supports skin barrier and sebum regulation",
+      "Lightweight formula suitable for facial use"
+    ],
+    "con": "Chemical sunscreen filters may irritate very sensitive skin; lacks antioxidants like vitamin C.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

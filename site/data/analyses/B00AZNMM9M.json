@@ -1,0 +1,35 @@
+{
+  "asin": "B00AZNMM9M",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 20,
+    "safetyProfile": 15,
+    "valueForMoney": 13
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Docosahexaenoic Acid",
+    "Cetyl Alcohol"
+  ],
+  "verdict": "Gentle cleansing formula with omega-3 fatty acid (DHA) addition for barrier support. Advanced for a body wash but still relies primarily on basic cleansing actives.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AZNMM9M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Eucerin",
+  "price": "$8",
+  "_research": {
+    "name": "Eucerin Advanced Cleansing Body Wash",
+    "rating": 4.4,
+    "reviewCount": 2100,
+    "pros": [
+      "Omega-3 fatty acids for barrier",
+      "Sulfate-free formula",
+      "Dermatologist recommended"
+    ],
+    "con": "DHA addition is novel but DHA's body-cleansing benefits are minimal compared to topical moisturizers.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

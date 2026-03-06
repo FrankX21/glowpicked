@@ -1,0 +1,35 @@
+{
+  "asin": "B00NF8U6TO",
+  "glowScore": 73,
+  "breakdown": {
+    "reviewsSatisfaction": 22,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Diamond Tip Microdermabrasion Head",
+    "Variable Suction Technology",
+    "Adjustable Abrasion Levels"
+  ],
+  "verdict": "PMD Personal Microderm Pro uses diamond-tip physical exfoliation with adjustable suction, delivering consistent results without chemical peels. The device's popularity (highest review count) reflects genuine consumer satisfaction with visible skin refinement.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NF8U6TO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "PMD",
+  "price": "$99",
+  "_research": {
+    "name": "PMD Personal Microderm Pro",
+    "rating": 4.2,
+    "reviewCount": 4521,
+    "pros": [
+      "Highest review count demonstrates reliability",
+      "Diamond tips last longer than crystals",
+      "Customizable intensity settings"
+    ],
+    "con": "Requires replacement heads every 3-6 months, adding ongoing costs to ownership.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

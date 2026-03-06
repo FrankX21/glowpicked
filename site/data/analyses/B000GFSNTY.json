@@ -1,0 +1,35 @@
+{
+  "asin": "B000GFSNTY",
+  "glowScore": 86,
+  "breakdown": {
+    "reviewsSatisfaction": 33,
+    "ingredientScience": 24,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Glycerin",
+    "Colloidal Oatmeal",
+    "Dimethicone"
+  ],
+  "verdict": "Aveeno's lotion leverages colloidal oatmeal for soothing benefits alongside glycerin hydration. While effective for sensitive skin, the ingredient profile is relatively conservative and lacks barrier-repair ceramides.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000GFSNTY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Aveeno",
+  "price": "$8",
+  "_research": {
+    "name": "Aveeno Daily Moisturizing Body Lotion",
+    "rating": 4.6,
+    "reviewCount": 9324,
+    "pros": [
+      "Colloidal oatmeal provides natural soothing properties",
+      "Lightweight and fast-absorbing texture",
+      "Excellent for eczema and sensitive skin"
+    ],
+    "con": "No ceramides or advanced humectants compared to CeraVe offerings.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

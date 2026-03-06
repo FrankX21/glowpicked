@@ -1,0 +1,36 @@
+{
+  "asin": "B0012VQEXY",
+  "glowScore": 75,
+  "breakdown": {
+    "reviewsSatisfaction": 24,
+    "ingredientScience": 25,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Gotu Kola Extract",
+    "Rosehip Oil",
+    "Vitamin E",
+    "Shea Butter"
+  ],
+  "verdict": "Origins balances natural extracts like gotu kola with proven moisturizers for a phytochemical-forward approach. The formula aligns with the brand's botanical philosophy while maintaining practical efficacy.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0012VQEXY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Origins",
+  "price": "$20",
+  "_research": {
+    "name": "Premium Lip Balm",
+    "rating": 4.3,
+    "reviewCount": 1456,
+    "pros": [
+      "Plant-based ingredients",
+      "Antioxidant-rich",
+      "Sustainable positioning"
+    ],
+    "con": "Natural focus may compromise stability or sensorial appeal for some users.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "lip-care"
+  }
+}

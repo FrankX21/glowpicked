@@ -1,0 +1,35 @@
+{
+  "asin": "B00XMCDQK2",
+  "glowScore": 52,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 0,
+    "safetyProfile": 13,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Microdermabrasion Crystals",
+    "Electric Motor",
+    "No Chemical Additives"
+  ],
+  "verdict": "PMD's microdermabrasion brush uses mechanical exfoliation with crystal particles but contains no active skincare ingredients. It's effective for surface renewal but can compromise skin barrier with overuse.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XMCDQK2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "PMD",
+  "price": "$25",
+  "_research": {
+    "name": "Microdermabrasion Facial Scrub Brush",
+    "rating": 4.3,
+    "reviewCount": 8900,
+    "pros": [
+      "Visible exfoliation results",
+      "Removes dead skin effectively",
+      "Well-reviewed by users"
+    ],
+    "con": "Can cause redness and irritation; not suitable for daily use or sensitive skin.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}

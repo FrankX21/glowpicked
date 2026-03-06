@@ -1,0 +1,35 @@
+{
+  "asin": "B07DLF4Y5H",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 25,
+    "ingredientScience": 28,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Plant-Derived Squalane",
+    "Antioxidant Blend",
+    "Stabilizing Agents"
+  ],
+  "verdict": "100% squalane delivers unparalleled skin compatibility with excellent spreadability and non-comedogenic profile. The highest review count (7900) reflects universal acceptance—this is a pure, effective occlusive suitable for all skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DLF4Y5H&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "The Ordinary",
+  "price": "$5.20",
+  "_research": {
+    "name": "100% Plant-Derived Squalane Serum",
+    "rating": 4.3,
+    "reviewCount": 7900,
+    "pros": [
+      "Universal skin compatibility",
+      "Non-comedogenic occlusive",
+      "Supports moisture barrier repair"
+    ],
+    "con": "Pure squalane offers hydration only; lacks active treatment ingredients for specific concerns.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

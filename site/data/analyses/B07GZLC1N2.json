@@ -1,0 +1,35 @@
+{
+  "asin": "B07GZLC1N2",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 22,
+    "safetyProfile": 14,
+    "valueForMoney": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Hyaluronic Acid",
+    "Glycerin",
+    "Panthenol"
+  ],
+  "verdict": "Lightweight gel-cream formula delivers solid hydration through hyaluronic acid and glycerin without heavy oils. Good for combination to oily skin types seeking budget-friendly moisture.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GZLC1N2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Neutrogena",
+  "price": "$6",
+  "_research": {
+    "name": "Neutrogena Hydro Boost Gel-Cream",
+    "rating": 4.4,
+    "reviewCount": 3900,
+    "pros": [
+      "Hyaluronic acid for humectant hydration",
+      "Fast-absorbing gel texture",
+      "Fragrance-free formula"
+    ],
+    "con": "Limited ceramides compared to competitors in this price range.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "face-moisturizers"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "asin": "B07LXWF9Q1",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 27,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 14
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Undaria Pinnatifida Seaweed",
+    "Sea Fennel Extract",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "OSEA Undaria excels with marine-derived actives and bioavailable hydration compounds, backed by substantial customer validation and repeat purchase behavior. The seaweed-centric formula delivers genuine skincare benefits alongside clean beauty standards.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07LXWF9Q1&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "OSEA",
+  "price": "$42",
+  "_research": {
+    "name": "OSEA Undaria Seaweed Body Lotion",
+    "rating": 4.4,
+    "reviewCount": 2134,
+    "pros": [
+      "Marine-derived bioactive ingredients",
+      "Exceptional customer review volume and satisfaction",
+      "Strong hydration + nourishment balance"
+    ],
+    "con": "Seaweed content may trigger sensitivities in individuals with shellfish allergies.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "body-care"
+  }
+}

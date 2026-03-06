@@ -1,0 +1,35 @@
+{
+  "asin": "B01BMLMNAE",
+  "glowScore": 54,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 0,
+    "safetyProfile": 15,
+    "valueForMoney": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    "Microfiber material",
+    "Ultra-soft construction",
+    "Durable synthetic fibers"
+  ],
+  "verdict": "Non-active cleansing cloth using premium microfiber technology; ingredient-free product designed to enhance cleanser effectiveness. Highest safety profile with minimal maintenance.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01BMLMNAE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Beautyblender",
+  "price": "$9",
+  "_research": {
+    "name": "Beautyblender Microfiber Cleansing Cloth",
+    "rating": 4.4,
+    "reviewCount": 8900,
+    "pros": [
+      "Premium Beautyblender quality at lower price",
+      "Gentle on sensitive skin",
+      "Reusable and eco-friendly"
+    ],
+    "con": "Provides cleansing support only; must be paired with actual cleansing products.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "skincare-tools"
+  }
+}
