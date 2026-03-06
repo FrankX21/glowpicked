@@ -22,7 +22,7 @@ const {
 const fullTitle = title.includes('GlowPicked') ? title : `${title} | GlowPicked`;
 
 // 🚧 MAINTENANCE MODE — set to false to restore the site
-const MAINTENANCE_MODE = true;
+const MAINTENANCE_MODE = false;
 ---
 
 <!doctype html>
@@ -72,7 +72,7 @@ const MAINTENANCE_MODE = true;
       "name": "GlowPicked",
       "url": "https://glowpicked.com",
       "logo": "https://glowpicked.com/images/logo.png",
-      "description": "Honest Beauty & Skincare Product Reviews",
+      "description": "AI-Powered Beauty Intelligence - Ingredient Analysis & GlowScore Ratings",
       "sameAs": []
     }
     </script>
@@ -135,7 +135,7 @@ const MAINTENANCE_MODE = true;
         <div class="footer-section">
           <div class="footer-brand">
             <span class="footer-logo">GlowPicked</span>
-            <p>Honest Beauty & Skincare Reviews</p>
+            <p>AI-Powered Beauty Intelligence</p>
           </div>
         </div>
         
@@ -531,7 +531,8 @@ const MAINTENANCE_MODE = true;
         }
       });
     </script>
-  <script src="/js/product-enhancer.js" defer></script>
+  <script src="/js/product-images.js" is:inline></script>
+  <script src="/js/product-enhancer.js" is:inline defer></script>
   
   <!-- Cookie Consent Banner -->
   <CookieBanner />

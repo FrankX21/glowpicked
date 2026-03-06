@@ -1,0 +1,28 @@
+{
+  "asin": "B01N13W31F",
+  "glowScore": 82,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 25,
+    "safety": 13,
+    "value": 10
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Rice Extract (Oryza Sativa, 68%)",
+      "benefit": "High-concentration brightening ingredient with antioxidant properties"
+    },
+    {
+      "name": "Niacinamide",
+      "benefit": "Fades hyperpigmentation and evens overall skin tone"
+    },
+    {
+      "name": "Adenosine",
+      "benefit": "Anti-aging ingredient that supports overnight skin repair"
+    }
+  ],
+  "verdict": "COSRX Rice Overnight Mask delivers an impressive 68% rice extract concentration for a budget sleeping mask. The niacinamide and adenosine combination makes it one of the most active overnight treatments at this price.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N13W31F&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

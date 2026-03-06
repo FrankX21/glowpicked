@@ -1,0 +1,28 @@
+{
+  "asin": "B00DG8F04Y",
+  "glowScore": 86,
+  "breakdown": {
+    "reviews": 36,
+    "ingredients": 25,
+    "safety": 14,
+    "value": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Sweet Almond Oil",
+      "benefit": "Rich emollient oil that nourishes dry and rough skin"
+    },
+    {
+      "name": "Hyaluronic Acid",
+      "benefit": "Retains moisture in body skin for up to 72 hours"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "Draws environmental moisture into the skin continuously"
+    }
+  ],
+  "verdict": "NIVEA Essentially Enriched is an exceptional value body lotion. The almond oil and hyaluronic acid combination delivers 72-hour moisture that outperforms products at three times the price. Best for dry to very dry skin.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DG8F04Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

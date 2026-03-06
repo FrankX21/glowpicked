@@ -1,0 +1,28 @@
+{
+  "asin": "B07XXPHQZK",
+  "glowScore": 90,
+  "breakdown": {
+    "reviews": 37,
+    "ingredients": 27,
+    "safety": 14,
+    "value": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Vitamin C (Ascorbic Acid)",
+      "benefit": "Brightens lip tone and fades fine lip lines overnight"
+    },
+    {
+      "name": "Vitamin E",
+      "benefit": "Nourishes and softens lips with antioxidant protection"
+    },
+    {
+      "name": "Berry Complex (Antioxidants)",
+      "benefit": "Natural antioxidants that repair damage and plump lips"
+    }
+  ],
+  "verdict": "Laneige Lip Sleeping Mask is the most effective overnight lip treatment available at any price. The vitamin C and E combination visibly plumps and brightens lips by morning. Cult status is well-deserved.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XXPHQZK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

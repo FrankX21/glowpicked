@@ -1,0 +1,28 @@
+{
+  "asin": "B0D1XLXSSY",
+  "glowScore": 71,
+  "breakdown": {
+    "reviews": 30,
+    "ingredients": 20,
+    "safety": 14,
+    "value": 7
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Medical-Grade Silicone",
+      "benefit": "Non-porous material that prevents bacteria buildup between uses"
+    },
+    {
+      "name": "Soft Bristle Design",
+      "benefit": "Prevents over-application pressure that can damage skin"
+    },
+    {
+      "name": "Ergonomic Handle",
+      "benefit": "Allows precise and even mask application with minimal waste"
+    }
+  ],
+  "verdict": "The Medicube Jelly Brush solves the hygiene problem of finger-applied masks. Food-grade silicone is genuinely more sanitary and reduces product waste. A practical tool for consistent mask users, though limited in functionality.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0D1XLXSSY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

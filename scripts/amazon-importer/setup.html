@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GlowPicked — Amazon Product Importer</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0f0a14;
+      color: #f0e6f6;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .container { max-width: 720px; margin: 0 auto; }
+
+    header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+    header .logo {
+      font-size: 2rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, #e91e63, #9c27b0);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+    header p { color: #9e87b0; font-size: 1.05rem; }
+
+    .card {
+      background: #1a1024;
+      border: 1px solid #2d1f3d;
+      border-radius: 16px;
+      padding: 28px;
+      margin-bottom: 24px;
+    }
+
+    h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #e91e63;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .step {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 20px;
+      align-items: flex-start;
+    }
+    .step-num {
+      background: linear-gradient(135deg, #e91e63, #9c27b0);
+      color: white;
+      font-weight: 700;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .step-content h3 { font-size: 0.95rem; font-weight: 600; margin-bottom: 4px; }
+    .step-content p { color: #9e87b0; font-size: 0.88rem; line-height: 1.55; }
+
+    /* Bookmarklet drag zone */
+    .bookmarklet-zone {
+      background: linear-gradient(135deg, #1e0a2e, #0e1a2e);
+      border: 2px dashed #e91e63;
+      border-radius: 12px;
+      padding: 28px;
+      text-align: center;
+      margin: 20px 0;
+    }
+    .bookmarklet-btn {
+      display: inline-block;
+      background: linear-gradient(135deg, #e91e63, #9c27b0);
+      color: white !important;
+      text-decoration: none !important;
+      padding: 14px 28px;
+      border-radius: 50px;
+      font-weight: 700;
+      font-size: 1rem;
+      cursor: grab;
+      box-shadow: 0 4px 20px rgba(233,30,99,0.4);
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .bookmarklet-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 28px rgba(233,30,99,0.5);
+    }
+    .bookmarklet-zone p {
+      color: #9e87b0;
+      font-size: 0.85rem;
+      margin-top: 12px;
+    }
+
+    code {
+      background: #0f0a14;
+      border: 1px solid #2d1f3d;
+      border-radius: 6px;
+      padding: 2px 8px;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      font-size: 0.83rem;
+      color: #ce9eff;
+    }
+
+    .cmd-block {
+      background: #0a0610;
+      border: 1px solid #2d1f3d;
+      border-radius: 10px;
+      padding: 16px 20px;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      font-size: 0.85rem;
+      color: #a0f0b0;
+      margin: 12px 0;
+      line-height: 1.7;
+      overflow-x: auto;
+    }
+    .cmd-block .comment { color: #5a4a7a; }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: rgba(233,30,99,0.15);
+      border: 1px solid rgba(233,30,99,0.3);
+      color: #e91e63;
+      border-radius: 20px;
+      padding: 3px 10px;
+      font-size: 0.78rem;
+      font-weight: 600;
+    }
+
+    .workflow-arrow {
+      text-align: center;
+      color: #5a4a7a;
+      font-size: 1.5rem;
+      margin: 4px 0;
+    }
+
+    .flow-box {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: #110820;
+      border-radius: 10px;
+      padding: 12px 16px;
+      margin-bottom: 8px;
+      font-size: 0.88rem;
+    }
+    .flow-icon { font-size: 1.3rem; flex-shrink: 0; }
+    .flow-label { color: #c9b3e0; }
+    .flow-sub { color: #6a547a; font-size: 0.8rem; }
+
+    footer {
+      text-align: center;
+      color: #4a3a5a;
+      font-size: 0.82rem;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <div class="logo">✨ GlowPicked Importer</div>
+    <p>Importe des produits Amazon en 1 clic — sans WooCommerce, sans PA-API</p>
+  </header>
+
+  <!-- Workflow résumé -->
+  <div class="card">
+    <h2>🔄 Workflow complet</h2>
+    <div class="flow-box">
+      <div class="flow-icon">🛒</div>
+      <div><div class="flow-label">1. Amazon product page</div><div class="flow-sub">N'importe quel produit beauté</div></div>
+    </div>
+    <div class="workflow-arrow">↓</div>
+    <div class="flow-box">
+      <div class="flow-icon">🔖</div>
+      <div><div class="flow-label">2. Clic sur le bookmarklet</div><div class="flow-sub">Extraction automatique → télécharge glow-import-ASIN.json</div></div>
+    </div>
+    <div class="workflow-arrow">↓</div>
+    <div class="flow-box">
+      <div class="flow-icon">🤖</div>
+      <div><div class="flow-label">3. Script process-import.mjs</div><div class="flow-sub">Claude Haiku analyse → GlowScore + verdict + pros/con</div></div>
+    </div>
+    <div class="workflow-arrow">↓</div>
+    <div class="flow-box">
+      <div class="flow-icon">🚀</div>
+      <div><div class="flow-label">4. npm run build → git push</div><div class="flow-sub">Produit live sur GlowPicked.com</div></div>
+    </div>
+  </div>
+
+  <!-- Installation bookmarklet -->
+  <div class="card">
+    <h2>🔖 Étape 1 — Installer le bookmarklet</h2>
+
+    <div class="step">
+      <div class="step-num">A</div>
+      <div class="step-content">
+        <h3>Affiche la barre de favoris dans Chrome</h3>
+        <p><code>⌘ + Shift + B</code> pour l'afficher/masquer</p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">B</div>
+      <div class="step-content">
+        <h3>Glisse ce bouton dans ta barre de favoris</h3>
+      </div>
+    </div>
+
+    <div class="bookmarklet-zone">
+      <a class="bookmarklet-btn" id="bookmarklet-link" href="#">
+        ✨ GlowPicked — Import
+      </a>
+      <p>↑ Glisse ce bouton vers ta barre de favoris Chrome</p>
+    </div>
+
+    <div class="step">
+      <div class="step-num">C</div>
+      <div class="step-content">
+        <h3>Utilisation</h3>
+        <p>Va sur n'importe quelle page produit Amazon, clique sur le bookmarklet. Un fichier <code>glow-import-ASIN.json</code> sera téléchargé automatiquement.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Traitement -->
+  <div class="card">
+    <h2>⚙️ Étape 2 — Traiter l'import avec Claude</h2>
+
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-content">
+        <h3>Vérifie que tu as la variable d'environnement</h3>
+        <div class="cmd-block">echo $ANTHROPIC_API_KEY</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-content">
+        <h3>Lance le script depuis le dossier du projet</h3>
+        <div class="cmd-block">
+<span class="comment"># Depuis ~/Desktop/glowpicked/</span>
+node scripts/amazon-importer/process-import.mjs \
+  ~/Downloads/glow-import-ASIN.json
+
+<span class="comment"># Avec catégorie et tier pré-remplis (optionnel)</span>
+node scripts/amazon-importer/process-import.mjs \
+  ~/Downloads/glow-import-B00TTD9BRC.json \
+  face-moisturizers budget
+        </div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-content">
+        <h3>Le script génère automatiquement</h3>
+        <p>
+          ✅ <code>site/data/analyses/ASIN.json</code> — GlowScore + analyse IA<br><br>
+          📋 L'entrée produit à coller dans <code>src/pages/reviews/[category].astro</code>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Deploy -->
+  <div class="card">
+    <h2>🚀 Étape 3 — Build et deploy</h2>
+    <div class="cmd-block">
+<span class="comment"># Depuis ~/Desktop/glowpicked/site/</span>
+npm run build
+
+<span class="comment"># Si le build est bon → push sur GitHub (auto-deploy Netlify)</span>
+git add -A && git commit -m "feat: add [product name]"
+git push
+    </div>
+  </div>
+
+  <!-- Catégories -->
+  <div class="card">
+    <h2>📂 Catégories disponibles</h2>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:4px;">
+      <span class="badge">face-moisturizers</span>
+      <span class="badge">serums</span>
+      <span class="badge">cleansers</span>
+      <span class="badge">eye-creams</span>
+      <span class="badge">face-masks</span>
+      <span class="badge">lip-care</span>
+      <span class="badge">retinol-anti-aging</span>
+      <span class="badge">body-care</span>
+      <span class="badge">sunscreen</span>
+      <span class="badge">skincare-tools</span>
+    </div>
+  </div>
+
+  <footer>GlowPicked Importer — usage interne uniquement</footer>
+</div>
+
+<script>
+  // Charge le bookmarklet depuis bookmarklet.js et construit le href
+  fetch('./bookmarklet.js')
+    .then(r => r.text())
+    .then(code => {
+      const minified = code
+        .replace(/\/\*[\s\S]*?\*\//g, '')   // retire les commentaires blocs
+        .replace(/\/\/.*/g, '')              // retire les commentaires inline
+        .replace(/\s+/g, ' ')               // compresse les espaces
+        .trim();
+      const href = 'javascript:' + encodeURIComponent('(function(){' + minified + '})()');
+      // Note: le bookmarklet.js est déjà une IIFE, on n'ajoute pas d'extra wrapper
+      const href2 = 'javascript:' + encodeURIComponent(minified);
+      document.getElementById('bookmarklet-link').href = href2;
+    })
+    .catch(() => {
+      // Fallback si le fichier n'est pas accessible
+      document.getElementById('bookmarklet-link').textContent = '⚠ Ouvrir depuis le dossier local (file://)';
+    });
+</script>
+</body>
+</html>

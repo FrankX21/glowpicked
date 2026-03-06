@@ -1,0 +1,28 @@
+{
+  "asin": "B0B2TKJVDH",
+  "glowScore": 81,
+  "breakdown": {
+    "reviews": 33,
+    "ingredients": 25,
+    "safety": 14,
+    "value": 9
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    {
+      "name": "Magnesium Ascorbyl Phosphate 10%",
+      "benefit": "Stable vitamin C that brightens without irritation"
+    },
+    {
+      "name": "Niacinamide",
+      "benefit": "Fades hyperpigmentation and evens skin tone"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "Lightweight hydration for sensitive skin"
+    }
+  ],
+  "verdict": "MAP 10% is the ideal vitamin C for sensitive skin types who cannot tolerate pure ascorbic acid. Slower-acting but highly stable formula with an excellent safety record.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B2TKJVDH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

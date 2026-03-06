@@ -1,0 +1,28 @@
+{
+  "asin": "B07B8DZN6B",
+  "glowScore": 85,
+  "breakdown": {
+    "reviews": 33,
+    "ingredients": 27,
+    "safety": 14,
+    "value": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    {
+      "name": "Caffeine",
+      "benefit": "Immediately constricts blood vessels to reduce puffiness"
+    },
+    {
+      "name": "Korean Ginseng Root",
+      "benefit": "Adaptogenic ingredient that brightens and firms the eye area"
+    },
+    {
+      "name": "Peptide Complex",
+      "benefit": "Long-term collagen support for reduced fine lines"
+    }
+  ],
+  "verdict": "Sunday Riley Auto Correct delivers on its promise with a caffeine-ginseng formula that provides visible depuffing within minutes. The best premium eye cream for those dealing with morning puffiness and dark circles.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07B8DZN6B&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

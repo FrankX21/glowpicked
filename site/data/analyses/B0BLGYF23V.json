@@ -1,0 +1,28 @@
+{
+  "asin": "B0BLGYF23V",
+  "glowScore": 76,
+  "breakdown": {
+    "reviews": 33,
+    "ingredients": 23,
+    "safety": 11,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Melaleuca Alternifolia (Tea Tree)",
+      "benefit": "Natural antimicrobial that targets acne-causing bacteria"
+    },
+    {
+      "name": "Centella Asiatica",
+      "benefit": "K-beauty staple that soothes redness and speeds healing"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "Sheet mask base that prevents moisture evaporation"
+    }
+  ],
+  "verdict": "Mediheal Tea Tree mask is a reliable K-beauty solution for blemish-prone skin. The tea tree concentration is sufficient to be antimicrobial without causing excessive dryness. Best used once or twice weekly during breakout periods.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BLGYF23V&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

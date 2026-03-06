@@ -1,0 +1,28 @@
+{
+  "asin": "B07XQBY5QQ",
+  "glowScore": 87,
+  "breakdown": {
+    "reviews": 35,
+    "ingredients": 27,
+    "safety": 14,
+    "value": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Retinol + Niacinamide Blend",
+      "benefit": "Niacinamide counteracts retinol irritation while boosting its efficacy"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "24-hour moisture while retinol works overnight"
+    },
+    {
+      "name": "Vitamin B3 (Niacinamide)",
+      "benefit": "Strengthens barrier to allow better retinol tolerance for beginners"
+    }
+  ],
+  "verdict": "Olay Retinol 24 solves the retinol-irritation problem by pairing it with niacinamide. The fragrance-free formula is one of the most beginner-friendly retinol moisturizers with genuine anti-aging results.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XQBY5QQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

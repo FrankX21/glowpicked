@@ -1,0 +1,28 @@
+{
+  "asin": "B082965B6F",
+  "glowScore": 74,
+  "breakdown": {
+    "reviews": 30,
+    "ingredients": 23,
+    "safety": 12,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Peptide Complex",
+      "benefit": "Signals skin cells to produce more collagen over time"
+    },
+    {
+      "name": "Hyaluronic Acid",
+      "benefit": "Plumps fine lines with immediate hydration"
+    },
+    {
+      "name": "Niacinamide",
+      "benefit": "Improves circulation under the eyes to reduce dark circles"
+    }
+  ],
+  "verdict": "The Ordinary Multi-Peptide Eye Serum brings science-backed peptide technology to a budget price. The concentration is lower than the brand's standalone peptide serums but provides meaningful eye-area support.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082965B6F&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

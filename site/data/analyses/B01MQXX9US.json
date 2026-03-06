@@ -1,0 +1,28 @@
+{
+  "asin": "B01MQXX9US",
+  "glowScore": 72,
+  "breakdown": {
+    "reviews": 32,
+    "ingredients": 21,
+    "safety": 10,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Avobenzone 3%",
+      "benefit": "UVA protection for sport and outdoor activities"
+    },
+    {
+      "name": "Octocrylene 10%",
+      "benefit": "Stabilizes UV filters under intense sun exposure"
+    },
+    {
+      "name": "Homosalate 15%",
+      "benefit": "Broad UVB coverage suitable for active use"
+    }
+  ],
+  "verdict": "Banana Boat Sport performs well for active use with strong water resistance. Chemical filter formula is effective but the fragrance and oxybenzone content limit its score for health-conscious consumers.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MQXX9US&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

@@ -1,0 +1,28 @@
+{
+  "asin": "B08KT2Z93D",
+  "glowScore": 80,
+  "breakdown": {
+    "reviews": 35,
+    "ingredients": 23,
+    "safety": 13,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Shea Butter",
+      "benefit": "High-concentration emollient that repairs very dry body skin"
+    },
+    {
+      "name": "Oat Extract",
+      "benefit": "Soothes sensitive and reactive body skin"
+    },
+    {
+      "name": "Sunflower Seed Oil",
+      "benefit": "Lightweight oil that absorbs quickly without residue"
+    }
+  ],
+  "verdict": "eos Shea Better delivers on its lightweight promise with a non-greasy shea formula that absorbs in seconds. The vanilla cashmere scent is luxurious for the price. Ideal for normal to moderately dry skin.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KT2Z93D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

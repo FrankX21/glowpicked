@@ -1,0 +1,28 @@
+{
+  "asin": "B00NR1YQHM",
+  "glowScore": 86,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 24,
+    "safety": 14,
+    "value": 14
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Sodium Hyaluronate",
+      "benefit": "Humectant that binds water to skin, providing deep hydration and plumping effect"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "Humectant and skin conditioner that attracts moisture and improves skin barrier function"
+    },
+    {
+      "name": "Dimethicone",
+      "benefit": "Occlusive silicone that seals in hydration and creates smooth skin texture"
+    }
+  ],
+  "verdict": "This budget-friendly hydrating gel delivers solid performance through a hyaluronic acid-glycerin combination, though the formula relies heavily on silicones rather than skin-nourishing botanicals. The lightweight, non-comedogenic formulation makes it accessible for oily and sensitive skin types, but lacks advanced actives or antioxidants found in premium competitors.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NR1YQHM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

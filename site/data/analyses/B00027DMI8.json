@@ -1,0 +1,28 @@
+{
+  "asin": "B00027DMI8",
+  "glowScore": 80,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 24,
+    "safety": 13,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Retinol (Pure)",
+      "benefit": "Gold standard anti-aging ingredient that reduces wrinkles and boosts collagen"
+    },
+    {
+      "name": "Shea Butter",
+      "benefit": "Rich emollient that prevents the dryness associated with retinol"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "Humectant that maintains hydration during retinol adaptation period"
+    }
+  ],
+  "verdict": "RoC Retinol Night Cream is a clinically validated wrinkle reduction treatment backed by over 30 years of clinical studies. The shea butter base makes it unusually comfortable for a retinol formula. Expect results in 12 weeks.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00027DMI8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

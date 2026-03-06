@@ -1,0 +1,28 @@
+{
+  "asin": "B004KELK4C",
+  "glowScore": 78,
+  "breakdown": {
+    "reviews": 32,
+    "ingredients": 24,
+    "safety": 13,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Shea Butter",
+      "benefit": "Rich emollient that repairs dry and flaky skin"
+    },
+    {
+      "name": "Sweet Almond Oil",
+      "benefit": "Nourishes with fatty acids and vitamins"
+    },
+    {
+      "name": "Soy Milk Proteins",
+      "benefit": "Softens and improves skin texture"
+    }
+  ],
+  "verdict": "Embryolisse is a French pharmacy classic prized for its multi-use versatility as moisturizer, primer, and mask. Natural ingredient base with good nourishing properties, though the formula is not as clinically advanced as newer options.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004KELK4C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

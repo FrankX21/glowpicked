@@ -1,0 +1,28 @@
+{
+  "asin": "B00LV6VDG2",
+  "glowScore": 78,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 23,
+    "safety": 12,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Vitamin C (Ascorbic Acid)",
+      "benefit": "Brightens dark circles and uneven under-eye tone"
+    },
+    {
+      "name": "Vitamin E (Tocopherol)",
+      "benefit": "Moisturizes and protects the delicate eye area"
+    },
+    {
+      "name": "Aloe Vera",
+      "benefit": "Soothes puffiness and reduces inflammation"
+    }
+  ],
+  "verdict": "LilyAna offers a natural ingredient approach to eye care at an accessible price. The vitamin C and E combination addresses dark circles while aloe keeps the delicate area calm. Results visible after 4-6 weeks.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LV6VDG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

@@ -1,0 +1,28 @@
+{
+  "asin": "B0B2RM68G2",
+  "glowScore": 89,
+  "breakdown": {
+    "reviews": 36,
+    "ingredients": 28,
+    "safety": 14,
+    "value": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Bio-Collagen Film",
+      "benefit": "Hydrogel matrix that melts into skin to deliver deep hydration"
+    },
+    {
+      "name": "Niacinamide",
+      "benefit": "Evens skin tone and tightens pores overnight"
+    },
+    {
+      "name": "Adenosine",
+      "benefit": "Anti-wrinkle ingredient that stimulates collagen at night"
+    }
+  ],
+  "verdict": "BIODANCE Bio-Collagen Mask is a genuine innovation. The collagen hydrogel dissolves into the skin, making it one of the most effective single-use hydration treatments available. Remarkable pore-tightening visible by morning.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B2RM68G2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

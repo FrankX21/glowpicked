@@ -1,0 +1,28 @@
+{
+  "asin": "B000EPA4GQ",
+  "glowScore": 79,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 23,
+    "safety": 12,
+    "value": 10
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Avobenzone 3%",
+      "benefit": "Gold standard UVA filter for broad-spectrum coverage"
+    },
+    {
+      "name": "Homosalate 15%",
+      "benefit": "Chemical UVB filter with dry matte finish"
+    },
+    {
+      "name": "Helioplex Technology",
+      "benefit": "Neutrogena's stabilization system keeps UV filters effective longer"
+    }
+  ],
+  "verdict": "Neutrogena Dry-Touch offers reliable high-SPF protection with a uniquely matte finish ideal for oily skin. Chemical filters are effective but may irritate those with filter sensitivities.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EPA4GQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

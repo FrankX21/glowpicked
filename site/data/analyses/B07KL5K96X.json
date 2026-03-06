@@ -1,0 +1,28 @@
+{
+  "asin": "B07KL5K96X",
+  "glowScore": 85,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 27,
+    "safety": 15,
+    "value": 9
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Zinc Oxide 9%",
+      "benefit": "Broad-spectrum mineral UV protection, reef-safe"
+    },
+    {
+      "name": "Titanium Dioxide 6%",
+      "benefit": "Physical blocker for UVA/UVB with no skin penetration"
+    },
+    {
+      "name": "Hyaluronic Acid",
+      "benefit": "Maintains skin hydration under sun protection"
+    }
+  ],
+  "verdict": "CeraVe Mineral Sunscreen provides genuine broad-spectrum protection with a clean, reef-safe formula. The ceramide base keeps skin nourished while the mineral filters offer zero irritation risk for sensitive skin.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KL5K96X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

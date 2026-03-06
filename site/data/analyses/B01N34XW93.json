@@ -1,0 +1,28 @@
+{
+  "asin": "B01N34XW93",
+  "glowScore": 86,
+  "breakdown": {
+    "reviews": 35,
+    "ingredients": 27,
+    "safety": 14,
+    "value": 10
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Niacinamide",
+      "benefit": "Controls oil production and minimizes pores while cleansing"
+    },
+    {
+      "name": "Thermal Spring Water",
+      "benefit": "La Roche-Posay's signature soothing water for sensitive skin"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "Balanced moisture retention after foaming cleanser"
+    }
+  ],
+  "verdict": "La Roche-Posay Toleriane Purifying Cleanser is the gold standard for acne-prone and sensitive skin. The niacinamide base controls sebum without triggering irritation or breakouts.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N34XW93&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

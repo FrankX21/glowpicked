@@ -1,0 +1,28 @@
+{
+  "asin": "B0779YGB2G",
+  "glowScore": 85,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 27,
+    "safety": 12,
+    "value": 12
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Retinol 1%",
+      "benefit": "High-concentration pure retinol for maximum anti-aging efficacy"
+    },
+    {
+      "name": "Squalane",
+      "benefit": "Plant-derived oil that cushions skin against retinol irritation"
+    },
+    {
+      "name": "Tocopherol (Vitamin E)",
+      "benefit": "Antioxidant that protects the retinol formula and nourishes skin"
+    }
+  ],
+  "verdict": "The Ordinary Retinol 1% in Squalane is the highest-concentration budget retinol available. The squalane base significantly reduces irritation risk while maintaining efficacy. Not for beginners — start with a lower concentration.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0779YGB2G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

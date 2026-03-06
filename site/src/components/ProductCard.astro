@@ -1,0 +1,191 @@
+---
+/**
+ * ProductCard — GlowPicked
+ * Carte produit réutilisable avec image, GlowScore, pros/con, lien affilié.
+ */
+interface Props {
+  product: {
+    name: string;
+    asin: string;
+    rating?: number;
+    reviewCount?: number;
+    pros: string[];
+    con: string;
+    glowData?: {
+      glowScore?: number;
+      imageUrl?: string;
+      brand?: string;
+      price?: string;
+    } | null;
+  };
+  isTopPick?: boolean;
+}
+
+const { product, isTopPick = false } = Astro.props;
+const { glowData } = product;
+const affiliateUrl = `https://www.amazon.com/dp/${product.asin}/ref=nosim?tag=glowpicked0c-20`;
+const imageUrl = glowData?.imageUrl || '';
+---
+
+<div class="product-card" data-asin={product.asin}>
+  {isTopPick && <div class="top-pick-badge">🏅 Our Top Pick</div>}
+
+  {imageUrl && (
+    <div class="product-image-wrap">
+      <a href={affiliateUrl} target="_blank" rel="nofollow sponsored">
+        <img
+          src={imageUrl}
+          alt={product.name}
+          loading="lazy"
+          class="product-img"
+        />
+      </a>
+    </div>
+  )}
+
+  <h3 class="product-name">{product.name}</h3>
+
+  <div class="product-meta">
+    <span class="ai-badge">AI Analyzed</span>
+    {glowData?.glowScore && (
+      <span class="glow-score-mini">GlowScore {glowData.glowScore}/100</span>
+    )}
+  </div>
+
+  <ul class="pros-list">
+    {product.pros.map((pro) => (
+      <li>✅ {pro}</li>
+    ))}
+  </ul>
+
+  <div class="con">❌ {product.con}</div>
+
+  <div class="cta-wrapper">
+    <a href={affiliateUrl} class="cta-button" target="_blank" rel="nofollow sponsored">
+      Check Price on Amazon <span class="paid-link">(paid link)</span>
+    </a>
+  </div>
+</div>
+
+<style>
+  .product-card {
+    background: white;
+    border-radius: 16px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .product-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.13);
+  }
+
+  /* Image */
+  .product-image-wrap {
+    text-align: center;
+    margin-bottom: 0.25rem;
+  }
+  .product-img {
+    max-height: 200px;
+    max-width: 100%;
+    width: auto;
+    object-fit: contain;
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+  .product-img:hover { transform: scale(1.04); }
+
+  /* Top pick */
+  .top-pick-badge {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, #f093fb, #f5576c);
+    color: white;
+    padding: 0.3rem 1rem;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    white-space: nowrap;
+    box-shadow: 0 2px 10px rgba(240,83,251,0.35);
+  }
+
+  /* Meta */
+  .product-meta {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .ai-badge {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-weight: 600;
+  }
+  .glow-score-mini {
+    background: linear-gradient(135deg, #e91e63, #9c27b0);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-weight: 700;
+  }
+
+  .product-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    line-height: 1.35;
+    margin: 0;
+  }
+
+  /* Pros */
+  .pros-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .pros-list li {
+    font-size: 0.9rem;
+    color: #374151;
+    line-height: 1.4;
+  }
+
+  /* Con */
+  .con {
+    background: #fff5f5;
+    border-left: 3px solid #fc8181;
+    padding: 0.6rem 0.9rem;
+    border-radius: 0 8px 8px 0;
+    font-size: 0.88rem;
+    color: #c53030;
+  }
+
+  /* CTA */
+  .cta-wrapper { margin-top: auto; }
+  .cta-button {
+    display: block;
+    background: linear-gradient(135deg, #e91e63, #9c27b0);
+    color: white;
+    text-align: center;
+    padding: 0.85rem 1rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.95rem;
+    transition: opacity 0.2s, transform 0.15s;
+  }
+  .cta-button:hover { opacity: 0.9; transform: translateY(-1px); }
+  .paid-link { font-size: 0.78rem; opacity: 0.75; font-weight: 400; }
+</style>

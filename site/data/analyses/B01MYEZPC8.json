@@ -1,0 +1,28 @@
+{
+  "asin": "B01MYEZPC8",
+  "glowScore": 88,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 28,
+    "safety": 15,
+    "value": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Hyaluronic Acid (Multi-Molecular)",
+      "benefit": "Hydrates at multiple skin depths"
+    },
+    {
+      "name": "Panthenol (B5)",
+      "benefit": "Soothes and repairs skin barrier"
+    },
+    {
+      "name": "Glycerin",
+      "benefit": "Draws moisture into the skin"
+    }
+  ],
+  "verdict": "The Ordinary's HA 2% + B5 uses three molecular weights of hyaluronic acid for layered hydration rarely seen at this price point. Near-perfect safety profile and exceptional value make this a standout.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MYEZPC8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

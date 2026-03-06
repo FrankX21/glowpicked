@@ -1,0 +1,28 @@
+{
+  "asin": "B07PNCCLD2",
+  "glowScore": 84,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 26,
+    "safety": 13,
+    "value": 11
+  },
+  "tier": "budget",
+  "topIngredients": [
+    {
+      "name": "Ascorbic Acid (Vitamin C)",
+      "benefit": "Brightens skin and fades dark spots"
+    },
+    {
+      "name": "Hyaluronic Acid",
+      "benefit": "Deep multi-layer hydration"
+    },
+    {
+      "name": "Niacinamide",
+      "benefit": "Reduces redness and minimizes pores"
+    }
+  ],
+  "verdict": "A well-formulated vitamin C serum with stable ascorbic acid complemented by hyaluronic acid and ceramides. CeraVe's dermatologist-developed formula consistently delivers brightening results across skin types.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07PNCCLD2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}

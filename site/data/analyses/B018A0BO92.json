@@ -1,0 +1,28 @@
+{
+  "asin": "B018A0BO92",
+  "glowScore": 84,
+  "breakdown": {
+    "reviews": 34,
+    "ingredients": 26,
+    "safety": 14,
+    "value": 10
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    {
+      "name": "Kale (Brassica Oleracea)",
+      "benefit": "Rich in vitamins C and K for brightening and circulation"
+    },
+    {
+      "name": "Green Tea (EGCG)",
+      "benefit": "Potent antioxidant that fights environmental damage during cleansing"
+    },
+    {
+      "name": "Spinach Extract",
+      "benefit": "Lutein-rich ingredient that neutralizes free radicals"
+    }
+  ],
+  "verdict": "Youth To The People Superfood Cleanser is a premium gel cleanser with a genuinely impressive antioxidant profile. The pH-balanced formula removes makeup effectively without disrupting the skin microbiome.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018A0BO92&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US"
+}
