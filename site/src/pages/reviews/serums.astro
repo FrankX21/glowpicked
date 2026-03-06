@@ -1,167 +1,173 @@
 ---
-/**
- * BEST SERUMS 2026 - VERSION DYNAMIQUE 100% VÉRIDIQUE
- * Plus jamais de données hardcodées!
- * Utilise automatiquement real-review-counts.json
- * Auto-généré par generate-all-dynamic-pages.py
- */
 import Layout from '../../layouts/Layout.astro';
-import { processProductsList, generateProductSchema, generateGlobalStats } from '../../utils/realProductData.js';
+import { getGlowScore, getTopPickIndex, getScoreGradient } from '../../utils/glowScore.js';
 
-// DONNÉES DE BASE - Seules infos qu'on contrôle
-// Rating et reviewCount seront automatiquement récupérés des vraies données
-const baseProducts = {
+const productDefs = {
   budget: [
     {
-        "name": "CeraVe Vitamin C Serum",
-        "asin": "B07PNCCLD2",
-        "pros": [
-            "Stable vitamin C brightens skin",
-            "Hyaluronic acid adds hydration",
-            "Gentle for daily use"
-        ],
-        "con": "Light citrus scent"
+      name: "CeraVe Vitamin C Serum",
+      asin: "B07PNCCLD2",
+      pros: [
+        "Stable vitamin C brightens skin",
+        "Hyaluronic acid adds hydration",
+        "Gentle for daily use"
+      ],
+      con: "Light citrus scent"
     },
     {
-        "name": "The Ordinary Hyaluronic Acid 2% + B5",
-        "asin": "B01MYEZPC8",
-        "pros": [
-            "Multi-molecular weight HA",
-            "Affordable high performance",
-            "Improves skin plumpness"
-        ],
-        "con": "Sticky if over-applied"
-    },
-],
+      name: "The Ordinary Hyaluronic Acid 2% + B5",
+      asin: "B01MYEZPC8",
+      pros: [
+        "Multi-molecular weight HA",
+        "Affordable high performance",
+        "Improves skin plumpness"
+      ],
+      con: "Sticky if over-applied"
+    }
+  ],
   luxury: [
     {
-        "name": "RoC Retinol Correxion Deep Wrinkle Serum",
-        "asin": "B00387F42G",
-        "pros": [
-            "Pure retinol smooths wrinkles",
-            "Clinical results in weeks",
-            "Gentle for retinol beginners"
-        ],
-        "con": "Requires nighttime use"
+      name: "RoC Retinol Correxion Deep Wrinkle Serum",
+      asin: "B00387F42G",
+      pros: [
+        "Pure retinol smooths wrinkles",
+        "Clinical results in weeks",
+        "Gentle for retinol beginners"
+      ],
+      con: "Requires nighttime use"
     },
     {
-        "name": "The Ordinary Resveratrol 3% + Ferulic Acid 3%",
-        "asin": "B00VK5SERU",
-        "pros": [
-            "Antioxidant protection against aging",
-            "Ferulic acid boosts stability",
-            "Brightens and firms skin"
-        ],
-        "con": "May cause irritation"
+      name: "The Ordinary Resveratrol 3% + Ferulic Acid 3%",
+      asin: "B00VK5SERU",
+      pros: [
+        "Antioxidant protection against aging",
+        "Ferulic acid boosts stability",
+        "Brightens and firms skin"
+      ],
+      con: "May cause irritation"
     },
     {
-        "name": "The Ordinary Magnesium Ascorbyl Phosphate 10%",
-        "asin": "B0B2TKJVDH",
-        "pros": [
-            "Stable vitamin C derivative",
-            "Brightens hyperpigmentation",
-            "Gentle on sensitive skin"
-        ],
-        "con": "Results take time"
+      name: "The Ordinary Magnesium Ascorbyl Phosphate 10%",
+      asin: "B0B2TKJVDH",
+      pros: [
+        "Stable vitamin C derivative",
+        "Brightens hyperpigmentation",
+        "Gentle on sensitive skin"
+      ],
+      con: "Results take time"
     }
-]
+  ]
 };
 
-// FALLBACKS au cas où vraies données indisponibles (basé sur anciennes données hardcodées)
-const fallbacks = {
-  "B07PNCCLD2": {
-    "rating": 4.4,
-    "reviewCount": 43000
-  },
-  "B01MYEZPC8": {
-    "rating": 4.3,
-    "reviewCount": 32000
-  },
-  "B00387F42G": {
-    "rating": 4.5,
-    "reviewCount": 31000
-  },
-  "B00VK5SERU": {
-    "rating": 4.7,
-    "reviewCount": 12000
-  },
-  "B0B2TKJVDH": {
-    "rating": 4.7,
-    "reviewCount": 7000
-  }
-};
-
-// PROCESS avec vraies données
+// Enrich products with GlowScore data inline
 const products = {
-  budget: processProductsList(baseProducts.budget, fallbacks),
-  luxury: processProductsList(baseProducts.luxury, fallbacks)
+  budget: productDefs.budget.map(p => ({ ...p, glowData: getGlowScore(p.asin) })),
+  luxury: productDefs.luxury.map(p => ({ ...p, glowData: getGlowScore(p.asin) }))
 };
 
-// Find top pick in each tier (highest rating from REAL data)
-const budgetTopIdx = products.budget.reduce((best, p, i) => 
-  p.rating > products.budget[best].rating ? i : best, 0);
-const luxuryTopIdx = products.luxury.reduce((best, p, i) => 
-  p.rating > products.luxury[best].rating ? i : best, 0);
+const budgetTopIdx = getTopPickIndex(products.budget);
+const luxuryTopIdx = getTopPickIndex(products.luxury);
 
-// Generate schema with REAL data
-const allProducts = [...products.budget, ...products.luxury];
-const pageSchema = JSON.stringify(
-  generateProductSchema(allProducts, "Best Serums 2026 - Budget & Luxury Picks")
-);
+const schemaItems = [...products.budget, ...products.luxury].map((p, i) => ({
+  "@type": "ListItem",
+  "position": i + 1,
+  "item": {
+    "@type": "Product",
+    "name": p.name,
+    "url": `https://www.amazon.com/dp/${p.asin}/ref=nosim?tag=glowpicked0c-20`
+  }
+}));
 
-// Global stats for transparency
-const globalStats = generateGlobalStats();
-console.log('📊 serums Stats:', globalStats);
-
-// Log product validation for debugging
-allProducts.forEach(product => {
-  console.log(`✅ serums product:`, {
-    asin: product.asin,
-    rating: product.rating,
-    reviewCount: product.reviewCount,
-    dataSource: product.dataSource,
-    verified: product.verified
-  });
+const pageSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Best Serums 2026 - Budget & Luxury Picks",
+  "description": "AI-analyzed ingredient science for top serums",
+  "numberOfItems": 5,
+  "itemListElement": schemaItems
 });
 ---
 
-<Layout 
+<Layout
   title="Best Serums 2026 | GlowPicked"
-  description="We researched Amazon customer reviews to find the top vitamin C, hyaluronic, and retinol serums. All ratings verified from real data."
+  description="AI-analyzed ingredient science and customer insights for the top vitamin C, hyaluronic, and retinol serums."
 >
   <section class="products-section">
     <div class="container">
       <div class="page-header">
         <h1>Best Serums 2026</h1>
-        <p class="last-updated">📅 Last updated: February 2026 | 📊 Data verified: {globalStats.verifiedCount} products</p>
-        <p class="lead-text">All ratings and review counts verified against real Amazon data - no invented numbers!</p>
+        <p class="last-updated">📅 Last updated: February 2026</p>
+        <p class="lead-text">AI ingredient analysis + real customer insights — scored /100 with our GlowScore system</p>
       </div>
 
       <section class="budget-section">
         <h2><span class="accent-budget">🏆 Top Budget Picks</span> (Under $30)</h2>
         <div class="products-grid">
           {products.budget.map((product, index) => (
-            <div class="product-card" key={product.asin} data-asin={product.asin}>
-              {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
+            <div class="product-card" data-asin={product.asin}>
+              {index === budgetTopIdx && product.glowData?.glowAiTopPick && (
+                <div class="glow-top-pick-badge">✨ GlowAI Top Pick</div>
+              )}
+              {index === budgetTopIdx && !product.glowData?.glowAiTopPick && (
+                <div class="top-pick-badge">🏅 Our Top Pick</div>
+              )}
+
               <h3 class="product-name">{product.name}</h3>
-              <div class="product-meta">
-                <span class="rating">{product.rating.toFixed(1)}⭐</span>
-                <span class="reviews">
-                  Based on {product.reviewCount.toLocaleString()}+ verified Amazon ratings
-                  {product.dataSource === 'real-data' && <span class="verified-badge">✓ Verified</span>}
-                </span>
-              </div>
+
+              {product.glowData ? (
+                <div class="glowscore-block">
+                  <div class="glowscore-display">
+                    <span class="score-number" style={`background: ${getScoreGradient(product.glowData.glowScore)}; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;`}>
+                      {product.glowData.glowScore}
+                    </span>
+                    <span class="score-label">/100</span>
+                    <span class="score-title">GlowScore™</span>
+                  </div>
+                  <div class="score-bar-track">
+                    <div class="score-bar-fill" style={`width: ${product.glowData.glowScore}%; background: ${getScoreGradient(product.glowData.glowScore)};`}></div>
+                  </div>
+                  <div class="score-breakdown">
+                    <span title="Customer satisfaction">Reviews {product.glowData.breakdown.reviews}/40</span>
+                    <span title="Ingredient science">Science {product.glowData.breakdown.ingredients}/30</span>
+                    <span title="Safety profile">Safety {product.glowData.breakdown.safety}/15</span>
+                    <span title="Value for money">Value {product.glowData.breakdown.value}/15</span>
+                  </div>
+                </div>
+              ) : (
+                <div class="product-meta"><span class="ai-badge">AI Analyzed</span></div>
+              )}
+
+              {product.glowData?.topIngredients && (
+                <div class="ingredients-block">
+                  <p class="ingredients-title">Top Ingredients</p>
+                  <ul class="ingredients-list">
+                    {product.glowData.topIngredients.map((ing) => (
+                      <li>
+                        <span class="ing-name">{ing.name}</span>
+                        <span class="ing-benefit">{ing.benefit}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {product.glowData?.verdict && (
+                <div class="verdict-block">
+                  <p class="verdict-label">GlowAI Verdict</p>
+                  <p class="verdict-text">{product.glowData.verdict}</p>
+                </div>
+              )}
+
               <ul class="pros-list">
-                {product.pros.map((pro, i) => (
-                  <li key={i}>✅ {pro}</li>
+                {product.pros.map((pro) => (
+                  <li>✅ {pro}</li>
                 ))}
               </ul>
-              <div class="con">
-                ❌ {product.con}
-              </div>
+              <div class="con">❌ {product.con}</div>
+
               <div class="cta-wrapper">
                 <a href={`https://www.amazon.com/dp/${product.asin}/ref=nosim?tag=glowpicked0c-20`} class="cta-button" target="_blank" rel="nofollow sponsored">
-                  Check Price on Amazon
+                  Check Price on Amazon <span class="paid-link">(affiliate link)</span>
                 </a>
               </div>
             </div>
@@ -173,27 +179,70 @@ allProducts.forEach(product => {
         <h2><span class="accent-luxury">💎 Top 3 Luxury</span></h2>
         <div class="products-grid">
           {products.luxury.map((product, index) => (
-            <div class="product-card" key={product.asin} data-asin={product.asin}>
-              {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
+            <div class="product-card" data-asin={product.asin}>
+              {index === luxuryTopIdx && product.glowData?.glowAiTopPick && (
+                <div class="glow-top-pick-badge">✨ GlowAI Top Pick</div>
+              )}
+              {index === luxuryTopIdx && !product.glowData?.glowAiTopPick && (
+                <div class="top-pick-badge">🏅 Our Top Pick</div>
+              )}
+
               <h3 class="product-name">{product.name}</h3>
-              <div class="product-meta">
-                <span class="rating">{product.rating.toFixed(1)}⭐</span>
-                <span class="reviews">
-                  Based on {product.reviewCount.toLocaleString()}+ verified Amazon ratings
-                  {product.dataSource === 'real-data' && <span class="verified-badge">✓ Verified</span>}
-                </span>
-              </div>
+
+              {product.glowData ? (
+                <div class="glowscore-block">
+                  <div class="glowscore-display">
+                    <span class="score-number" style={`background: ${getScoreGradient(product.glowData.glowScore)}; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;`}>
+                      {product.glowData.glowScore}
+                    </span>
+                    <span class="score-label">/100</span>
+                    <span class="score-title">GlowScore™</span>
+                  </div>
+                  <div class="score-bar-track">
+                    <div class="score-bar-fill" style={`width: ${product.glowData.glowScore}%; background: ${getScoreGradient(product.glowData.glowScore)};`}></div>
+                  </div>
+                  <div class="score-breakdown">
+                    <span title="Customer satisfaction">Reviews {product.glowData.breakdown.reviews}/40</span>
+                    <span title="Ingredient science">Science {product.glowData.breakdown.ingredients}/30</span>
+                    <span title="Safety profile">Safety {product.glowData.breakdown.safety}/15</span>
+                    <span title="Value for money">Value {product.glowData.breakdown.value}/15</span>
+                  </div>
+                </div>
+              ) : (
+                <div class="product-meta"><span class="ai-badge">AI Analyzed</span></div>
+              )}
+
+              {product.glowData?.topIngredients && (
+                <div class="ingredients-block">
+                  <p class="ingredients-title">Top Ingredients</p>
+                  <ul class="ingredients-list">
+                    {product.glowData.topIngredients.map((ing) => (
+                      <li>
+                        <span class="ing-name">{ing.name}</span>
+                        <span class="ing-benefit">{ing.benefit}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {product.glowData?.verdict && (
+                <div class="verdict-block">
+                  <p class="verdict-label">GlowAI Verdict</p>
+                  <p class="verdict-text">{product.glowData.verdict}</p>
+                </div>
+              )}
+
               <ul class="pros-list">
-                {product.pros.map((pro, i) => (
-                  <li key={i}>✅ {pro}</li>
+                {product.pros.map((pro) => (
+                  <li>✅ {pro}</li>
                 ))}
               </ul>
-              <div class="con">
-                ❌ {product.con}
-              </div>
+              <div class="con">❌ {product.con}</div>
+
               <div class="cta-wrapper">
                 <a href={`https://www.amazon.com/dp/${product.asin}/ref=nosim?tag=glowpicked0c-20`} class="cta-button" target="_blank" rel="nofollow sponsored">
-                  Check Price on Amazon
+                  Check Price on Amazon <span class="paid-link">(affiliate link)</span>
                 </a>
               </div>
             </div>
@@ -203,31 +252,15 @@ allProducts.forEach(product => {
     </div>
   </section>
 
-  <section class="transparency-section">
-    <div class="container">
-      <h2>🔍 Data Transparency</h2>
-      <p>
-        <strong>100% Verified Data:</strong> All ratings and review counts are automatically synchronized with real Amazon data. 
-        We've analyzed {globalStats.totalReviews.toLocaleString()} total reviews across {globalStats.totalProducts} products. 
-        No invented numbers - if we don't have verified data, we clearly mark it.
-      </p>
-      <p class="data-timestamp">Data last synchronized: {new Date().toLocaleDateString()}</p>
-    </div>
-  </section>
-
   <section class="methodology-section">
     <div class="container">
       <h2>How We Pick Products</h2>
       <p>
-        Our team uses AI tools to research popular Amazon products in each category.
-        We look at overall ratings, review volume, common praise and complaints, and value for money.
-        Products are selected based on consistent positive feedback from real customers.
-        We do not physically test products — our recommendations are based entirely on
-        published customer review data from Amazon.
+        Our AI evaluates each product using established cosmetic science and ingredient research, combined with real Amazon customer ratings and review volume. Products are scored using our GlowScore methodology — evaluating ingredient quality, safety profile, customer satisfaction, and value for money. We select the top 3 budget and top 3 luxury picks in every category.
       </p>
     </div>
   </section>
-  
+
   <section class="disclaimer-section">
     <div class="container">
       <p>
@@ -242,7 +275,6 @@ allProducts.forEach(product => {
 </Layout>
 
 <style>
-  /* Styles basiques - peut être étendu selon le besoin */
   :root {
     --green-budget: #28a745;
     --purple-luxury: #6f42c1;
@@ -256,32 +288,61 @@ allProducts.forEach(product => {
   .budget-section h2 { color: var(--text); font-size: 2rem; margin-bottom: 2rem; font-family: 'Playfair Display', serif; }
   .accent-budget { color: var(--green-budget); }
   .accent-luxury { color: var(--purple-luxury); }
-  .products-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2rem; }
+  .products-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 2rem; }
   @media (max-width: 768px) { .products-grid { grid-template-columns: 1fr; gap: 1.5rem; } }
+
+  /* Product card */
   .product-card { background: white; border-radius: var(--border-radius); box-shadow: var(--shadow); padding: 2rem; transition: all 0.3s ease; position: relative; }
   .product-card:hover { box-shadow: var(--shadow-lg); transform: translateY(-4px); }
-  .product-name { font-size: 1.4rem; font-weight: 700; margin-bottom: 1rem; color: var(--text); font-family: 'Playfair Display', serif; }
+  .product-name { font-size: 1.4rem; font-weight: 700; margin-bottom: 1.2rem; color: var(--text); font-family: 'Playfair Display', serif; }
   .product-meta { display: flex; gap: 1rem; align-items: center; margin-bottom: 1.5rem; flex-wrap: wrap; }
-  .rating { font-size: 1.2rem; font-weight: 700; color: #ffc107; }
-  .reviews { color: var(--text-light); font-size: 0.95rem; }
-  .verified-badge { background: #28a745; color: white; padding: 0.2rem 0.5rem; border-radius: 12px; font-size: 0.8rem; font-weight: 600; margin-left: 0.5rem; }
-  .data-warning { background: #ffc107; color: #000; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; font-weight: 600; position: absolute; top: 1rem; right: 1rem; }
+
+  /* GlowScore block */
+  .glowscore-block { background: linear-gradient(135deg, #fdf2f8, #f3e5f5); border-radius: 12px; padding: 1.25rem; margin-bottom: 1.5rem; }
+  .glowscore-display { display: flex; align-items: baseline; gap: 0.3rem; margin-bottom: 0.75rem; }
+  .score-number { font-size: 3rem; font-weight: 800; line-height: 1; }
+  .score-label { font-size: 1.2rem; font-weight: 600; color: #888; }
+  .score-title { font-size: 0.85rem; font-weight: 700; color: #9c27b0; letter-spacing: 0.05em; text-transform: uppercase; margin-left: 0.5rem; }
+  .score-bar-track { background: #e0e0e0; border-radius: 50px; height: 8px; margin-bottom: 0.75rem; overflow: hidden; }
+  .score-bar-fill { height: 100%; border-radius: 50px; transition: width 0.6s ease; }
+  .score-breakdown { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .score-breakdown span { font-size: 0.78rem; background: rgba(255,255,255,0.7); padding: 0.2rem 0.5rem; border-radius: 20px; color: #555; font-weight: 600; cursor: help; }
+
+  /* Ingredients block */
+  .ingredients-block { margin-bottom: 1.5rem; }
+  .ingredients-title { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: #9c27b0; margin-bottom: 0.6rem; }
+  .ingredients-list { list-style: none; }
+  .ingredients-list li { margin-bottom: 0.5rem; display: flex; flex-direction: column; gap: 0.1rem; }
+  .ing-name { font-size: 0.9rem; font-weight: 700; color: var(--text); }
+  .ing-benefit { font-size: 0.85rem; color: #666; }
+
+  /* Verdict block */
+  .verdict-block { background: #f8f9fa; border-left: 3px solid #9c27b0; padding: 0.9rem 1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.5rem; }
+  .verdict-label { font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: #9c27b0; margin-bottom: 0.3rem; }
+  .verdict-text { font-size: 0.92rem; color: #444; line-height: 1.5; margin: 0; }
+
+  /* Pros / Con */
   .pros-list { list-style: none; margin-bottom: 1.5rem; }
   .pros-list li { margin-bottom: 0.5rem; color: var(--text); font-size: 1rem; }
   .con { background: #f8f9fa; padding: 1rem; border-left: 4px solid #dc3545; margin-bottom: 1.5rem; color: var(--text); border-radius: 0 8px 8px 0; }
+
+  /* CTA */
   .cta-button { display: inline-block; background: linear-gradient(135deg, var(--primary), var(--primary-dark)); color: white; text-decoration: none; padding: 0.7rem 1.8rem; text-align: center; font-weight: 600; font-size: 0.95rem; border-radius: 50px; transition: all 0.3s ease; }
   .cta-wrapper { text-align: center; }
   .cta-button:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
-  .transparency-section { background: #e8f5e8; padding: 3rem 0; text-align: center; }
-  .transparency-section h2 { font-size: 2rem; margin-bottom: 1.5rem; color: var(--green-budget); font-family: 'Playfair Display', serif; }
-  .transparency-section p { max-width: 800px; margin: 0 auto 1rem; font-size: 1.1rem; line-height: 1.7; color: var(--text); }
-  .data-timestamp { font-size: 0.9rem; color: var(--text-light); font-style: italic; }
+
+  /* Badges */
+  .top-pick-badge { background: linear-gradient(135deg, #ff6f00, #ff8f00); color: white; padding: 0.4rem 1rem; border-radius: 50px; font-size: 0.85rem; font-weight: 700; display: inline-block; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(255,111,0,0.3); letter-spacing: 0.02em; }
+  .glow-top-pick-badge { background: linear-gradient(135deg, #f57f17, #ffa000, #ff8f00); color: white; padding: 0.4rem 1rem; border-radius: 50px; font-size: 0.85rem; font-weight: 700; display: inline-block; margin-bottom: 0.75rem; box-shadow: 0 3px 12px rgba(255,160,0,0.4); letter-spacing: 0.02em; }
+  .ai-badge { background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+  .paid-link { font-size: 0.75rem; color: #999; font-weight: 400; }
+  .last-updated { text-align: center; color: #888; font-size: 0.9rem; margin-top: -0.5rem; margin-bottom: 2rem; }
+
+  /* Sections */
   .methodology-section { background: var(--bg-light); padding: 4rem 0; }
   .methodology-section h2 { text-align: center; font-size: 2rem; margin-bottom: 2rem; font-family: 'Playfair Display', serif; }
   .methodology-section p { max-width: 800px; margin: 0 auto; font-size: 1.1rem; line-height: 1.7; color: var(--text); }
   .disclaimer-section { padding: 3rem 0; background: #f8f9fa; }
   .disclaimer-section p { text-align: center; max-width: 800px; margin: 0 auto 1rem; color: var(--text-light); font-size: 0.95rem; }
   .affiliate-disclosure { font-size: 0.9rem; background: rgba(233, 30, 99, 0.1); padding: 1rem; border-radius: var(--border-radius); border-left: 4px solid var(--primary); }
-  .last-updated { text-align: center; color: #888; font-size: 0.9rem; margin-top: -0.5rem; margin-bottom: 2rem; }
-  .top-pick-badge { background: linear-gradient(135deg, #ff6f00, #ff8f00); color: white; padding: 0.4rem 1rem; border-radius: 50px; font-size: 0.85rem; font-weight: 700; display: inline-block; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(255,111,0,0.3); letter-spacing: 0.02em; }
 </style>

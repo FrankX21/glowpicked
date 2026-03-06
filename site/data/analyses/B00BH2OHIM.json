@@ -1,0 +1,35 @@
+{
+  "asin": "B00BH2OHIM",
+  "glowScore": 83,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Chronolux Technology",
+    "Hyaluronic Acid",
+    "Peptides"
+  ],
+  "verdict": "Heritage luxury brand serum with proprietary Chronolux technology and peptide complex targeting fine lines around the eye area. Premium positioning justified by consistent consumer results, though formula is relatively conservative for the price tier.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BH2OHIM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Estée Lauder",
+  "price": "$68",
+  "_research": {
+    "name": "Estée Lauder Advanced Night Repair Eye Serum",
+    "rating": 4.5,
+    "reviewCount": 7800,
+    "pros": [
+      "Brand heritage and research backing",
+      "Effective on fine lines",
+      "Elegant packaging"
+    ],
+    "con": "Premium price point reflects brand value more than innovative ingredient technology.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

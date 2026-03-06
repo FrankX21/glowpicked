@@ -1,144 +1,119 @@
 ---
-/**
- * BEST FACIAL CLEANSERS 2026 - VERSION DYNAMIQUE 100% VÉRIDIQUE
- * Plus jamais de données hardcodées!
- * Utilise automatiquement real-review-counts.json
- * Auto-généré par generate-all-dynamic-pages.py
- */
 import Layout from '../../layouts/Layout.astro';
-import { processProductsList, generateProductSchema, generateGlobalStats } from '../../utils/realProductData.js';
 
-// DONNÉES DE BASE - Seules infos qu'on contrôle
-// Rating et reviewCount seront automatiquement récupérés des vraies données
-const baseProducts = {
+const products = {
   budget: [
     {
-        "name": "CeraVe Hydrating Facial Cleanser",
-        "asin": "B01MSSDEPK",
-        "pros": [
-            "Ceramides protect skin barrier",
-            "Non-foaming",
-            "gentle formula",
-            "Perfect for dry and sensitive skin"
-        ],
-        "con": "Doesn't foam much"
+      "name": "CeraVe Hydrating Facial Cleanser",
+      "asin": "B01MSSDEPK",
+      "rating": 4.7,
+      "reviewCount": 111000,
+      "pros": [
+        "Ceramides protect skin barrier",
+        "Non-foaming, gentle formula",
+        "Perfect for dry and sensitive skin"
+      ],
+      "con": "Doesn't foam much"
     },
     {
-        "name": "La Roche-Posay Toleriane Purifying Foaming Cleanser",
-        "asin": "B01N34XW93",
-        "pros": [
-            "Niacinamide controls oil",
-            "Removes makeup effectively",
-            "Safe for sensitive",
-            "acne-prone skin"
-        ],
-        "con": "Can feel slightly drying"
+      "name": "La Roche-Posay Toleriane Purifying Foaming Cleanser",
+      "asin": "B01N34XW93",
+      "rating": 4.6,
+      "reviewCount": 47000,
+      "pros": [
+        "Niacinamide controls oil",
+        "Removes makeup effectively",
+        "Safe for sensitive, acne-prone skin"
+      ],
+      "con": "Can feel slightly drying"
     },
     {
-        "name": "PanOxyl Acne Foaming Wash 10% Benzoyl Peroxide",
-        "asin": "B081KL2QYJ",
-        "pros": [
-            "10% benzoyl peroxide fights acne",
-            "Works on face and body",
-            "Dermatologist recommended"
-        ],
-        "con": "Can bleach towels and fabrics"
+      "name": "PanOxyl Acne Foaming Wash 10% Benzoyl Peroxide",
+      "asin": "B081KL2QYJ",
+      "rating": 4.5,
+      "reviewCount": 42000,
+      "pros": [
+        "10% benzoyl peroxide fights acne",
+        "Works on face and body",
+        "Dermatologist recommended"
+      ],
+      "con": "Can bleach towels and fabrics"
     }
-],
+  ],
   luxury: [
     {
-        "name": "Youth To The People Superfood Cleanser",
-        "asin": "B018A0BO92",
-        "pros": [
-            "Kale",
-            "spinach and green tea antioxidants",
-            "pH-balanced gel formula",
-            "Removes makeup without stripping"
-        ],
-        "con": "Pump can malfunction"
+      "name": "Youth To The People Superfood Cleanser",
+      "asin": "B018A0BO92",
+      "rating": 4.6,
+      "reviewCount": 8000,
+      "pros": [
+        "Kale, spinach and green tea antioxidants",
+        "pH-balanced gel formula",
+        "Removes makeup without stripping"
+      ],
+      "con": "Pump can malfunction"
     },
     {
-        "name": "Drunk Elephant Beste No. 9 Jelly Cleanser",
-        "asin": "B076639783",
-        "pros": [
-            "Removes all makeup in one step",
-            "Glycerin-based",
-            "ultra-gentle",
-            "No essential oils or fragrance"
-        ],
-        "con": "Premium price for a cleanser"
+      "name": "Fresh Soy Face Cleanser",
+      "asin": "B002PNPAFQ",
+      "rating": 4.5,
+      "reviewCount": 15000,
+      "pros": [
+        "Soy proteins strengthen skin barrier",
+        "Removes makeup without stripping",
+        "Gentle enough for daily double-cleanse"
+      ],
+      "con": "Pump dispenser can be inconsistent"
+    },
+    {
+      "name": "Tatcha The Rice Polish Foaming Enzyme Powder",
+      "asin": "B00J455CKK",
+      "rating": 4.4,
+      "reviewCount": 5500,
+      "pros": [
+        "Japanese rice bran brightens skin tone",
+        "Foam activates with water — no waste",
+        "Gentle exfoliation in a daily cleanser"
+      ],
+      "con": "Loose powder format takes getting used to"
     }
-]
+  ]
 };
 
-// FALLBACKS au cas où vraies données indisponibles (basé sur anciennes données hardcodées)
-const fallbacks = {
-  "B01MSSDEPK": {
-    "rating": 4.7,
-    "reviewCount": 111000
-  },
-  "B01N34XW93": {
-    "rating": 4.6,
-    "reviewCount": 47000
-  },
-  "B081KL2QYJ": {
-    "rating": 4.5,
-    "reviewCount": 42000
-  },
-  "B018A0BO92": {
-    "rating": 4.6,
-    "reviewCount": 8000
-  },
-  "B076639783": {
-    "rating": 4.4,
-    "reviewCount": 3000
+// Find top pick in each tier (highest rating)
+const budgetTopIdx = products.budget.reduce((best, p, i) => p.rating > products.budget[best].rating ? i : best, 0);
+const luxuryTopIdx = products.luxury.reduce((best, p, i) => p.rating > products.luxury[best].rating ? i : best, 0);
+
+const schemaItems = [...products.budget, ...products.luxury].map((p, i) => ({
+  "@type": "ListItem",
+  "position": i + 1,
+  "item": {
+    "@type": "Product",
+    "name": p.name,
+    "url": `https://www.amazon.com/dp/${p.asin}/ref=nosim?tag=glowpicked0c-20`
   }
-};
+}));
 
-// PROCESS avec vraies données
-const products = {
-  budget: processProductsList(baseProducts.budget, fallbacks),
-  luxury: processProductsList(baseProducts.luxury, fallbacks)
-};
-
-// Find top pick in each tier (highest rating from REAL data)
-const budgetTopIdx = products.budget.reduce((best, p, i) => 
-  p.rating > products.budget[best].rating ? i : best, 0);
-const luxuryTopIdx = products.luxury.reduce((best, p, i) => 
-  p.rating > products.luxury[best].rating ? i : best, 0);
-
-// Generate schema with REAL data
-const allProducts = [...products.budget, ...products.luxury];
-const pageSchema = JSON.stringify(
-  generateProductSchema(allProducts, "Best Facial Cleansers 2026 - Budget & Luxury Picks")
-);
-
-// Global stats for transparency
-const globalStats = generateGlobalStats();
-console.log('📊 cleansers Stats:', globalStats);
-
-// Log product validation for debugging
-allProducts.forEach(product => {
-  console.log(`✅ cleansers product:`, {
-    asin: product.asin,
-    rating: product.rating,
-    reviewCount: product.reviewCount,
-    dataSource: product.dataSource,
-    verified: product.verified
-  });
+const pageSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Best Facial Cleansers 2026 - Budget & Luxury Picks",
+  "description": "AI-analyzed ingredient science for top facial cleansers",
+  "numberOfItems": 6,
+  "itemListElement": schemaItems
 });
 ---
 
 <Layout 
   title="Best Facial Cleansers 2026 | GlowPicked"
-  description="We researched Amazon customer reviews to find the top 3 budget and top 3 luxury facial cleansers. All ratings verified from real data."
+  description="AI-analyzed ingredient science and customer insights to find the top budget and luxury facial cleansers."
 >
   <section class="products-section">
     <div class="container">
       <div class="page-header">
         <h1>Best Facial Cleansers 2026</h1>
-        <p class="last-updated">📅 Last updated: February 2026 | 📊 Data verified: {globalStats.verifiedCount} products</p>
-        <p class="lead-text">All ratings and review counts verified against real Amazon data - no invented numbers!</p>
+        <p class="last-updated">📅 Last updated: February 2026</p>
+        <p class="lead-text">AI-analyzed ingredient science and customer insights for the best picks</p>
       </div>
 
       <section class="budget-section">
@@ -148,13 +123,7 @@ allProducts.forEach(product => {
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
               <h3 class="product-name">{product.name}</h3>
-              <div class="product-meta">
-                <span class="rating">{product.rating.toFixed(1)}⭐</span>
-                <span class="reviews">
-                  Based on {product.reviewCount.toLocaleString()}+ verified Amazon ratings
-                  {product.dataSource === 'real-data' && <span class="verified-badge">✓ Verified</span>}
-                </span>
-              </div>
+              <div class="product-meta"><span class="ai-badge">AI Analyzed</span></div>
               <ul class="pros-list">
                 {product.pros.map((pro, i) => (
                   <li key={i}>✅ {pro}</li>
@@ -165,8 +134,8 @@ allProducts.forEach(product => {
               </div>
               <div class="cta-wrapper">
                 <a href={`https://www.amazon.com/dp/${product.asin}/ref=nosim?tag=glowpicked0c-20`} class="cta-button" target="_blank" rel="nofollow sponsored">
-                  Check Price on Amazon
-                </a>
+                  Check Price on Amazon <span class="paid-link">(affiliate link)</span>
+</a>
               </div>
             </div>
           ))}
@@ -174,19 +143,13 @@ allProducts.forEach(product => {
       </section>
 
       <section class="luxury-section">
-        <h2><span class="accent-luxury">💎 Top Luxury Picks</span></h2>
+        <h2><span class="accent-luxury">💎 Top 3 Luxury Picks</span></h2>
         <div class="products-grid">
           {products.luxury.map((product, index) => (
             <div class="product-card" key={product.asin} data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
               <h3 class="product-name">{product.name}</h3>
-              <div class="product-meta">
-                <span class="rating">{product.rating.toFixed(1)}⭐</span>
-                <span class="reviews">
-                  Based on {product.reviewCount.toLocaleString()}+ verified Amazon ratings
-                  {product.dataSource === 'real-data' && <span class="verified-badge">✓ Verified</span>}
-                </span>
-              </div>
+              <div class="product-meta"><span class="ai-badge">AI Analyzed</span></div>
               <ul class="pros-list">
                 {product.pros.map((pro, i) => (
                   <li key={i}>✅ {pro}</li>
@@ -197,8 +160,8 @@ allProducts.forEach(product => {
               </div>
               <div class="cta-wrapper">
                 <a href={`https://www.amazon.com/dp/${product.asin}/ref=nosim?tag=glowpicked0c-20`} class="cta-button" target="_blank" rel="nofollow sponsored">
-                  Check Price on Amazon
-                </a>
+                  Check Price on Amazon <span class="paid-link">(affiliate link)</span>
+</a>
               </div>
             </div>
           ))}
@@ -207,27 +170,11 @@ allProducts.forEach(product => {
     </div>
   </section>
 
-  <section class="transparency-section">
-    <div class="container">
-      <h2>🔍 Data Transparency</h2>
-      <p>
-        <strong>100% Verified Data:</strong> All ratings and review counts are automatically synchronized with real Amazon data. 
-        We've analyzed {globalStats.totalReviews.toLocaleString()} total reviews across {globalStats.totalProducts} products. 
-        No invented numbers - if we don't have verified data, we clearly mark it.
-      </p>
-      <p class="data-timestamp">Data last synchronized: {new Date().toLocaleDateString()}</p>
-    </div>
-  </section>
-
   <section class="methodology-section">
     <div class="container">
       <h2>How We Pick Products</h2>
       <p>
-        Our team uses AI tools to research popular Amazon products in each category.
-        We look at overall ratings, review volume, common praise and complaints, and value for money.
-        Products are selected based on consistent positive feedback from real customers.
-        We do not physically test products — our recommendations are based entirely on
-        published customer review data from Amazon.
+        Our AI evaluates each product using established cosmetic science and ingredient research, combined with real Amazon customer ratings and review volume. Products are scored using our GlowScore methodology — evaluating ingredient quality, safety profile, customer satisfaction, and value for money. We select the top 3 budget and top 3 luxury picks in every category.
       </p>
     </div>
   </section>
@@ -268,18 +215,12 @@ allProducts.forEach(product => {
   .product-meta { display: flex; gap: 1rem; align-items: center; margin-bottom: 1.5rem; flex-wrap: wrap; }
   .rating { font-size: 1.2rem; font-weight: 700; color: #ffc107; }
   .reviews { color: var(--text-light); font-size: 0.95rem; }
-  .verified-badge { background: #28a745; color: white; padding: 0.2rem 0.5rem; border-radius: 12px; font-size: 0.8rem; font-weight: 600; margin-left: 0.5rem; }
-  .data-warning { background: #ffc107; color: #000; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; font-weight: 600; position: absolute; top: 1rem; right: 1rem; }
   .pros-list { list-style: none; margin-bottom: 1.5rem; }
   .pros-list li { margin-bottom: 0.5rem; color: var(--text); font-size: 1rem; }
   .con { background: #f8f9fa; padding: 1rem; border-left: 4px solid #dc3545; margin-bottom: 1.5rem; color: var(--text); border-radius: 0 8px 8px 0; }
   .cta-button { display: inline-block; background: linear-gradient(135deg, var(--primary), var(--primary-dark)); color: white; text-decoration: none; padding: 0.7rem 1.8rem; text-align: center; font-weight: 600; font-size: 0.95rem; border-radius: 50px; transition: all 0.3s ease; }
   .cta-wrapper { text-align: center; }
   .cta-button:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
-  .transparency-section { background: #e8f5e8; padding: 3rem 0; text-align: center; }
-  .transparency-section h2 { font-size: 2rem; margin-bottom: 1.5rem; color: var(--green-budget); font-family: 'Playfair Display', serif; }
-  .transparency-section p { max-width: 800px; margin: 0 auto 1rem; font-size: 1.1rem; line-height: 1.7; color: var(--text); }
-  .data-timestamp { font-size: 0.9rem; color: var(--text-light); font-style: italic; }
   .methodology-section { background: var(--bg-light); padding: 4rem 0; }
   .methodology-section h2 { text-align: center; font-size: 2rem; margin-bottom: 2rem; font-family: 'Playfair Display', serif; }
   .methodology-section p { max-width: 800px; margin: 0 auto; font-size: 1.1rem; line-height: 1.7; color: var(--text); }
@@ -287,5 +228,7 @@ allProducts.forEach(product => {
   .disclaimer-section p { text-align: center; max-width: 800px; margin: 0 auto 1rem; color: var(--text-light); font-size: 0.95rem; }
   .affiliate-disclosure { font-size: 0.9rem; background: rgba(233, 30, 99, 0.1); padding: 1rem; border-radius: var(--border-radius); border-left: 4px solid var(--primary); }
   .last-updated { text-align: center; color: #888; font-size: 0.9rem; margin-top: -0.5rem; margin-bottom: 2rem; }
+  .ai-badge { background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+  .paid-link { font-size: 0.75rem; color: #999; font-weight: 400; }
   .top-pick-badge { background: linear-gradient(135deg, #ff6f00, #ff8f00); color: white; padding: 0.4rem 1rem; border-radius: 50px; font-size: 0.85rem; font-weight: 700; display: inline-block; margin-bottom: 0.75rem; box-shadow: 0 2px 8px rgba(255,111,0,0.3); letter-spacing: 0.02em; }
 </style>

@@ -1,0 +1,17 @@
+{
+  "asin": "B000NZFPLM",
+  "glowScore": 88,
+  "breakdown": {
+    "reviewsSatisfaction": 38,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": ["Avocado Oil", "Shea Butter", "Beta-Carotene"],
+  "verdict": "Kiehl's Creamy Eye Treatment is a legendary formula that has stood the test of time. The rich avocado oil base delivers deep nourishment to the delicate eye area, making it ideal for mature or very dry skin. Consistent use visibly reduces fine lines and puffiness.",
+  "glowAiTopPick": true,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000NZFPLM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Kiehl's",
+  "price": "$35"
+}

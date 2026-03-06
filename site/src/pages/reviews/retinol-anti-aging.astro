@@ -54,13 +54,7 @@ const schemaItems = [...products.budget, ...products.luxury].map((p, i) => ({
   "item": {
     "@type": "Product",
     "name": p.name,
-    "url": `https://www.amazon.com/dp/${p.asin}/ref=nosim?tag=glowpicked0c-20`,
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": p.rating,
-      "bestRating": 5,
-      "reviewCount": p.reviewCount
-    }
+    "url": `https://www.amazon.com/dp/${p.asin}/ref=nosim?tag=glowpicked0c-20`
   }
 }));
 
@@ -68,7 +62,7 @@ const pageSchema = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": `Best Retinol Anti Aging 2026 - Budget & Luxury Picks`,
-  "description": `AI-analyzed reviews for top retinol anti aging on Amazon`,
+  "description": "AI-analyzed ingredient science for top retinol and anti-aging products",
   "numberOfItems": 3,
   "itemListElement": schemaItems
 });
@@ -76,14 +70,14 @@ const pageSchema = JSON.stringify({
 
 <Layout 
   title="Best Retinol & Anti-Aging Products 2026 | Top Budget & Luxury | GlowPicked"
-  description="We researched Amazon customer reviews to find the top 3 budget and top 3 luxury best retinol & anti-aging products on Amazon."
+  description="AI-analyzed ingredient science and customer insights to find the top budget and luxury retinol and anti-aging products."
 >
   <section class="products-section">
     <div class="container">
       <div class="page-header">
         <h1>Best Retinol & Anti-Aging Products</h1>
         <p class="last-updated">📅 Last updated: February 2026</p>
-        <p class="lead-text">We researched top-rated Amazon products and customer reviews to find the best picks</p>
+        <p class="lead-text">AI-analyzed ingredient science and customer insights for the best picks</p>
       </div>
 
       <section class="budget-section">
@@ -93,10 +87,7 @@ const pageSchema = JSON.stringify({
             <div class="product-card" data-asin={product.asin}>
               {index === budgetTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
               <h3 class="product-name">{product.name}</h3>
-              <div class="product-meta">
-                <span class="rating">{product.rating}⭐</span>
-                <span class="reviews">Based on {product.reviewCount.toLocaleString()}+ Amazon customer ratings</span>
-              </div>
+              <div class="product-meta"><span class="ai-badge">AI Analyzed</span></div>
               <ul class="pros-list">
                 {product.pros.map((pro) => (
                   <li>✅ {pro}</li>
@@ -107,8 +98,8 @@ const pageSchema = JSON.stringify({
               </div>
               <div class="cta-wrapper">
                 <a href={`https://www.amazon.com/dp/${product.asin}/ref=nosim?tag=glowpicked0c-20`} class="cta-button" target="_blank" rel="nofollow sponsored">
-                  Check Price on Amazon
-                </a>
+                  Check Price on Amazon <span class="paid-link">(affiliate link)</span>
+</a>
               </div>
             </div>
           ))}
@@ -123,10 +114,7 @@ const pageSchema = JSON.stringify({
             <div class="product-card" data-asin={product.asin}>
               {index === luxuryTopIdx && <div class="top-pick-badge">🏅 Our Top Pick</div>}
               <h3 class="product-name">{product.name}</h3>
-              <div class="product-meta">
-                <span class="rating">{product.rating}⭐</span>
-                <span class="reviews">Based on {product.reviewCount.toLocaleString()}+ Amazon customer ratings</span>
-              </div>
+              <div class="product-meta"><span class="ai-badge">AI Analyzed</span></div>
               <ul class="pros-list">
                 {product.pros.map((pro) => (
                   <li>✅ {pro}</li>
@@ -137,8 +125,8 @@ const pageSchema = JSON.stringify({
               </div>
               <div class="cta-wrapper">
                 <a href={`https://www.amazon.com/dp/${product.asin}/ref=nosim?tag=glowpicked0c-20`} class="cta-button" target="_blank" rel="nofollow sponsored">
-                  Check Price on Amazon
-                </a>
+                  Check Price on Amazon <span class="paid-link">(affiliate link)</span>
+</a>
               </div>
             </div>
           ))}
@@ -152,11 +140,7 @@ const pageSchema = JSON.stringify({
     <div class="container">
       <h2>How We Pick Products</h2>
       <p>
-        Our team uses AI tools to research popular Amazon products in each category.
-        We look at overall ratings, review volume, common praise and complaints, and value for money.
-        Products are selected based on consistent positive feedback from real customers.
-        We do not physically test products — our recommendations are based entirely on
-        published customer review data from Amazon.
+        Our AI evaluates each product using established cosmetic science and ingredient research, combined with real Amazon customer ratings and review volume. Products are scored using our GlowScore methodology — evaluating ingredient quality, safety profile, customer satisfaction, and value for money. We select the top 3 budget and top 3 luxury picks in every category.
       </p>
     </div>
   </section>
@@ -259,6 +243,9 @@ const pageSchema = JSON.stringify({
   .guide-intro { max-width: 800px; margin: 0 auto 1.5rem; font-size: 1.1rem; line-height: 1.7; color: #555; text-align: center; }
   .guide-tips { list-style: none; max-width: 800px; margin: 0 auto; }
   .guide-tips li { padding: 0.75rem 0; border-bottom: 1px solid #f0f0f0; font-size: 1rem; line-height: 1.5; color: var(--text); }
+
+  .ai-badge { background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+  .paid-link { font-size: 0.75rem; color: #999; font-weight: 400; }
 
   .top-pick-badge {
     background: linear-gradient(135deg, #ff6f00, #ff8f00);

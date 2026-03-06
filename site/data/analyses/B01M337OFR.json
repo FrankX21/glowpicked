@@ -1,0 +1,35 @@
+{
+  "asin": "B01M337OFR",
+  "glowScore": 78,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 24,
+    "safetyProfile": 14,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Probiotic Ferment",
+    "Hyaluronic Acid",
+    "Peptides"
+  ],
+  "verdict": "Heritage luxury serum with probiotic ferment technology targeting skin radiance and firmness. Formulation is reliable and well-tolerated with consistent consumer feedback, though mechanism of probiotic benefit lacks robust clinical documentation.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M337OFR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Lancôme",
+  "price": "$72",
+  "_research": {
+    "name": "Lancôme Advanced Génifique Youth Activating Serum",
+    "rating": 4.4,
+    "reviewCount": 7600,
+    "pros": [
+      "Established formula consistency",
+      "Probiotic approach",
+      "Good for all skin types"
+    ],
+    "con": "Probiotic efficacy claims lack strong clinical validation; good but not innovative.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

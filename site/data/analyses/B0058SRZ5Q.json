@@ -1,0 +1,35 @@
+{
+  "asin": "B0058SRZ5Q",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 26,
+    "safetyProfile": 14,
+    "valueForMoney": 11
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Pitera",
+    "Hyaluronic Acid",
+    "Saccharomyces Ferment"
+  ],
+  "verdict": "Cult Japanese luxury essence with proprietary Pitera ferment delivering visible brightening and smoothness. High price point reflects brand prestige and consistent consumer validation, though active ingredient concentration is modest by modern standards.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0058SRZ5Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "SK-II",
+  "price": "$99",
+  "_research": {
+    "name": "SK-II Facial Treatment Essence",
+    "rating": 4.5,
+    "reviewCount": 8900,
+    "pros": [
+      "Iconic heritage brand",
+      "Proven brightening effects",
+      "Elegant sensory profile"
+    ],
+    "con": "Very expensive for modest active ingredient concentration; largely reputation-driven pricing.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

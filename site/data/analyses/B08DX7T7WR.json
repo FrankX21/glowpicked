@@ -1,0 +1,35 @@
+{
+  "asin": "B08DX7T7WR",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 28,
+    "ingredientScience": 27,
+    "safetyProfile": 15,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "TFC8 Complex",
+    "Plant Amino Acids",
+    "Hyaluronic Acid"
+  ],
+  "verdict": "Science-backed serum leveraging proprietary TFC8 amino acid complex with demonstrated skin renewal properties. Premium but well-researched formulation delivers subtle but measurable improvements in skin barrier function and elasticity.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08DX7T7WR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Augustinus Bader",
+  "price": "$85",
+  "_research": {
+    "name": "Augustinus Bader The Rich Serum",
+    "rating": 4.4,
+    "reviewCount": 5800,
+    "pros": [
+      "Patented amino acid technology",
+      "Barrier-strengthening focus",
+      "Minimal irritation potential"
+    ],
+    "con": "Results are subtle; requires consistent use; higher price reflects research investment.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

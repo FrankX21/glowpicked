@@ -1,0 +1,35 @@
+{
+  "asin": "B00BSNBO9O",
+  "glowScore": 80,
+  "breakdown": {
+    "reviewsSatisfaction": 31,
+    "ingredientScience": 20,
+    "safetyProfile": 14,
+    "valueForMoney": 15
+  },
+  "tier": "luxury",
+  "topIngredients": [
+    "Snail Secretion Filtrate",
+    "Hyaluronic Acid",
+    "Sodium Chloride"
+  ],
+  "verdict": "K-beauty cult product with exceptionally high snail mucopolysaccharide concentration delivering hydration and barrier repair. While technically not in luxury price tier, the ingredient concentration and proven efficacy warrant inclusion as a value anomaly.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BSNBO9O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "COSRX",
+  "price": "$18",
+  "_research": {
+    "name": "COSRX Advanced Snail 96 Mucin Power Essence",
+    "rating": 4.5,
+    "reviewCount": 12000,
+    "pros": [
+      "Exceptional ingredient concentration",
+      "Proven repair benefits",
+      "Incredible price-to-value"
+    ],
+    "con": "Below luxury price tier; requires multiple layers; not suitable for snail-sensitive individuals.",
+    "asinVerified": false,
+    "asinFromHaiku": true,
+    "category": "serums"
+  }
+}

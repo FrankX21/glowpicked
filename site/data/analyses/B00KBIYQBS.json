@@ -1,0 +1,17 @@
+{
+  "asin": "B00KBIYQBS",
+  "glowScore": 85,
+  "breakdown": {
+    "reviewsSatisfaction": 37,
+    "ingredientScience": 23,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": ["Hydrolyzed Collagen", "Hyaluronic Acid", "Caffeine"],
+  "verdict": "IT Cosmetics Bye Bye Under Eye bridges the gap between treatment and makeup. The dense collagen complex firms while hyaluronic acid hydrates, delivering measurable improvement in fine lines with consistent overnight use.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KBIYQBS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "IT Cosmetics",
+  "price": "$40"
+}

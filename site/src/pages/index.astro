@@ -4,28 +4,28 @@ import Layout from '../layouts/Layout.astro';
 
 const featuredArticles = [
   {
-    title: "Best Face Moisturizers on Amazon",
-    description: "From our analysis of 200K+ reviews, we found moisturizers that consistently deliver hydration without breakouts.",
+    title: "Best Face Moisturizers 2026",
+    description: "AI ingredient analysis meets real customer insights. We found the moisturizers that actually deliver on their promises.",
     image: "/images/face-moisturizers.jpg",
     url: "/reviews/face-moisturizers",
     category: "Moisturizers",
-    rating: "Verified Data"
+    badge: "AI Analyzed"
   },
   {
     title: "Best Serums That Deliver Results",
-    description: "We analyzed 150K+ reviews to identify serums with proven results for vitamin C, hyaluronic acid, and retinol.",
+    description: "Vitamin C, hyaluronic acid, retinol — we analyzed ingredients and customer feedback to find serums that work.",
     image: "/images/serums.jpg",
     url: "/reviews/serums",
-    category: "Serums", 
-    rating: "Real Reviews"
+    category: "Serums",
+    badge: "Science-Backed"
   },
   {
     title: "Best Sunscreens Without White Cast",
-    description: "Based on 180K+ customer reviews, these sunscreens provide protection without the dreaded white residue.",
+    description: "Ingredient-first picks: broad spectrum protection with clean formulations, vetted by AI and real users.",
     image: "/images/sunscreen.jpg",
     url: "/reviews/sunscreen",
     category: "Sunscreen",
-    rating: "Data-Driven"
+    badge: "Top Rated"
   }
 ];
 
@@ -35,78 +35,78 @@ const categories = [
     description: "Daily hydration heroes",
     icon: "💧",
     url: "/reviews/face-moisturizers",
-    count: "Data-Verified"
+    tag: "Budget + Luxury"
   },
   {
     name: "Serums",
     description: "Potent actives that work",
     icon: "🧪",
     url: "/reviews/serums",
-    count: "Lab-Tested Results"
+    tag: "Budget + Luxury"
   },
   {
     name: "Sunscreen",
     description: "Invisible protection",
     icon: "☀️",
     url: "/reviews/sunscreen",
-    count: "Real-World Tested"
+    tag: "Budget + Luxury"
   },
   {
     name: "Eye Creams",
     description: "Depuff and brighten",
     icon: "👁️",
     url: "/reviews/eye-creams",
-    count: "Customer-Approved"
+    tag: "Budget + Luxury"
   },
   {
     name: "Cleansers",
     description: "Gentle deep clean",
     icon: "🧼",
     url: "/reviews/cleansers",
-    count: "Derma-Friendly"
+    tag: "Budget + Luxury"
   },
   {
     name: "Face Masks",
     description: "Instant glow treatments",
     icon: "🎭",
     url: "/reviews/face-masks",
-    count: "Results-Driven"
+    tag: "Budget + Luxury"
   },
   {
     name: "Retinol Anti-Aging",
     description: "Wrinkle fighters",
     icon: "⏳",
     url: "/reviews/retinol-anti-aging",
-    count: "Proven Formula"
+    tag: "Budget + Luxury"
   },
   {
     name: "Lip Care",
     description: "Plump and protect",
     icon: "💋",
     url: "/reviews/lip-care",
-    count: "Long-Lasting"
+    tag: "Budget + Luxury"
   },
   {
     name: "Body Care",
     description: "Silky smooth body",
     icon: "🧴",
     url: "/reviews/body-care",
-    count: "Spa-Quality"
+    tag: "Budget + Luxury"
   },
   {
     name: "Skincare Tools",
     description: "Pro-level devices",
     icon: "🛠️",
     url: "/reviews/skincare-tools",
-    count: "Professional-Grade"
+    tag: "Budget + Luxury"
   }
 ];
 ---
 
-<Layout 
-  title="GlowPicked - Honest Beauty & Skincare Reviews"
-  description="Discover the best luxury beauty and skincare products on Amazon Honest product research based on real Amazon customer reviews."
-  keywords="luxury beauty reviews, expensive skincare, Amazon beauty products, AI product reviews, premium cosmetics, high-end skincare"
+<Layout
+  title="GlowPicked - AI-Powered Beauty Intelligence"
+  description="AI ingredient analysis meets real skincare expertise. Top 3 budget and luxury picks in every beauty category, backed by science."
+  keywords="AI skincare analysis, ingredient analysis, beauty product reviews, budget skincare, luxury skincare, GlowScore"
 >
   <!-- Hero Section -->
   <section class="hero">
@@ -114,33 +114,31 @@ const categories = [
       <div class="hero-content">
         <div class="hero-text">
           <h1 class="hero-title">
-            Budget or Luxury — 
-            <span class="gradient-text">We Found the Best.</span>
+            We Don't Count Stars.
+            <span class="gradient-text">We Read the Science.</span>
           </h1>
           <p class="hero-description">
-            We've analyzed over 1.55 million real Amazon customer reviews across 58 premium beauty products to find what actually works.
+            AI-powered ingredient analysis meets real customer insights. We break down every formula to find what actually works — for every budget.
           </p>
           <div class="hero-stats">
             <div class="stat">
-              <span class="stat-number">1.55M+</span>
-              <span class="stat-label">Reviews Analyzed</span>
+              <span class="stat-number">Top 3</span>
+              <span class="stat-label">Budget Under $30</span>
             </div>
             <div class="stat">
-              <span class="stat-number">58</span>
-              <span class="stat-label">Products Studied</span>
+              <span class="stat-number">Top 3</span>
+              <span class="stat-label">Luxury Over $50</span>
             </div>
             <div class="stat">
-              <span class="stat-number">4.5/5</span>
-              <span class="stat-label">Average Rating</span>
+              <span class="stat-number">10</span>
+              <span class="stat-label">Categories</span>
             </div>
           </div>
           <div class="hero-cta">
-            <a href="/reviews/" class="btn-primary">Browse Reviews</a>
-            <a href="/about" class="btn-secondary">How It Works</a>
+            <a href="/reviews/" class="btn-primary">Explore Categories</a>
+            <a href="/about" class="btn-secondary">How GlowScore Works</a>
           </div>
         </div>
-        <!-- hero image removed, text-focused -->
-
       </div>
     </div>
   </section>
@@ -149,8 +147,8 @@ const categories = [
   <section id="featured" class="featured-section">
     <div class="container">
       <div class="section-header">
-        <h2 class="section-title">Featured Category Reviews</h2>
-        <p class="section-subtitle">Based on our 1.55M+ review analysis</p>
+        <h2 class="section-title">Featured Categories</h2>
+        <p class="section-subtitle">AI ingredient analysis + real customer insights</p>
       </div>
       <div class="articles-grid">
         {featuredArticles.map((article) => (
@@ -159,8 +157,7 @@ const categories = [
               <img src={article.image} alt={article.title} width="400" height="250" loading="lazy" />
               <div class="article-category">{article.category}</div>
               <div class="article-rating">
-                <span class="rating-star">⭐</span>
-                <span class="rating-text">{article.rating}</span>
+                <span class="rating-text">{article.badge}</span>
               </div>
             </div>
             <div class="article-content">
@@ -168,7 +165,7 @@ const categories = [
                 <a href={article.url}>{article.title}</a>
               </h3>
               <p class="article-description">{article.description}</p>
-              <a href={article.url} class="article-link">Read Full Review →</a>
+              <a href={article.url} class="article-link">See Our Picks →</a>
             </div>
           </article>
         ))}
@@ -189,26 +186,51 @@ const categories = [
             <div class="category-icon">{category.icon}</div>
             <h3 class="category-name">{category.name}</h3>
             <p class="category-description">{category.description}</p>
-            <span class="category-count">{category.count}</span>
+            <span class="category-count">{category.tag}</span>
           </a>
         ))}
       </div>
     </div>
   </section>
 
-  <!-- Keep other sections: trust, why, newsletter as is -->
-  <section class="trust-section">
+  <!-- How GlowScore Works -->
+  <section class="glowscore-section">
     <div class="container">
-      <div class="trust-content">
-        <p class="trust-text">
-          <strong>100% Transparent:</strong> Every rating and recommendation is based on verified Amazon customer reviews. 
-          We've analyzed exactly 1,552,000 reviews across 58 products—no invented numbers, no sponsored rankings.
-        </p>
+      <div class="section-header">
+        <h2 class="section-title">How GlowScore Works</h2>
+        <p class="section-subtitle">Our AI-powered methodology in 3 steps</p>
+      </div>
+      <div class="glowscore-steps">
+        <div class="step">
+          <div class="step-number">1</div>
+          <h3>Ingredient Analysis</h3>
+          <p>Our AI breaks down every formula — active ingredients, concentrations, and their known effects based on established cosmetic science.</p>
+        </div>
+        <div class="step">
+          <div class="step-number">2</div>
+          <h3>Customer Insights</h3>
+          <p>We analyze hundreds of real customer experiences to identify what works, for whom, and what to watch out for.</p>
+        </div>
+        <div class="step">
+          <div class="step-number">3</div>
+          <h3>GlowScore Rating</h3>
+          <p>Our proprietary score combines ingredient science, customer satisfaction, safety profile, and value — all on a clear /100 scale.</p>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- Why section, newsletter etc. remain the same, omitted for brevity -->
+  <!-- Trust Section -->
+  <section class="trust-section">
+    <div class="container">
+      <div class="trust-content">
+        <p class="trust-text">
+          <strong>Zero Bias:</strong> No sponsored rankings. No paid placements. Just science and real customer experiences.
+          Every product is evaluated by our AI on ingredients, safety, and value — the same way for every brand.
+        </p>
+      </div>
+    </div>
+  </section>
 </Layout>
 
 <style>
@@ -480,6 +502,48 @@ const categories = [
     font-weight: 600;
   }
 
+  /* GlowScore Steps */
+  .glowscore-section {
+    padding: 5rem 0;
+    background: white;
+  }
+  .glowscore-steps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .step {
+    text-align: center;
+    padding: 2rem 1.5rem;
+  }
+  .step-number {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #e91e63, #9c27b0);
+    color: white;
+    font-size: 1.4rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1rem;
+  }
+  .step h3 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 0.75rem;
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+  .step p {
+    font-size: 0.95rem;
+    color: #666;
+    line-height: 1.6;
+  }
+
   /* Trust */
   .trust-section {
     padding: 3rem 0;
@@ -514,14 +578,15 @@ const categories = [
       justify-content: center;
       flex-wrap: wrap;
     }
-    .hero-image img {
-      max-width: 100%;
-    }
     .articles-grid {
       grid-template-columns: 1fr;
     }
     .categories-grid {
       grid-template-columns: repeat(2, 1fr);
+    }
+    .glowscore-steps {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
     }
     .container {
       padding: 0 1rem;

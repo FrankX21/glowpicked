@@ -1,0 +1,17 @@
+{
+  "asin": "B00J455CKK",
+  "glowScore": 84,
+  "breakdown": {
+    "reviewsSatisfaction": 35,
+    "ingredientScience": 24,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": ["Japanese Rice Bran", "Papain Enzyme", "Silica"],
+  "verdict": "Tatcha's Rice Polish is a unique enzyme powder cleanser inspired by Japanese geisha beauty rituals. Rice bran brightens while papain gently exfoliates — the result is a smoother, more radiant complexion after every wash.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J455CKK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Tatcha",
+  "price": "$65"
+}

@@ -1,0 +1,17 @@
+{
+  "asin": "B07MNPFQ59",
+  "glowScore": 82,
+  "breakdown": {
+    "reviewsSatisfaction": 35,
+    "ingredientScience": 22,
+    "safetyProfile": 13,
+    "valueForMoney": 12
+  },
+  "tier": "luxury",
+  "topIngredients": ["Vitamin C (THD Ascorbate)", "Banana Powder", "Peptide Complex"],
+  "verdict": "Ole Henriksen's Banana Bright Eye Crème combines instant brightening (banana powder) with long-term correction (Vitamin C). The THD ascorbate form of Vitamin C is stable and penetrates skin effectively — a smart formulation choice for an eye cream.",
+  "glowAiTopPick": false,
+  "imageUrl": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07MNPFQ59&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=glowpicked0c-20&language=en_US",
+  "brand": "Ole Henriksen",
+  "price": "$45"
+}
