@@ -5,56 +5,66 @@ import { getGlowScore, getTopPickIndex, getScoreGradient } from '../../utils/glo
 const productDefs = {
   budget: [
     {
-      name: "CeraVe Vitamin C Serum",
-      asin: "B07PNCCLD2",
+      name: "The Ordinary Hyaluronic Acid 2% + B5",
+      asin: "B076NPF4D6",
       pros: [
-        "Stable vitamin C brightens skin",
-        "Hyaluronic acid adds hydration",
-        "Gentle for daily use"
+        "Dual molecular weight HA for multi-layer hydration",
+        "Panthenol strengthens skin barrier",
+        "Lightweight, non-sticky texture"
       ],
-      con: "Light citrus scent"
+      con: "Requires layering with an occlusive in dry climates"
     },
     {
-      name: "The Ordinary Hyaluronic Acid 2% + B5",
-      asin: "B01MYEZPC8",
+      name: "Paula's Choice 10% Niacinamide Booster",
+      asin: "B00QJ4GE6A",
       pros: [
-        "Multi-molecular weight HA",
-        "Affordable high performance",
-        "Improves skin plumpness"
+        "High 10% niacinamide minimizes pores and dark spots",
+        "Research-backed, fragrance-free formulation",
+        "Versatile for all skin types including sensitive"
       ],
-      con: "Sticky if over-applied"
+      con: "Premium pricing for a budget-tier category"
+    },
+    {
+      name: "The Ordinary Squalane",
+      asin: "B076NKNMJD",
+      pros: [
+        "Plant-derived squalane perfectly mimics skin lipids",
+        "Non-comedogenic and hypoallergenic",
+        "Excellent barrier-sealing occlusive layer"
+      ],
+      con: "Oil-only; must layer over hydrating serums"
     }
   ],
   luxury: [
     {
-      name: "RoC Retinol Correxion Deep Wrinkle Serum",
-      asin: "B00387F42G",
+      name: "SkinCeuticals C E Ferulic Serum",
+      asin: "B00JMKNHP4",
       pros: [
-        "Pure retinol smooths wrinkles",
-        "Clinical results in weeks",
-        "Gentle for retinol beginners"
+        "Gold standard antioxidant — 15% L-ascorbic acid + vitamin E + ferulic",
+        "Clinically proven to neutralize free radicals",
+        "Stabilized formula for maximum potency"
       ],
-      con: "Requires nighttime use"
+      con: "Very expensive; requires careful storage away from light and heat"
     },
     {
-      name: "The Ordinary Resveratrol 3% + Ferulic Acid 3%",
-      asin: "B00VK5SERU",
+      name: "Lancôme Advanced Génifique Youth Activating Serum",
+      asin: "B01MTUCAHY",
       pros: [
-        "Antioxidant protection against aging",
-        "Ferulic acid boosts stability",
-        "Brightens and firms skin"
+        "Probiotic ferment technology strengthens skin microbiome",
+        "Visible smoothing and radiance in 7 days",
+        "Lightweight texture layers under any moisturizer"
       ],
-      con: "May cause irritation"
+      con: "Complex fermentation base may cause sensitivity in acne-prone skin"
     },
     {
-      name: "The Ordinary Magnesium Ascorbyl Phosphate 10%",
-      asin: "B0B2TKJVDH",
+      name: "SK-II Facial Treatment Essence",
+      asin: "B075F5TZRY",
       pros: [
-        "Stable vitamin C derivative",
-        "Brightens hyperpigmentation",
-        "Gentle on sensitive skin"
+        "Pitera™ complex — 90%+ fermented sake yeast extract",
+        "Improves skin texture and luminosity",
+        "Iconic Japanese luxury beauty staple"
       ],
-      con: "Results take time"
+      con: "Yeast-derived formula may not suit those with fermentation sensitivities"
     }
   ]
 };
@@ -83,7 +93,7 @@ const pageSchema = JSON.stringify({
   "@type": "ItemList",
   "name": "Best Serums 2026 - Budget & Luxury Picks",
   "description": "AI-analyzed ingredient science for top serums",
-  "numberOfItems": 5,
+  "numberOfItems": 6,
   "itemListElement": schemaItems
 });
 ---
