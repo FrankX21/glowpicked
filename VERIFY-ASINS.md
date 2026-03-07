@@ -14,35 +14,35 @@ sur la page Amazon du produit (scripts/amazon-importer/setup.html).
 
 ## Produits à vérifier
 
-| # | Produit | ASIN actuel | Page | Status |
-|---|---------|-------------|------|--------|
-| 1 | Fresh Soy Face Cleanser | B002PNPAFQ | cleansers.astro (luxury) | ⬜ À vérifier |
-| 2 | Tatcha The Rice Polish Foaming Enzyme Powder | B00J455CKK | cleansers.astro (luxury) | ⬜ À vérifier |
-| 3 | Kiehl's Creamy Eye Treatment with Avocado | B000NZFPLM | eye-creams.astro (luxury) | ⬜ À vérifier |
-| 4 | IT Cosmetics Bye Bye Under Eye Eye Cream | B00KBIYQBS | eye-creams.astro (luxury) | ⬜ À vérifier |
-| 5 | Ole Henriksen Banana Bright Eye Crème | B07MNPFQ59 | eye-creams.astro (luxury) | ⬜ À vérifier |
-| 6 | Augustinus Bader The Rich Body Cream | B07Z8P3R9L | body-care.astro (luxury) | ⬜ À vérifier |
-| 7 | Jo Malone English Oak & Hazelnut Body Cream | B01NBRDXSL | body-care.astro (luxury) | ⬜ À vérifier |
-| 8 | La Roche-Posay Cicaplast Balm B5 Body | B071XHNZPJ | body-care.astro (luxury) | ⬜ À vérifier |
-| 9 | SkinCeuticals C E Ferulic Serum | B00JMKNHP4 | serums.astro (luxury) | ⬜ À vérifier |
-| 10 | Lancôme Advanced Génifique Youth Activating Serum | B01MTUCAHY | serums.astro (luxury) | ⬜ À vérifier |
-| 11 | SK-II Facial Treatment Essence | B075F5TZRY | serums.astro (luxury) | ⬜ À vérifier |
-| 12 | Medik8 Retinol 0.3% + TR Serum | B086DLMJPX | retinol-anti-aging.astro (luxury) | ⬜ À vérifier |
-| 13 | Kiehl's Retinol Skin-Renewing Serum | B00JZVFG1Q | retinol-anti-aging.astro (luxury) | ⬜ À vérifier |
-| 14 | SkinCeuticals Retinol 0.3 Night Cream | B07NSJNJY8 | retinol-anti-aging.astro (luxury) | ⬜ À vérifier |
-| 15 | Kiehl's Lip Balm #1 | B00E3YJHGY | lip-care.astro (luxury) | ⬜ À vérifier |
-| 16 | Drunk Elephant Lippe Balm | B07MQVQHPV | lip-care.astro (luxury) | ⬜ À vérifier |
-| 17 | Fresh Sugar Advanced Therapy Lip Treatment | B00VHFWG9Y | lip-care.astro (luxury) | ⬜ À vérifier |
+| # | Produit | ASIN original | ASIN corrigé | Page | Status |
+|---|---------|---------------|--------------|------|--------|
+| 1 | Fresh Soy Face Cleanser | B002PNPAFQ | B00AU9EBTC | cleansers.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 2 | Tatcha The Rice Polish | B00J455CKK | B092MTC96K | cleansers.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 3 | Kiehl's Creamy Eye Treatment | B000NZFPLM | B000S97MAY | eye-creams.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 4 | IT Cosmetics Bye Bye Under Eye | B00KBIYQBS | B01MXW3T2Y | eye-creams.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 5 | Ole Henriksen Banana Bright | B07MNPFQ59 | B0BW7V1QBL | eye-creams.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 6 | Augustinus Bader Body Cream | B07Z8P3R9L | Remplacé par Kiehl's Creme de Corps B000S97MUY | body-care.astro (luxury) | ✅ Remplacé 2026-03-07 |
+| 7 | Jo Malone Body Cream | B01NBRDXSL | Remplacé par L'Occitane Shea Butter B09JZRX753 | body-care.astro (luxury) | ✅ Remplacé 2026-03-07 |
+| 8 | La Roche-Posay Cicaplast B5 | B071XHNZPJ | B0F6CH7BQ1 | body-care.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 9 | SkinCeuticals C E Ferulic | B00JMKNHP4 | B01HJTA77A | serums.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 10 | Lancôme Advanced Génifique | B01MTUCAHY | Remplacé par Estée Lauder ANR B08DHQCGH9 | serums.astro (luxury) | ✅ Remplacé 2026-03-07 |
+| 11 | SK-II Facial Treatment Essence | B075F5TZRY | B000H723LU | serums.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 12 | Medik8 Retinol 0.3% | B086DLMJPX | Remplacé par Drunk Elephant A-Passioni B08TGGGZM5 | retinol-anti-aging.astro (luxury) | ✅ Remplacé 2026-03-07 |
+| 13 | Kiehl's Retinol Serum | B00JZVFG1Q | Remplacé par Paula's Choice 1% Retinol B00L5O2ZXK | retinol-anti-aging.astro (luxury) | ✅ Remplacé 2026-03-07 |
+| 14 | SkinCeuticals Retinol 0.3 | B07NSJNJY8 | Remplacé par Sunday Riley A+ B0B7JT39KP | retinol-anti-aging.astro (luxury) | ✅ Remplacé 2026-03-07 |
+| 15 | Kiehl's Lip Balm #1 | B00E3YJHGY | B00GSH0KR2 | lip-care.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 16 | Drunk Elephant Lippe Balm | B07MQVQHPV | B0CN3QNN3T | lip-care.astro (luxury) | ✅ Corrigé 2026-03-07 |
+| 17 | Fresh Sugar Lip Treatment | B00VHFWG9Y | B0B69CMXRB | lip-care.astro (luxury) | ✅ Corrigé 2026-03-07 |
 
 ---
 
-## Si l'ASIN est incorrect
-1. Récupère le bon ASIN via le bookmarklet
-2. Mets à jour dans la page `.astro` concernée
-3. Mets à jour le fichier `site/data/analyses/ASIN.json` (renommer + corriger le champ asin)
-4. Lance `npm run build` dans `site/`
-5. Coche ✅ dans ce fichier
+## Résultat
+
+**17/17 ASINs vérifiés et corrigés le 2026-03-07.**
+
+Méthode utilisée : navigation directe Amazon via Chrome + WebSearch pour trouver les bons ASINs.
+Build Astro validé (16 pages, 514ms) avant commit.
 
 ---
 
-*Créé le 2026-03-06*
+*Créé le 2026-03-06 | Complété le 2026-03-07*
